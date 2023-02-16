@@ -1,0 +1,11 @@
+/* eslint-disable */
+
+var icon = require('vue-svgicon')
+icon.register({
+  'download-network': {
+    width: 24,
+    height: 24,
+    viewBox: '0 0 24 24',
+    data: `<path pid="0" d="M17 3c1.1 0 2 .9 2 2v10c0 1.1-.9 2-2 2h-4v2h1c.55 0 1 .45 1 1h7v2h-7c0 .55-.45 1-1 1h-4c-.55 0-1-.45-1-1H2v-2h7c0-.55.45-1 1-1h1v-2H7a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h10m-5 11.5l4.5-4.5H13V6h-2v4H7.5l4.5 4.5z"/>`
+  }
+})

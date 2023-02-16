@@ -1,0 +1,58 @@
+- 5.0.17
+    - Fixed auto identification due to incorrect CurrentHostname resolving.
+- 5.0.16
+    - Squashed some minor typography issues.
+    - Updating event for website now triggers services to rebuild.
+- 5.0.15
+    - Added an artisan command `tenancy:restore` that restores tenant database/schemas/user/password given that the system database is intact.
+- 5.0.14
+    - Added ability to identify the tenant early, see tenancy.php > hostname > early-identification.
+    - Ability to make Jobs tenant aware by applying the TenantAwareJob trait, which replaces the SerializesModels trait.
+    - Some minor fixes and house keeping.
+- 5.0.13
+    - Fixed issue with overriding configs from tenant directories.
+    - Fixed missing import for Process class in Nginx generator.
+    - Running tests under production allows us to test migrations to be working.
+- 5.0.12
+    - Re-added deprecated migration name to prevent issues on existing installations.
+- 5.0.11
+    - Fixed running the migrations.
+- 5.0.10
+    - #306, dropped tenant-migration connection for seeding and migrations.
+    - Clean up of code in TenancyProvider and other files.
+    - #307, undo auto publishing of migrations.
+- 5.0.9
+    - Fixed issue where webserver process wasn't restarted.
+    - Fixed link in readme to packagist.
+    - Fixed relation for Customer.
+- 5.0.8
+    - Facade "Tenancy" resolving the Environment class added.
+- 5.0.7
+    - Allowing to configure the system models.
+    - Now no longer able to run migrations without --path, --realpath or 'tenancy.db.tenant-migrations-path' configuration.
+    - Set a default for 'tenancy.db.tenant-migrations-path' to point to 'database/migrations/tenant'.
+- 5.0.6
+    - Fixed code coverage.
+    - Moved logic to set Eloquent model connection to traits.
+    - Refactored some calls to use Symfony Process.
+    - Added warning about absolute path for tenant-migrations-path.
+- 5.0.5
+    - Moved to CircleCI for CI, now fully separated from GitLab.
+    - Improved validation of hostnames by allowing nullables.
+    - #284, fixed validation issue when updating hostname or website.
+    - Fixed maintenance mode in HostnameActions middleware.
+- 5.0.4
+    - Flushing cache whenever hostname fqdn or website uuid changes.
+- 5.0.3
+    - Added seed command and auto seeding of newly auto-migrated tenants.
+    - Added more strict validation.
+    - Added script to clean tenant and tenancy databases while running local tests.
+    - Fixed an issue with nginx where the media folder was incorrectly mapped.
+    - Fixed issue where tenant hostname was identified using the wrong header.
+- 5.0.2
+    - #262, allows using the tenant disk.
+    - #260, triggering events in case tenant directories are mutated.
+- 5.0.1
+    - Added initial Nginx support.
+    - Added MySQL database support, set tenancy > website > uuid-limit-length-to-32.
+- 5.0.0
