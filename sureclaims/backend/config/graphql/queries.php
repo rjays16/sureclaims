@@ -1,0 +1,26 @@
+<?php
+
+return [
+    \App\GraphQL\Query\CaseRatesQuery::class,
+    \App\GraphQL\Query\ClaimQuery::class,
+    \App\GraphQL\Query\ClaimsQuery::class,
+    \App\GraphQL\Query\CurrentUserQuery::class,
+    \App\GraphQL\Query\DoctorsQuery::class,
+    \App\GraphQL\Query\EligibilitiesQuery::class,
+    \App\GraphQL\Query\EmployersQuery::class,
+    \App\GraphQL\Query\HcisQuery::class,
+    \App\GraphQL\Query\IcdCodesQuery::class,
+    \App\GraphQL\Query\LatestClaimNumberQuery::class,
+    \App\GraphQL\Query\LookupTypesQuery::class,
+    \App\GraphQL\Query\MembersPageQuery::class,
+    \App\GraphQL\Query\PersonQuery::class,
+    \App\GraphQL\Query\PersonsPageQuery::class,
+    \App\GraphQL\Query\PersonsQuery::class,
+    \App\GraphQL\Query\ReturnDocumentsQuery::class,
+    \App\GraphQL\Query\RvsCodesQuery::class,
+    \App\GraphQL\Query\SecondCaseRatesQuery::class,
+    \App\GraphQL\Query\SupportingDocumentsQuery::class,
+    \App\GraphQL\Query\TransmittalsQuery::class,
+    \App\GraphQL\Query\ReturnDocumentsQuery::class,
+    \App\GraphQL\Query\ClaimStatusDetailQuery::class,
+];

@@ -1,0 +1,12 @@
+fragment SupportingDocumentData on SupportingDocument {
+  id
+  patientId
+  claimId
+  storageUid
+  publicPath
+  documentType
+  fileName
+  fileSize
+  hash
+  encryptedHash
+}

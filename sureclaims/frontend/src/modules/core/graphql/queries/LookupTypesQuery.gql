@@ -1,0 +1,12 @@
+query LookupTypes(
+  $domain: String
+) {
+  lookupTypes (
+    domain: $domain
+  ) {
+    id
+    domain
+    type
+    value
+  }
+}

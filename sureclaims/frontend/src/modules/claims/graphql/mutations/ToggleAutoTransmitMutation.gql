@@ -1,0 +1,13 @@
+#import "../fragments/TransmittalDataFragment.gql"
+
+mutation ToggleAutoTransmit(
+  $id: ID!
+  $toggle: Boolean!
+) {
+  toggleAutoTransmit(
+    id: $id
+    toggle: $toggle
+  ) {
+    ...TransmittalData
+  }
+}

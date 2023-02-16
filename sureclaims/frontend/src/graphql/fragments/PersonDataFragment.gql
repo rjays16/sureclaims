@@ -1,0 +1,14 @@
+fragment PersonData on Person {
+  id
+  lastName
+  firstName
+  middleName
+  birthDate
+  suffix
+  sex
+  emailAddress
+  mailingAddress
+  zipCode
+  landLineNo
+  mobileNo
+}

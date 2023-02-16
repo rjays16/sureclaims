@@ -1,0 +1,16 @@
+#import "@/modules/core/graphql/fragments/PrincipalDataFragment.gql"
+
+fragment MemberData on Member {
+  id
+  pin
+  membershipType
+  pen
+  employerName
+  createdAt
+  updatedAt
+  relation
+  principalId
+  principal {
+    ...PrincipalData
+  }
+}

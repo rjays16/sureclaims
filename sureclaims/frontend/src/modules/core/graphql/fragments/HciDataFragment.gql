@@ -1,0 +1,8 @@
+fragment HciData on Hci {
+  id
+  accreditationCode
+  pmccNo
+  hospitalName
+  createdAt
+  updatedAt
+}

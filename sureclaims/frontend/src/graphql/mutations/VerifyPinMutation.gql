@@ -1,0 +1,15 @@
+mutation  VerifyPin(
+  $pMemberLastName: String!
+  $pMemberFirstName: String!
+  $pMemberMiddleName: String!
+  $pMemberSuffix: String
+  $pMemberBirthDate: String!
+) {
+  verifyPin(
+    pMemberLastName: $pMemberLastName
+    pMemberFirstName: $pMemberFirstName
+    pMemberMiddleName: $pMemberMiddleName
+    pMemberSuffix: $pMemberSuffix
+    pMemberBirthDate: $pMemberBirthDate
+  )
+}

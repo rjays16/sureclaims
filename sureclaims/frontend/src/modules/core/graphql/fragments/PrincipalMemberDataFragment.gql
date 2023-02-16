@@ -1,0 +1,11 @@
+fragment PrincipalMemberData on Member {
+  id
+  pin
+  membershipType
+  pen
+  employerName
+  createdAt
+  updatedAt
+  relation
+  principalId
+}

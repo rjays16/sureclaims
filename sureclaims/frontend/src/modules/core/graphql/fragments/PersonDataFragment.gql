@@ -1,0 +1,21 @@
+#import "@/modules/core/graphql/fragments/MemberDataFragment.gql"
+
+fragment PersonData on Person {
+  id
+  lastName
+  firstName
+  middleName
+  birthDate
+  suffix
+  sex
+  mailingAddress
+  emailAddress
+  zipCode
+  landLineNo
+  mobileNo
+  createdAt
+  updatedAt
+  member {
+    ...MemberData
+  }
+}

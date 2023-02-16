@@ -1,0 +1,15 @@
+#import "@/modules/claims/graphql/fragments/ClaimStatusDetailDataFragment.gql"
+
+query ClaimStatusDetail(
+  $claim: String
+  $patient: String
+) {
+  claimStatusDetail(
+    claim: $claim
+    patient: $patient
+  ) {
+    claimStatusDetail {
+      ...ClaimStatusDetailData
+    }
+  }
+}

@@ -1,0 +1,21 @@
+#import "@/modules/core/graphql/fragments/PaginationFragment.gql"
+#import "@/modules/core/graphql/fragments/PersonDataFragment.gql"
+
+query PersonsPage(
+  $name: String
+  $page: Int
+  $pageSize: Int
+) {
+  personsPage(
+    name: $name
+    page: $page
+    pageSize: $pageSize
+  ) {
+    persons {
+      ...PersonData
+    }
+    pageInfo {
+      ...Pagination
+    }
+  }
+}

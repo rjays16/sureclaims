@@ -1,0 +1,29 @@
+#import "@/modules/core/graphql/fragments/PaginationFragment.gql"
+#import "@/modules/claims/graphql/fragments/ClaimDataFragment.gql"
+
+query Claims(
+  $name: String,
+  $claimNo: String,
+  $page: Int,
+  $status: String,
+  $pageSize: Int,
+  $isAttached: Boolean,
+  $transmittal: ID
+) {
+  claims(
+    name: $name
+    claimNo: $claimNo
+    page: $page
+    status: $status
+    pageSize: $pageSize
+    isAttached: $isAttached
+    transmittal: $transmittal
+  ) {
+    claims {
+      ...ClaimData
+    }
+    pageInfo {
+      ...Pagination
+    }
+  }
+}

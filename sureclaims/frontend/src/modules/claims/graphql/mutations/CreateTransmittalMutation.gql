@@ -1,0 +1,19 @@
+#import "../fragments/TransmittalDataFragment.gql"
+#import "../fragments/ClaimDataFragment.gql"
+
+mutation CreateTransmittal(
+  $transmittalNo: String!
+  $notes: String
+  $claims: [ID!]
+) {
+  createTransmittal(
+    transmittalNo: $transmittalNo
+    notes: $notes
+    claims: $claims
+  ) {
+    ...TransmittalData
+    claims {
+      ...ClaimData
+    }
+  }
+}

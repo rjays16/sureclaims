@@ -1,0 +1,11 @@
+#import "../fragments/ClaimDataFragment.gql"
+
+mutation DeleteClaim(
+  $id: ID!
+) {
+  deleteClaim(
+    id: $id
+  ) {
+    ...ClaimData
+  }
+}

@@ -1,0 +1,11 @@
+#import "../fragments/TransmittalDataFragment.gql"
+
+mutation DeleteTransmittal(
+  $id: ID!
+) {
+  deleteTransmittal(
+    id: $id
+  ) {
+    ...TransmittalData
+  }
+}

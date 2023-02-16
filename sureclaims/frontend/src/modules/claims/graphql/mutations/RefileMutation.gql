@@ -1,0 +1,13 @@
+mutation Refile(
+  $id: ID!
+  $lhioSeriesNo: String!
+  $returnDocuments: String!
+  $supportingDocuments: String!
+) {
+  refile(
+    id: $id
+    lhioSeriesNo: $lhioSeriesNo
+    returnDocuments: $returnDocuments
+    supportingDocuments: $supportingDocuments
+  )
+}

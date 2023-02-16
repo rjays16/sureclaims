@@ -1,0 +1,397 @@
+<CLAIM
+    pClaimNumber="123456-20160930-2"
+    pTrackingNumber=""
+    pPhilhealthClaimType="ALL-CASE-RATE"
+    pPatientType="I"
+    pIsEmergency="N">
+  <CF1
+      pMemberPIN="072007271094"
+      pMemberLastName="DELA CRUZ"
+      pMemberFirstName="JUAN"
+      pMemberSuffix=""
+      pMemberMiddleName="OCAMPO"
+      pMemberBirthDate="09-19-1973"
+      pMemberShipType="G"
+      pMailingAddress="PHILIPPINES"
+      pZipCode="1234"
+      pMemberSex="M"
+      pLandlineNo=""
+      pMobileNo=""
+      pEmailAddress="delacruzjuan@yahoo.com.ph"
+      pPatientIs="M"
+      pPatientPIN="072007271094"
+      pPatientLastName="DELA CRUZ"
+      pPatientFirstName="JUAN"
+      pPatientSuffix=""
+      pPatientMiddleName="OCAMPO"
+      pPatientBirthDate="09-19-1973"
+      pPatientSex="M"
+      pPEN="11-047400000-2"
+      pEmployerName="PHILHEALTH"/>
+  <CF2
+      pPatientReferred="Y"
+      pReferredIHCPAccreCode="H12345678"
+      pAdmissionDate="09-01-2016"
+      pAdmissionTime="01:00:00PM"
+      pDischargeDate="09-03-2016"
+      pDischargeTime="03:00:00PM"
+      pDisposition="I"
+      pExpiredDate=""
+      pExpiredTime=""
+      pReferralIHCPAccreCode=""
+      pReferralReasons=""
+      pAccommodationType="N"
+      pHasAttachedSOA="Y">
+    <DIAGNOSIS
+        pAdmissionDiagnosis="PNEUMONIA">
+      <DISCHARGE
+          pDischargeDiagnosis="END STAGE RENAL DISEASE">
+        <ICDCODE pICDCode="O13.012"/>
+        <ICDCODE pICDCode="O13.013"/>
+        <RVSCODES
+            pRelatedProcedure="HEMODIALYSIS"
+            pRVSCode="90935"
+            pProcedureDate="08-26-2009"
+            pLaterality="L"/>
+      </DISCHARGE>
+      <DISCHARGE
+          pDischargeDiagnosis="DENGUE">
+        <ICDCODE pICDCode="A90.0"/>
+      </DISCHARGE>
+    </DIAGNOSIS>
+    <SPECIAL>
+      <!-- For Repetitive Procedures -->
+      <PROCEDURES>
+        <HEMODIALYSIS>
+          <SESSIONS pSessionDate="08-25-2009"/>
+          <SESSIONS pSessionDate="08-26-2009"/>
+        </HEMODIALYSIS>
+        <CHEMOTHERAPY>
+          <SESSIONS pSessionDate="08-27-2009"/>
+        </CHEMOTHERAPY>
+      </PROCEDURES>
+      <!-- For MCP Package -->
+      <!--MCP
+          pCheckUpDate1="08-25-2009"
+          pCheckUpDate2="08-26-2009"
+          pCheckUpDate3="08-27-2009"
+          pCheckUpDate4="08-28-2009"/-->
+      <!-- For TB DOTS Package -->
+      <!--TBDOTS
+          pTBType="I"
+          pNTPCardNo=""/-->
+      <!-- For Animal Bite Package -->
+      <!--ABP
+          pDay0ARV="08-25-2009"
+          pDay3ARV="08-25-2009"
+          pDay7ARV="08-25-2009"
+          pRIG="08-25-2009"
+          pABPOthers=""
+          pABPSpecify=""/-->
+      <!-- For Newborn Care Package -->
+      <!--NCP
+          pEssentialNewbornCare="Y"
+          pNewbornHearingScreeningTest="N"
+          pNewbornScreeningTest="N"
+          pFilterCardNo="">
+          <ESSENTIAL
+              pDrying="Y"
+              pSkinToSkin="Y"
+              pCordClamping="Y"
+              pProphylaxis="Y"
+              pWeighing="Y"
+              pVitaminK="Y"
+              pBCG="Y"
+              pNonSeparation="Y"
+              pHepatitisB="Y"/>
+      </NCP-->
+      <!-- For Outpatient HIV/AIDS Treatment Package -->
+      <!--HIVAIDS
+              pLaboratoryNumber=""/-->
+      <!--CATARACTINFO
+              pCataractPreAuth=""
+              pLeftEyeIOLStickerNumber=""
+              pLeftEyeIOLExpiryDate=""
+              pRightEyeIOLStickerNumber=""
+              pRightEyeIOLExpiryDate=""/-->
+    </SPECIAL>
+    <PROFESSIONALS
+        pDoctorAccreCode="1234-1527066-1"
+        pDoctorLastName="TEST2"
+        pDoctorFirstName="TEST2"
+        pDoctorMiddleName="TEST2"
+        pDoctorSuffix=""
+        pWithCoPay="Y"
+        pDoctorCoPay="1000"
+        pDoctorSignDate="08-25-2009"/>
+    <CONSUMPTION
+        pEnoughBenefits="Y">
+      <!-- if pEnoughBenefits="Y"-->
+      <BENEFITS
+          pTotalHCIFees="1000"
+          pTotalProfFees="1000"
+          pGrandTotal="2000"/>
+      <!-- if pEnoughBenefits="N"-->
+      <!--
+      <HCIFEES
+          pTotalActualCharges="2000"
+          pDiscount="1800"
+          pPhilhealthBenefit="1500"
+          pTotalAmount="300"
+          pMemberPatient="Y"
+          pHMO="N"
+          pOthers="N"/>
+      <PROFFEES
+          pTotalActualCharges="3000"
+          pDiscount="2500"
+          pPhilhealthBenefit="1500"
+          pTotalAmount="1000"
+          pMemberPatient="Y"
+          pHMO="Y"
+          pOthers="N"/>
+      <PURCHASES
+          pDrugsMedicinesSupplies="Y"
+          pDMSTotalAmount="1000"
+          pExaminations="N"
+          pExamTotalAmount=""/>
+      -->
+    </CONSUMPTION>
+    <APR>
+      <APRBYPATREPSIG pDateSigned="08-26-2009">
+        <DEFINEDPATREPREL pRelCode="S" />
+        <OTHERREASONFORSIGNING pReasonDesc="MEMBER IS MISSING" />
+      </APRBYPATREPSIG>
+    </APR>
+  </CF2>
+  <!-- pPhilhealthClaimType="ALL-CASE-RATE" -->
+  <ALLCASERATE>
+    <CASERATE
+        pCaseRateCode="CR0001"
+        pICDCode="A90"
+        pRVSCode=""
+        pCaseRateAmount="10000"/>
+    <CASERATE
+        pCaseRateCode="CR0002"
+        pICDCode=""
+        pRVSCode="90935"
+        pCaseRateAmount="2600"/>
+  </ALLCASERATE>
+  <!-- pPhilhealthClaimType="Z-BENEFIT" -->
+  <!--ZBENEFIT
+      pZBenefitCode="Z0011">
+  </ZBENEFIT-->
+  <CF3>
+    <CF3_OLD
+        pChiefComplaint=""
+        pBriefHistory=""
+        pCourseWard=""
+        pPertinentFindings="">
+      <PHEX
+          pBP=""
+          pCR=""
+          pRR=""
+          pTemp=""
+          pHEENT=""
+          pChestLungs=""
+          pCVS=""
+          pAbdomen=""
+          pGUIE=""
+          pSkinExtremities=""
+          pNeuroExam=""/>
+      <MATERNITY>
+        <PRENATAL
+            pPrenatalConsultation="08-26-2009"
+            pMCPOrientation="Y"
+            pExpectedDeliveryDate="08-26-2009">
+          <CLINICALHIST
+              pVitalSigns="Y"
+              pPregnancyLowRisk="Y"
+              pLMP="08-26-2009"
+              pMenarcheAge="21"
+              pObstetricG=""
+              pObstetricP=""
+              pObstetric_T=""
+              pObstetric_P=""
+              pObstetric_A=""
+              pObstetric_L=""/>
+          <OBSTETRIC
+              pMultiplePregnancy="N"
+              pOvarianCyst="N"
+              pMyomaUteri="N"
+              pPlacentaPrevia="N"
+              pMiscarriages="N"
+              pStillBirth="N"
+              pPreEclampsia="N"
+              pEclampsia="N"
+              pPrematureContraction="N"/>
+          <MEDISURG
+              pHypertension="N"
+              pHeartDisease="N"
+              pDiabetes="N"
+              pThyroidDisaster="N"
+              pObesity="N"
+              pAsthma="N"
+              pEpilepsy="N"
+              pRenalDisease="N"
+              pBleedingDisorders="N"
+              pPreviousCS="N"
+              pUterineMyomectomy="Y"/>
+          <CONSULTATION
+              pVisitDate="08-20-2009"
+              pAOGWeeks=""
+              pWeight="50"
+              pCardiacRate=""
+              pRespiratoryRate="26"
+              pBloodPressure="160/100"
+              pTemperature="38.5 C"/>
+          <CONSULTATION
+              pVisitDate="08-25-2009"
+              pAOGWeeks=""
+              pWeight="60"
+              pCardiacRate=""
+              pRespiratoryRate="26"
+              pBloodPressure="160/100"
+              pTemperature="38.5 C"/>
+          <CONSULTATION
+              pVisitDate="08-30-2009"
+              pAOGWeeks=""
+              pWeight="65"
+              pCardiacRate=""
+              pRespiratoryRate="26"
+              pBloodPressure="160/100"
+              pTemperature="38.5 C"/>
+        </PRENATAL>
+        <DELIVERY
+            pDeliveryDate="09-01-2009"
+            pDeliveryTime="12:00AM"
+            pObstetricIndex=""
+            pAOGLMP=""
+            pDeliveryManner=""
+            pPresentation=""
+            pFetalOutcome=""
+            pSex="M"
+            pBirthWeight="5000"
+            pAPGARScore=""
+            pPostpartum=""/>
+        <POSTPARTUM
+            pPerinealWoundCare="Y"
+            pPerinealRemarks=""
+            pMaternalComplications="Y"
+            pMaternalRemarks=""
+            pBreastFeeding="Y"
+            pBreastFeedingRemarks=""
+            pFamilyPlanning="Y"
+            pFamilyPlanningRemarks=""
+            pPlanningService="Y"
+            pPlanningServiceRemarks=""
+            pSurgicalSterilization="Y"
+            pSterilizationRemarks=""
+            pFollowupSchedule="Y"
+            pFollowupScheduleRemarks=""/>
+      </MATERNITY>
+    </CF3_OLD>
+    <!--CF3_NEW>
+        <ADMITREASON
+            pBriefHistory=""
+            pReferredReason=""
+            pIntensive="N"
+            pMaintenance="N">
+            <CLINICAL pCriteria="COUGH"/>
+            <CLINICAL pCriteria="COLDS"/>
+            <CLINICAL pCriteria="FEVER"/>
+            <CLINICAL pCriteria="RR=26"/>
+            <CLINICAL pCriteria="T= 38.5 C"/>
+            <CLINICAL pCriteria="BP = 160/100"/>
+            <LABDIAG pCriteria="CHEST X-RAY- PNEUMONIA"/>
+            <LABDIAG pCriteria="CBC-INCREASE WBC"/>
+            <LABDIAG pCriteria="URINALYSIS"/>
+            <PHEX
+                pBP=""
+                pCR=""
+                pRR=""
+                pTemp=""
+                pHEENT=""
+                pChestLungs=""
+                pCVS=""
+                pAbdomen=""
+                pGUIE=""
+                pSkinExtremities=""
+                pNeuroExam=""/>
+        </ADMITREASON>
+        <COURSE>
+            <WARD
+                pCourseDate=""
+                pFindings="CHEST X-RAY"
+                pAction="FOR ADMISSION"/>
+            <WARD
+                pCourseDate=""
+                pFindings="URINALYSIS"
+                pAction="START PENICILLIN IV EVERY 6 HRS."/>
+        </COURSE>
+    </CF3_NEW-->
+  </CF3>
+  <PARTICULARS>
+    <DRGMED
+        pPurchaseDate="08-26-2009"
+        pDrugCode="X0001234"
+        pPNDFCode=""
+        pGenericName="PARACETAMOL"
+        pBrandName="GAYAGESIC"
+        pPreparation="TABLET 250MG"
+        pQuantity="3"/>
+    <DRGMED
+        pPurchaseDate="08-26-2009"
+        pDrugCode="X0001235"
+        pPNDFCode=""
+        pGenericName="PARACETAMOL"
+        pBrandName="GAYAGESIC"
+        pPreparation="TABLET 250MG"
+        pQuantity="3"/>
+    <XLSO
+        pDiagnosticDate="08-26-2009"
+        pDiagnosticType="IMAGING"
+        pDiagnosticName="ULTRASOUND"
+        pQuantity="2"/>
+    <XLSO
+        pDiagnosticDate="08-26-2009"
+        pDiagnosticType="IMAGING"
+        pDiagnosticName="ULTRASOUND"
+        pQuantity="2"/>
+  </PARTICULARS>
+  <RECEIPTS>
+    <RECEIPT
+        pCompanyName="COMPANY"
+        pCompanyTIN="123-456-789"
+        pBIRPermitNumber="12345"
+        pReceiptNumber="00001"
+        pReceiptDate="08-25-2009"
+        pVATExemptSale="0.00"
+        pVAT="12.00"
+        pTotal="100.00">
+      <ITEM
+          pQuantity="10"
+          pUnitPrice="5"
+          pDescription="BIOGESIC"
+          pAmount="50.00"/>
+      <ITEM
+          pQuantity="5"
+          pUnitPrice="10"
+          pDescription="NEOZEP"
+          pAmount="50.00"/>
+    </RECEIPT>
+  </RECEIPTS>
+  <DOCUMENTS>
+    <DOCUMENT
+        pDocumentType="CSF"
+        pDocumentURL=
+            "https://hospitalwebserver/eclaims/claimnumber/yyyymmdd000001.pdf"/>
+    <DOCUMENT
+        pDocumentType="OPR"
+        pDocumentURL=
+            "https://hospitalwebserver/eclaims/claimnumber/yyyymmdd000002.pdf"/>
+    <DOCUMENT
+        pDocumentType="SOA"
+        pDocumentURL=
+            "https://hospitalwebserver/eclaims/claimnumber/yyyymmdd000003.pdf"/>
+  </DOCUMENTS>
+</CLAIM>

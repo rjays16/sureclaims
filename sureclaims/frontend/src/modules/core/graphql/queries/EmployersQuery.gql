@@ -1,0 +1,8 @@
+query searchEmployer($name: String) {
+  employers(name: $name) {
+    id
+    pen
+    name
+    address
+  }
+}

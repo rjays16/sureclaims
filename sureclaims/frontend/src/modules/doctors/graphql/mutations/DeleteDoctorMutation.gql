@@ -1,0 +1,11 @@
+#import "../fragments/DoctorDataFragment.gql"
+
+mutation DeleteDoctor(
+  $id: ID!
+) {
+  deleteDoctor(
+    id: $id
+  ) {
+    ...DoctorData
+  }
+}

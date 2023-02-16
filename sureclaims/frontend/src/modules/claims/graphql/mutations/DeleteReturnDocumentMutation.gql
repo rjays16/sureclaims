@@ -1,0 +1,11 @@
+#import "../fragments/ReturnDocumentDataFragment.gql"
+
+mutation DeleteReturnDocument(
+  $id: ID!
+) {
+  deleteReturnDocument(
+    id: $id
+  ) {
+    ...ReturnDocumentData
+  }
+}

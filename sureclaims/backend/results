@@ -1,0 +1,8 @@
+PHPUnit 6.5.7 by Sebastian Bergmann and contributors.
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ (string) $response->getBody()                                                │
+└──────────────────────────────────────────────────────────────────────────────┘
+string (267) "{"success":true,"code":200,"message":"Employer Found","data":{"eEMPLOYERS":{"employer":{"@value":"","@attributes":{"pPEN":"016000003141","pEmployerName":"SEGWORKS TECHNOLOGIES CORPORATION","pEmployerAddress":", DAVAO CITY, 24"}},"@attributes":{"ASOF":"04-04-2018"}}}}"
+════════════════════════════════════════════════════════════════════════════════
+Called from <ROOT>/app/Lib/Soap/EClaimsServiceHIE.php:285 [App\Lib\Soap\EClaimsServiceHIE->processResponse()]

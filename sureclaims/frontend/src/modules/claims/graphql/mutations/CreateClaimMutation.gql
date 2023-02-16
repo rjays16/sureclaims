@@ -1,0 +1,13 @@
+#import "../fragments/ClaimDataFragment.gql"
+
+mutation CreateClaim(
+  $patient: ID!
+  $data: String!
+) {
+  createClaim(
+    patient: $patient
+    data: $data
+  ) {
+    ...ClaimData
+  }
+}

@@ -1,0 +1,11 @@
+#import "../fragments/TransmittalDataFragment.gql"
+
+mutation UploadTransmittal(
+  $id: ID!
+) {
+  uploadTransmittal(
+    id: $id
+  ) {
+    ...TransmittalData
+  }
+}

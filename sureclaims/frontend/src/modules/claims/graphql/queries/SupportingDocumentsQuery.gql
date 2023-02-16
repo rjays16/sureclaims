@@ -1,0 +1,15 @@
+#import "../fragments/SupportingDocumentDataFragment.gql"
+
+query SupportingDocuments(
+  $claim: String
+  $patient: String
+  $supportDocumentId: String
+) {
+  supportingDocuments(
+    claim: $claim
+    patient: $patient
+    supportDocumentId: $supportDocumentId
+  ) {
+    ...SupportingDocumentData
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<eCLAIMS
+    pUserName=""
+    pUserPassword=""
+    pHospitalCode="123456"
+    pHospitalEmail="email@yahoo.com"
+    pServiceProvider="ACMESOFT"
+>
+  <eTRANSMITTAL
+      pHospitalTransmittalNo="20160901"
+      pTotalClaims="1"
+  >{xml}</eTRANSMITTAL>
+</eCLAIMS>

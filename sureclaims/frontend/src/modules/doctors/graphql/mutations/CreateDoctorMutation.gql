@@ -1,0 +1,23 @@
+#import "../fragments/DoctorDataFragment.gql"
+
+mutation CreateDoctor(
+  $pan: String
+  $tin: String
+  $lastName: String
+  $firstName: String
+  $middleName: String
+  $birthDate: String
+  $suffix: String
+) {
+  createDoctor(
+    pan: $pan
+    tin: $tin
+    lastName: $lastName
+    firstName: $firstName
+    middleName: $middleName
+    birthDate: $birthDate
+    suffix: $suffix
+  ) {
+    ...DoctorData
+  }
+}

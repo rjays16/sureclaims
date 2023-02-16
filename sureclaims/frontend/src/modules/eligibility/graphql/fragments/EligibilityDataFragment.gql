@@ -1,0 +1,38 @@
+fragment EligibilityData on Eligibility {
+  id
+  isOk
+  trackingNumber
+  isNHTS
+  with3Over6
+  with9Over12
+  remainingDays
+  asOf
+  patientIs
+  patientLastName
+  patientFirstName
+  patientMiddleName
+  patientSuffix
+  patientBirthDate
+  admitted
+  discharged
+  pin
+  memberType
+  memberLastName
+  memberFirstName
+  memberMiddleName
+  memberSuffix
+  memberBirthDate
+  memberCategoryId
+  memberCategoryDesc
+  pen
+  employerName
+  requiredDocuments {
+    code
+    name
+    reason
+  }
+  url
+  createdAt
+  updatedAt
+  __typename
+}

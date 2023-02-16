@@ -1,0 +1,10 @@
+
+fragment RvsCodeData on RvsCode {
+  id
+  code
+  description
+  rvu
+  with_laterality
+  createdAt
+  updatedAt
+}

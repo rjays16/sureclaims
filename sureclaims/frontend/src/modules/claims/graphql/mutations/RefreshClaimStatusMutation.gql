@@ -1,0 +1,11 @@
+#import "../fragments/ClaimDataFragment.gql"
+
+mutation RefreshClaimStatus(
+  $ids: [ID]!
+) {
+  refreshClaimStatus(
+    ids: $ids
+  ) {
+    ...ClaimData
+  }
+}

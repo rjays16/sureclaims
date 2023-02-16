@@ -1,0 +1,36 @@
+#import "@/modules/core/graphql/fragments/PersonDataFragment.gql"
+#import "@/modules/claims/graphql/fragments/SupportingDocumentDataFragment.gql"
+#import "@/modules/claims/graphql/fragments/ClaimStatusDetailDataFragment.gql"
+#import "@/modules/claims/graphql/fragments/TransmittalDataFragment.gql"
+#import "@/modules/claims/graphql/fragments/ReturnDocumentDataFragment.gql"
+
+fragment ClaimData on Claim {
+  id
+  transmittalId
+  claimNumber
+  patientId
+  admissionDate
+  dischargeDate
+  status
+  data
+  xml
+  xmlLink
+  isValid
+  validationErrors
+  lhioSeriesNo
+  patient {
+    ...PersonData
+  }
+  supportingDocuments {
+    ...SupportingDocumentData
+  }
+  claimStatusDetail {
+    ...ClaimStatusDetailData
+  }
+  transmittal {
+    ...TransmittalData
+  }
+  returnDocuments {
+    ...ReturnDocumentData
+  }
+}

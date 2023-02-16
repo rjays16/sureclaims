@@ -1,0 +1,10 @@
+fragment ClaimStatusDetailData on ClaimStatusDetail {
+  id
+  claimId
+  patientId
+  dateInquiry
+  asOfDate
+  asOfTime
+  claimDateRefile
+  claimDateReceived
+}

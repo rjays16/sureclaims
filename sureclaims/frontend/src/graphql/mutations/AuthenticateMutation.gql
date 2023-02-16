@@ -1,0 +1,25 @@
+mutation Authenticate(
+  $grantType: String!,
+  $clientId: Int!,
+  $clientSecret: String!,
+  $username: String!,
+  $password: String!,
+  $scope: String = "*"
+) {
+  authenticate(
+    grantType: $grantType,
+    clientId: $clientId,
+    clientSecret: $clientSecret,
+    username: $username,
+    password: $password,
+    scope: $scope
+  ) {
+    tokenType
+    expiresIn
+    accessToken
+    refreshToken
+    errorCode
+    errorMessage
+    errorHint
+  }
+}

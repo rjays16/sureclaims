@@ -1,0 +1,7 @@
+fragment Pagination on PageInfo {
+  currentPage
+  pageSize
+  lastPage
+  hasMorePages
+  total
+}

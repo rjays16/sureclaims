@@ -1,0 +1,16 @@
+#import "@/modules/core/graphql/fragments/PaginationFragment.gql"
+#import "@/modules/doctors/graphql/fragments/DoctorDataFragment.gql"
+
+query Doctors($name: String, $page: Int, $pageSize: Int) {
+  doctors(name: $name, page: $page, pageSize: $pageSize) {
+    doctors {
+      ...DoctorData
+      __typename
+    }
+    pageInfo {
+      ...Pagination
+      __typename
+    }
+    __typename
+  }
+}

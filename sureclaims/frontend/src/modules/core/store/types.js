@@ -1,0 +1,11 @@
+export const PAGE_LOADING = 'Core/PAGE_LOADING';
+export const PAGE_TITLE = 'Core/PAGE_TITLE';
+export const REGISTER_LOOKUP_TYPE = 'Core/REGISTER_LOOKUP_TYPE';
+export const REGISTER_MENU = 'Core/REGISTER_MENU';
+
+export default {
+  PAGE_LOADING,
+  PAGE_TITLE,
+  REGISTER_LOOKUP_TYPE,
+  REGISTER_MENU,
+};

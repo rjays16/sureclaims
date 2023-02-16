@@ -1,0 +1,7 @@
+fragment IcdCodeData on IcdCode {
+  id
+  code
+  description
+  createdAt
+  updatedAt
+}

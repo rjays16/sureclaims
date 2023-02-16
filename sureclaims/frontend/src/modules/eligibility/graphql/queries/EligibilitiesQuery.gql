@@ -1,0 +1,7 @@
+#import "../fragments/EligibilityDataFragment.gql"
+
+query Eligibilities($patient: ID!) {
+  eligibilities(patient: $patient) {
+    ...EligibilityData
+  }
+}

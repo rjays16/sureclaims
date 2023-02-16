@@ -1,0 +1,11 @@
+#import "../fragments/SupportingDocumentDataFragment.gql"
+
+mutation AttachSupportingDocuments(
+  $documents: [SupportingDocumentInput!]
+) {
+  attachSupportingDocuments(
+    documents: $documents
+  ) {
+    ...SupportingDocumentData
+  }
+}

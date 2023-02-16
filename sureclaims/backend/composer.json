@@ -1,0 +1,93 @@
+{
+  "name": "laravel/laravel",
+  "description": "The Laravel Framework.",
+  "keywords": [
+    "framework",
+    "laravel"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=7.0.0",
+    "artisaninweb/laravel-soap": "0.3.0.8",
+    "auth0/login": "~5.0",
+    "barryvdh/laravel-cors": "^0.11.0",
+    "fideloper/proxy": "~3.3",
+    "firebase/php-jwt": "^4.0",
+    "folklore/graphql": "~1.0.0",
+    "guzzlehttp/guzzle": "6.3",
+    "hyn/multi-tenant": "^5.0",
+    "laravel/framework": "5.5.*",
+    "laravel/tinker": "~1.0",
+    "league/fractal": "^0.17.0",
+    "lorisleiva/laravel-deployer": "dev-master",
+    "prettus/l5-repository": "^2.6",
+    "ramsey/uuid": "^3.0@dev",
+    "sentry/sentry-laravel": "^0.10.0@dev",
+    "tecnickcom/tcpdf": "6.2.17",
+    "wildside/userstamps": "dev-master"
+  },
+  "require-dev": {
+    "barryvdh/laravel-ide-helper": "^2.4",
+    "filp/whoops": "~2.0",
+    "fzaninotto/faker": "~1.4",
+    "kint-php/kint": "dev-master",
+    "laravel/homestead": "^4.0@dev",
+    "mockery/mockery": "~1.0",
+    "phpmd/phpmd": "@stable",
+    "phpunit/phpunit": "~6.0",
+    "squizlabs/php_codesniffer": "3.*",
+    "symfony/thanks": "^1.0"
+  },
+  "autoload": {
+    "classmap": [
+      "database/seeds",
+      "database/factories"
+    ],
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": ["app/Http/helpers.php"]
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "dont-discover": []
+    }
+  },
+  "scripts": {
+    "post-root-package-install": [
+      "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+    ],
+    "post-create-project-cmd": [
+      "@php artisan key:generate"
+    ],
+    "post-autoload-dump": [
+      "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+      "@php artisan package:discover"
+    ],
+    "post-install-cmd": [
+      "@php artisan migrate",
+      "@php artisan config:cache",
+      "@php artisan db:seed --class=GlobalLookupsSeeder",
+      "@php artisan queue:restart"
+    ],
+    "test": [
+      "@php artisan config:clear",
+      "phpunit || true",
+      "@php artisan config:cache"
+    ],
+    "cache": [
+      "@php artisan config:cache"
+    ]
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
+}

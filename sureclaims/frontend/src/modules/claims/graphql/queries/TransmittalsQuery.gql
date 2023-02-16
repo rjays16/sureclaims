@@ -1,0 +1,20 @@
+#import "@/modules/core/graphql/fragments/PaginationFragment.gql"
+#import "@/modules/claims/graphql/fragments/TransmittalDataFragment.gql"
+#import "@/modules/claims/graphql/fragments/ClaimDataFragment.gql"
+
+query Transmittals($dateRange: [String], $transmittalNumber: String, $page: Int, $pageSize: Int) {
+  transmittals(dateRange: $dateRange, transmittalNumber: $transmittalNumber, page: $page, pageSize: $pageSize) {
+    transmittals {
+      ...TransmittalData
+      claims {
+        ...ClaimData
+      }
+      __typename
+    }
+    pageInfo {
+      ...Pagination
+      __typename
+    }
+    __typename
+  }
+}

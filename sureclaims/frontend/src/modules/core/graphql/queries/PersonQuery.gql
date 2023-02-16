@@ -1,0 +1,7 @@
+#import "@/modules/core/graphql/fragments/PersonDataFragment.gql"
+
+query Person($id: ID) {
+  person(id: $id) {
+    ...PersonData
+  }
+}

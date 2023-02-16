@@ -1,0 +1,11 @@
+fragment DoctorData on Doctor {
+  id
+  pan
+  tin
+  lastName
+  firstName
+  middleName
+  suffix
+  birthDate
+  __typename
+}

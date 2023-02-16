@@ -1,0 +1,11 @@
+#import "../fragments/ReturnDocumentDataFragment.gql"
+
+mutation AttachReturnDocuments(
+  $documents: [ReturnDocumentInput!]
+) {
+  attachReturnDocuments(
+    documents: $documents
+  ) {
+    ...ReturnDocumentData
+  }
+}

@@ -1,0 +1,12 @@
+#import "@/modules/claims/graphql/fragments/SupportingDocumentDataFragment.gql"
+
+fragment ReturnDocumentData on ReturnDocument {
+    id
+    patientId
+    claimId
+    supportDocumentId
+    isUploaded
+    supportingDocument {
+        ...SupportingDocumentData
+    }
+}

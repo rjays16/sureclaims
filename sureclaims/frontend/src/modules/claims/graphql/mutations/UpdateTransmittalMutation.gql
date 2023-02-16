@@ -1,0 +1,21 @@
+#import "../fragments/TransmittalDataFragment.gql"
+#import "../fragments/ClaimDataFragment.gql"
+
+mutation UpdateTransmittal(
+  $id: ID!
+  # $transmittalNo: String!
+  $notes: String
+  $claims: [ID!]
+) {
+  updateTransmittal(
+    id: $id
+    # transmittalNo: $transmittalNo
+    notes: $notes
+    claims: $claims
+  ) {
+    ...TransmittalData
+    claims {
+      ...ClaimData
+    }
+  }
+}

@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<xs:schema xmlns="http://tempuri.org/eClaimsDef" elementFormDefault="qualified" targetNamespace="http://tempuri.org/eClaimsDef" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="eCLAIMS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="eTRANSMITTAL" />
+            </xs:sequence>
+            <xs:attribute name="pUserName" type="xs:string" use="required" />
+            <xs:attribute name="pUserPassword" type="xs:string" use="required" />
+            <xs:attribute name="pHospitalCode" type="xs:string" use="required" />
+            <xs:attribute name="pHospitalEmail" type="xs:string" use="required" />
+            <xs:attribute name="pServiceProvider" type="xs:string" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="eTRANSMITTAL">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="CLAIM" />
+            </xs:sequence>
+            <xs:attribute name="pHospitalTransmittalNo" type="xs:string" use="required" />
+            <xs:attribute name="pTotalClaims" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CLAIM">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="CF1" />
+                <xs:element ref="CF2" />
+                <xs:choice>
+                    <xs:element ref="ALLCASERATE" />
+                    <xs:element ref="ZBENEFIT" />
+                </xs:choice>
+                <xs:element minOccurs="0" maxOccurs="1" ref="CF3" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="PARTICULARS" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="RECEIPTS" />
+                <xs:element ref="DOCUMENTS" />
+            </xs:sequence>
+            <xs:attribute name="pClaimNumber" type="xs:string" use="required" />
+            <xs:attribute name="pTrackingNumber" type="xs:string" use="required" />
+            <xs:attribute name="pPhilhealthClaimType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="ALL-CASE-RATE" />
+                        <xs:enumeration value="Z-BENEFIT" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPatientType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="I" />
+                        <xs:enumeration value="O" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pIsEmergency" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CF1">
+        <xs:complexType>
+            <xs:attribute name="pMemberPIN" type="xs:string" use="required" />
+            <xs:attribute name="pMemberLastName" type="xs:string" use="required" />
+            <xs:attribute name="pMemberFirstName" type="xs:string" use="required" />
+            <xs:attribute name="pMemberSuffix" type="xs:string" use="required" />
+            <xs:attribute name="pMemberMiddleName" type="xs:string" use="required" />
+            <xs:attribute name="pMemberBirthDate" type="xs:string" use="required" />
+            <xs:attribute name="pMemberShipType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="S" />
+                        <xs:enumeration value="G" />
+                        <xs:enumeration value="I" />
+                        <xs:enumeration value="NS" />
+                        <xs:enumeration value="NO" />
+                        <xs:enumeration value="PS" />
+                        <xs:enumeration value="PG" />
+                        <xs:enumeration value="P" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pMailingAddress" type="xs:string" use="required" />
+            <xs:attribute name="pZipCode" type="xs:string" use="required" />
+            <xs:attribute name="pMemberSex" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="M" />
+                        <xs:enumeration value="F" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pLandlineNo" type="xs:string" use="required" />
+            <xs:attribute name="pMobileNo" type="xs:string" use="required" />
+            <xs:attribute name="pEmailAddress" type="xs:string" use="required" />
+            <xs:attribute name="pPatientIs" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="M" />
+                        <xs:enumeration value="S" />
+                        <xs:enumeration value="C" />
+                        <xs:enumeration value="P" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPatientPIN" type="xs:string" use="required" />
+            <xs:attribute name="pPatientLastName" type="xs:string" use="required" />
+            <xs:attribute name="pPatientFirstName" type="xs:string" use="required" />
+            <xs:attribute name="pPatientSuffix" type="xs:string" use="required" />
+            <xs:attribute name="pPatientMiddleName" type="xs:string" use="required" />
+            <xs:attribute name="pPatientBirthDate" type="xs:string" use="required" />
+            <xs:attribute name="pPatientSex" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="M" />
+                        <xs:enumeration value="F" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPEN" type="xs:string" use="required" />
+            <xs:attribute name="pEmployerName" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CF2">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="DIAGNOSIS" />
+                <xs:element ref="SPECIAL" />
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="PROFESSIONALS" />
+                <xs:element ref="CONSUMPTION" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="APR" />
+            </xs:sequence>
+            <xs:attribute name="pPatientReferred" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pReferredIHCPAccreCode" type="xs:string" use="required" />
+            <xs:attribute name="pAdmissionDate" type="xs:string" use="required" />
+            <xs:attribute name="pAdmissionTime" type="xs:string" use="required" />
+            <xs:attribute name="pDischargeDate" type="xs:string" use="required" />
+            <xs:attribute name="pDischargeTime" type="xs:string" use="required" />
+            <xs:attribute name="pDisposition" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="I" />
+                        <xs:enumeration value="R" />
+                        <xs:enumeration value="H" />
+                        <xs:enumeration value="A" />
+                        <xs:enumeration value="E" />
+                        <xs:enumeration value="T" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pExpiredDate" type="xs:string" use="required" />
+            <xs:attribute name="pExpiredTime" type="xs:string" use="required" />
+            <xs:attribute name="pReferralIHCPAccreCode" type="xs:string" use="required" />
+            <xs:attribute name="pReferralReasons" type="xs:string" use="required" />
+            <xs:attribute name="pAccommodationType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="P" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pHasAttachedSOA">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DIAGNOSIS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="DISCHARGE" />
+            </xs:sequence>
+            <xs:attribute name="pAdmissionDiagnosis" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DISCHARGE">
+        <xs:complexType>
+            <xs:choice>
+                <xs:sequence>
+                    <xs:element minOccurs="1" maxOccurs="unbounded" ref="ICDCODE" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="RVSCODES" />
+                </xs:sequence>
+                <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="ICDCODE" />
+                    <xs:element minOccurs="1" maxOccurs="unbounded" ref="RVSCODES" />
+                </xs:sequence>
+            </xs:choice>
+            <xs:attribute name="pDischargeDiagnosis" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ICDCODE">
+        <xs:complexType>
+            <xs:attribute name="pICDCode" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="RVSCODES">
+        <xs:complexType>
+            <xs:attribute name="pRelatedProcedure" type="xs:string" use="required" />
+            <xs:attribute name="pRVSCode" type="xs:string" use="required" />
+            <xs:attribute name="pProcedureDate" type="xs:string" use="required" />
+            <xs:attribute name="pLaterality" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="L" />
+                        <xs:enumeration value="R" />
+                        <xs:enumeration value="B" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="SPECIAL">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="PROCEDURES" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="MCP" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="TBDOTS" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="ABP" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="NCP" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="HIVAIDS" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="CATARACTINFO" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PROCEDURES">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="1" ref="HEMODIALYSIS" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="PERITONEAL" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="LINAC" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="COBALT" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="TRANSFUSION" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="BRACHYTHERAPHY" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="CHEMOTHERAPY" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="DEBRIDEMENT" />
+                    <xs:element minOccurs="0" maxOccurs="1" ref="IMRT" />
+                </xs:sequence>
+                <xs:choice>
+                    <xs:element ref="HEMODIALYSIS" />
+                    <xs:element ref="PERITONEAL" />
+                    <xs:element ref="LINAC" />
+                    <xs:element ref="COBALT" />
+                    <xs:element ref="TRANSFUSION" />
+                    <xs:element ref="BRACHYTHERAPHY" />
+                    <xs:element ref="CHEMOTHERAPY" />
+                    <xs:element ref="DEBRIDEMENT" />
+                    <xs:element ref="IMRT" />
+                </xs:choice>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="HEMODIALYSIS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PERITONEAL">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="LINAC">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="COBALT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="TRANSFUSION">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="BRACHYTHERAPHY">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CHEMOTHERAPY">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DEBRIDEMENT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="IMRT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" ref="SESSIONS" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="SESSIONS">
+        <xs:complexType>
+            <xs:attribute name="pSessionDate" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="MCP">
+        <xs:complexType>
+            <xs:attribute name="pCheckUpDate1" type="xs:string" use="required" />
+            <xs:attribute name="pCheckUpDate2" type="xs:string" use="required" />
+            <xs:attribute name="pCheckUpDate3" type="xs:string" use="required" />
+            <xs:attribute name="pCheckUpDate4" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="TBDOTS">
+        <xs:complexType>
+            <xs:attribute name="pTBType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="I" />
+                        <xs:enumeration value="M" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pNTPCardNo" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ABP">
+        <xs:complexType>
+            <xs:attribute name="pDay0ARV" type="xs:string" use="required" />
+            <xs:attribute name="pDay3ARV" type="xs:string" use="required" />
+            <xs:attribute name="pDay7ARV" type="xs:string" use="required" />
+            <xs:attribute name="pRIG" type="xs:string" use="required" />
+            <xs:attribute name="pABPOthers" type="xs:string" use="required" />
+            <xs:attribute name="pABPSpecify" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="NCP">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="ESSENTIAL" />
+            </xs:sequence>
+            <xs:attribute name="pEssentialNewbornCare" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pNewbornHearingScreeningTest" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pNewbornHearingRegistryNo" type="xs:string" use="required" />
+            <xs:attribute name="pNewbornScreeningTest" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pFilterCardNo" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ESSENTIAL">
+        <xs:complexType>
+            <xs:attribute name="pDrying" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pSkinToSkin" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pCordClamping" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pProphylaxis" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pWeighing" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pVitaminK" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pBCG" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pNonSeparation" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pHepatitisB" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="HIVAIDS">
+        <xs:complexType>
+            <xs:attribute name="pLaboratoryNumber" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CATARACTINFO">
+        <xs:complexType>
+            <xs:attribute name="pCataractPreAuth" type="xs:string" use="required" />
+            <xs:attribute name="pLeftEyeIOLStickerNumber" type="xs:string" use="required" />
+            <xs:attribute name="pLeftEyeIOLExpiryDate" type="xs:string" use="required" />
+            <xs:attribute name="pRightEyeIOLStickerNumber" type="xs:string" use="required" />
+            <xs:attribute name="pRightEyeIOLExpiryDate" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PROFESSIONALS">
+        <xs:complexType>
+            <xs:attribute name="pDoctorAccreCode" type="xs:string" use="required" />
+            <xs:attribute name="pDoctorLastName" type="xs:string" use="required" />
+            <xs:attribute name="pDoctorFirstName" type="xs:string" use="required" />
+            <xs:attribute name="pDoctorMiddleName" type="xs:string" use="required" />
+            <xs:attribute name="pDoctorSuffix" type="xs:string" use="required" />
+            <xs:attribute name="pWithCoPay" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pDoctorCoPay" type="xs:string" use="required" />
+            <xs:attribute name="pDoctorSignDate" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CONSUMPTION">
+        <xs:complexType>
+            <xs:choice>
+                <xs:element ref="BENEFITS" />
+                <xs:sequence>
+                    <xs:element ref="HCIFEES" />
+                    <xs:element ref="PROFFEES" />
+                    <xs:element ref="PURCHASES" />
+                </xs:sequence>
+            </xs:choice>
+            <xs:attribute name="pEnoughBenefits" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="APR">
+        <xs:complexType>
+            <xs:choice>
+                <xs:element ref="APRBYPATSIG" />
+                <xs:element ref="APRBYPATREPSIG" />
+                <xs:element ref="APRBYTHUMBMARK" />
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="APRBYPATSIG">
+        <xs:complexType>
+            <xs:attribute name="pDateSigned" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="APRBYPATREPSIG">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice>
+                    <xs:element ref="DEFINEDPATREPREL" />
+                    <xs:element ref="OTHERPATREPREL" />
+                </xs:choice>
+                <xs:choice>
+                    <xs:element ref="DEFINEDREASONFORSIGNING" />
+                    <xs:element ref="OTHERREASONFORSIGNING" />
+                </xs:choice>
+            </xs:sequence>
+            <xs:attribute name="pDateSigned" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DEFINEDPATREPREL">
+        <xs:complexType>
+            <xs:attribute name="pRelCode" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="S" />
+                        <xs:enumeration value="C" />
+                        <xs:enumeration value="P" />
+                        <xs:enumeration value="I" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="OTHERPATREPREL">
+        <xs:complexType>
+            <xs:attribute fixed="O" name="pRelCode" type="xs:string" />
+            <xs:attribute name="pRelDesc" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DEFINEDREASONFORSIGNING">
+        <xs:complexType>
+            <xs:attribute name="pReasonCode" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="I" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="OTHERREASONFORSIGNING">
+        <xs:complexType>
+            <xs:attribute fixed="O" name="pReasonCode" type="xs:string" />
+            <xs:attribute name="pReasonDesc" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="APRBYTHUMBMARK">
+        <xs:complexType>
+            <xs:attribute name="pThumbmarkedBy" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="P" />
+                        <xs:enumeration value="R" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="BENEFITS">
+        <xs:complexType>
+            <xs:attribute name="pTotalHCIFees" type="xs:string" use="required" />
+            <xs:attribute name="pTotalProfFees" type="xs:string" use="required" />
+            <xs:attribute name="pGrandTotal" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="HCIFEES">
+        <xs:complexType>
+            <xs:attribute name="pTotalActualCharges" type="xs:string" use="required" />
+            <xs:attribute name="pDiscount" type="xs:string" use="required" />
+            <xs:attribute name="pPhilhealthBenefit" type="xs:string" use="required" />
+            <xs:attribute name="pTotalAmount" type="xs:string" use="required" />
+            <xs:attribute name="pMemberPatient" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pHMO" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pOthers" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PROFFEES">
+        <xs:complexType>
+            <xs:attribute name="pTotalActualCharges" type="xs:string" use="required" />
+            <xs:attribute name="pDiscount" type="xs:string" use="required" />
+            <xs:attribute name="pPhilhealthBenefit" type="xs:string" use="required" />
+            <xs:attribute name="pTotalAmount" type="xs:string" use="required" />
+            <xs:attribute name="pMemberPatient" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pHMO" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pOthers" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PURCHASES">
+        <xs:complexType>
+            <xs:attribute name="pDrugsMedicinesSupplies" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pDMSTotalAmount" type="xs:string" use="required" />
+            <xs:attribute name="pExaminations" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pExamTotalAmount" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ALLCASERATE">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="CASERATE" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CASERATE">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="CATARACT" />
+            </xs:sequence>
+            <xs:attribute name="pCaseRateCode" type="xs:string" use="required" />
+            <xs:attribute name="pICDCode" type="xs:string" use="required" />
+            <xs:attribute name="pRVSCode" type="xs:string" use="required" />
+            <xs:attribute name="pCaseRateAmount" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CATARACT">
+        <xs:complexType>
+            <xs:attribute name="pCataractPreAuth" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ZBENEFIT">
+        <xs:complexType>
+            <xs:attribute name="pZBenefitCode" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Z0011" />
+                        <xs:enumeration value="Z0012" />
+                        <xs:enumeration value="Z0013" />
+                        <xs:enumeration value="Z0021" />
+                        <xs:enumeration value="Z0022" />
+                        <xs:enumeration value="Z003" />
+                        <xs:enumeration value="Z0041" />
+                        <xs:enumeration value="Z0042" />
+                        <xs:enumeration value="Z0051" />
+                        <xs:enumeration value="Z0052" />
+                        <xs:enumeration value="Z0061" />
+                        <xs:enumeration value="Z0062" />
+                        <xs:enumeration value="Z0071" />
+                        <xs:enumeration value="Z0072" />
+                        <xs:enumeration value="Z0081" />
+                        <xs:enumeration value="Z0082" />
+                        <xs:enumeration value="Z0091" />
+                        <xs:enumeration value="Z0092" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPreAuthDate" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CF3">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="CF3_OLD" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="CF3_NEW" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CF3_OLD">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="PHEX" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="MATERNITY" />
+            </xs:sequence>
+            <xs:attribute name="pChiefComplaint" type="xs:string" use="required" />
+            <xs:attribute name="pBriefHistory" type="xs:string" use="required" />
+            <xs:attribute name="pCourseWard" type="xs:string" use="required" />
+            <xs:attribute name="pPertinentFindings" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="MATERNITY">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="PRENATAL" />
+                <xs:element ref="DELIVERY" />
+                <xs:element ref="POSTPARTUM" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PRENATAL">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="CLINICALHIST" />
+                <xs:element ref="OBSTETRIC" />
+                <xs:element ref="MEDISURG" />
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="CONSULTATION" />
+            </xs:sequence>
+            <xs:attribute name="pPrenatalConsultation" type="xs:string" use="required" />
+            <xs:attribute name="pMCPOrientation" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pExpectedDeliveryDate" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CLINICALHIST">
+        <xs:complexType>
+            <xs:attribute name="pVitalSigns" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPregnancyLowRisk" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pLMP" type="xs:string" use="required" />
+            <xs:attribute name="pMenarcheAge" type="xs:string" use="required" />
+            <xs:attribute name="pObstetricG" type="xs:string" use="required" />
+            <xs:attribute name="pObstetricP" type="xs:string" use="required" />
+            <xs:attribute name="pObstetric_T" type="xs:string" use="required" />
+            <xs:attribute name="pObstetric_P" type="xs:string" use="required" />
+            <xs:attribute name="pObstetric_A" type="xs:string" use="required" />
+            <xs:attribute name="pObstetric_L" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="OBSTETRIC">
+        <xs:complexType>
+            <xs:attribute name="pMultiplePregnancy" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pOvarianCyst" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pMyomaUteri" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPlacentaPrevia" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pMiscarriages" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pStillBirth" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPreEclampsia" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pEclampsia" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPrematureContraction" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="MEDISURG">
+        <xs:complexType>
+            <xs:attribute name="pHypertension" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pHeartDisease" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pDiabetes" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pThyroidDisaster" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pObesity" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pAsthma" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pEpilepsy" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pRenalDisease" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pBleedingDisorders" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPreviousCS" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pUterineMyomectomy" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CONSULTATION">
+        <xs:complexType>
+            <xs:attribute name="pVisitDate" type="xs:string" use="required" />
+            <xs:attribute name="pAOGWeeks" type="xs:string" use="required" />
+            <xs:attribute name="pWeight" type="xs:string" use="required" />
+            <xs:attribute name="pCardiacRate" type="xs:string" use="required" />
+            <xs:attribute name="pRespiratoryRate" type="xs:string" use="required" />
+            <xs:attribute name="pBloodPressure" type="xs:string" use="required" />
+            <xs:attribute name="pTemperature" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DELIVERY">
+        <xs:complexType>
+            <xs:attribute name="pDeliveryDate" type="xs:string" use="required" />
+            <xs:attribute name="pDeliveryTime" type="xs:string" use="required" />
+            <xs:attribute name="pObstetricIndex" type="xs:string" use="required" />
+            <xs:attribute name="pAOGLMP" type="xs:string" use="required" />
+            <xs:attribute name="pDeliveryManner" type="xs:string" use="required" />
+            <xs:attribute name="pPresentation" type="xs:string" use="required" />
+            <xs:attribute name="pFetalOutcome" type="xs:string" use="required" />
+            <xs:attribute name="pSex" type="xs:string" use="required" />
+            <xs:attribute name="pBirthWeight" type="xs:string" use="required" />
+            <xs:attribute name="pAPGARScore" type="xs:string" use="required" />
+            <xs:attribute name="pPostpartum" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="POSTPARTUM">
+        <xs:complexType>
+            <xs:attribute name="pPerinealWoundCare" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPerinealRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pMaternalComplications" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pMaternalRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pBreastFeeding" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pBreastFeedingRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pFamilyPlanning" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pFamilyPlanningRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pPlanningService" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pPlanningServiceRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pSurgicalSterilization" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pSterilizationRemarks" type="xs:string" use="required" />
+            <xs:attribute name="pFollowupSchedule" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pFollowupScheduleRemarks" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CF3_NEW">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="1" ref="ADMITREASON" />
+                <xs:element minOccurs="0" maxOccurs="1" ref="COURSE" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ADMITREASON">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="CLINICAL" />
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="LABDIAG" />
+                <xs:element ref="PHEX" />
+            </xs:sequence>
+            <xs:attribute name="pBriefHistory" type="xs:string" use="required" />
+            <xs:attribute name="pReferredReason" type="xs:string" use="required" />
+            <xs:attribute name="pIntensive" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pMaintenance" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="Y" />
+                        <xs:enumeration value="N" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CLINICAL">
+        <xs:complexType>
+            <xs:attribute name="pCriteria" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="LABDIAG">
+        <xs:complexType>
+            <xs:attribute name="pCriteria" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PHEX">
+        <xs:complexType>
+            <xs:attribute name="pBP" type="xs:string" use="required" />
+            <xs:attribute name="pCR" type="xs:string" use="required" />
+            <xs:attribute name="pRR" type="xs:string" use="required" />
+            <xs:attribute name="pTemp" type="xs:string" use="required" />
+            <xs:attribute name="pHEENT" type="xs:string" use="required" />
+            <xs:attribute name="pChestLungs" type="xs:string" use="required" />
+            <xs:attribute name="pCVS" type="xs:string" use="required" />
+            <xs:attribute name="pAbdomen" type="xs:string" use="required" />
+            <xs:attribute name="pGUIE" type="xs:string" use="required" />
+            <xs:attribute name="pSkinExtremities" type="xs:string" use="required" />
+            <xs:attribute name="pNeuroExam" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="COURSE">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="WARD" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="WARD">
+        <xs:complexType>
+            <xs:attribute name="pCourseDate" type="xs:string" use="required" />
+            <xs:attribute name="pFindings" type="xs:string" use="required" />
+            <xs:attribute name="pAction" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PARTICULARS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:choice>
+                    <xs:element minOccurs="1" maxOccurs="unbounded" ref="DRGMED" />
+                    <xs:element minOccurs="1" maxOccurs="unbounded" ref="XLSO" />
+                </xs:choice>
+                <xs:choice>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="DRGMED" />
+                    <xs:element minOccurs="0" maxOccurs="unbounded" ref="XLSO" />
+                </xs:choice>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DRGMED">
+        <xs:complexType>
+            <xs:attribute name="pPurchaseDate" type="xs:string" use="required" />
+            <xs:attribute name="pDrugCode" type="xs:string" use="required" />
+            <xs:attribute name="pPNDFCode" type="xs:string" use="required" />
+            <xs:attribute name="pGenericName" type="xs:string" use="required" />
+            <xs:attribute name="pBrandName" type="xs:string" use="required" />
+            <xs:attribute name="pPreparation" type="xs:string" use="required" />
+            <xs:attribute name="pQuantity" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="XLSO">
+        <xs:complexType>
+            <xs:attribute name="pDiagnosticDate" type="xs:string" use="required" />
+            <xs:attribute name="pDiagnosticType" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NMTOKEN">
+                        <xs:enumeration value="IMAGING" />
+                        <xs:enumeration value="LABORATORY" />
+                        <xs:enumeration value="SUPPLIES" />
+                        <xs:enumeration value="OTHERS" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="pDiagnosticName" type="xs:string" use="required" />
+            <xs:attribute name="pQuantity" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="RECEIPTS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="RECEIPT" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="RECEIPT">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="ITEM" />
+            </xs:sequence>
+            <xs:attribute name="pCompanyName" type="xs:string" use="required" />
+            <xs:attribute name="pCompanyTIN" type="xs:string" use="required" />
+            <xs:attribute name="pBIRPermitNumber" type="xs:string" use="required" />
+            <xs:attribute name="pReceiptNumber" type="xs:string" use="required" />
+            <xs:attribute name="pReceiptDate" type="xs:string" use="required" />
+            <xs:attribute name="pVATExemptSale" type="xs:string" use="required" />
+            <xs:attribute name="pVAT" type="xs:string" use="required" />
+            <xs:attribute name="pTotal" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ITEM">
+        <xs:complexType>
+            <xs:attribute name="pQuantity" type="xs:string" use="required" />
+            <xs:attribute name="pUnitPrice" type="xs:string" use="required" />
+            <xs:attribute name="pDescription" type="xs:string" use="required" />
+            <xs:attribute name="pAmount" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DOCUMENTS">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="1" maxOccurs="unbounded" ref="DOCUMENT" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DOCUMENT">
+        <xs:complexType>
+            <xs:attribute name="pDocumentType" type="xs:string" use="required" />
+            <xs:attribute name="pDocumentURL" type="xs:string" use="required" />
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

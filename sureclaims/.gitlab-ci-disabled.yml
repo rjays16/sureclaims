@@ -1,0 +1,118 @@
+image: registry.gitlab.com/ajmquinones/sureclaims
+
+# Add a `.` in front of a job to make it hidden.
+# Add a `&reference` to make it a reusable template.
+# Note that we don't have dashes anymore.
+.init_ssh: &init_ssh |
+  eval $(ssh-agent -s)
+  echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  mkdir -p ~/.ssh
+  chmod 700 ~/.ssh
+  [[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+
+stages:
+  - build
+  - deploy
+
+composer:
+
+  # The job's stage (build, test or deploy).
+  stage: build
+  
+  # What to run on the job.
+  script:
+      - cd ./backend
+      - cp .env.example .env
+      - composer install --prefer-dist --no-ansi --no-interaction --no-progress --no-scripts
+      - php artisan key:generate
+      
+  artifacts:
+  
+    # (Optional) Give it an expiration date, 
+    # after that period you won't be able to 
+    # download them via the UI anymore.
+    expire_in: 1 month
+    
+    # Define what to output from the job.
+    paths:
+      - backend/vendor/
+      - backend/.env
+
+  cache:
+  
+    # The variable CI_COMMIT_REF_SLUG 
+    # refers to the slug of the branch.
+    # For example: `master` for the master branch.
+    # We use the `composer` suffix to avoid conflicts with
+    # the `npm` cache that we'll define next.
+    key: ${CI_COMMIT_REF_SLUG}-composer
+    
+    # Define what to cache.
+    paths:
+      - backend/vendor/
+
+yarn:
+
+  # Same stage as `composer` so that they run in parallel.
+  stage: build
+  
+  # Cache the `node_modules` folder
+  # using the `yarn` suffix on the key.
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}-yarn
+    paths:
+      - frontend/node_modules/
+
+  # Install and compile.
+  script:
+      - cd ./frontend
+      - cp ./config/app.env.js.example ./config/app.env.js
+      - yarn install
+
+  # Provide the other jobs of the pipeline with
+  # the node dependencies and the compiled assets.
+  artifacts:
+    expire_in: 1 month
+    paths:
+      - frontend/node_modules/
+      - backend/public/static/
+
+staging:
+  stage: deploy
+  
+  # Pseudocode describing roughly what we're trying to achive
+  script:
+    # Reuse a template by calling `*reference`
+    - *init_ssh
+    # Deploy to the staging host using Laravel Deployer
+    - cd ./backend
+    - php artisan deploy beta.sureclaims.co -s upload
+
+  # Define an GitLab environment.
+  # This makes GitLab aware of your latest deployments
+  # and provides a button to check out the provided url.
+  environment:
+    name: staging
+    url: https://beta.sureclaims.co
+    
+  # (Optional) Only deploy if we're in the master branch
+  # Other branches will only build and test.
+  only:
+    - master
+
+production:
+  stage: deploy
+  script:
+    - *init_ssh # This is pretty convenient now.
+    - cd ./backend
+    - php artisan deploy sureclaims.co -s upload
+  environment:
+    name: production
+    url: https://sureclaims.co
+    
+  # Do not run automatically.
+  # Wait for a human to click on play.
+  when: manual
+  
+  only:
+   - master

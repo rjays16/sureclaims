@@ -1,0 +1,11 @@
+#import "../fragments/SupportingDocumentDataFragment.gql"
+
+mutation DeleteSupportingDocument(
+  $id: ID!
+) {
+  deleteSupportingDocument(
+    id: $id
+  ) {
+    ...SupportingDocumentData
+  }
+}

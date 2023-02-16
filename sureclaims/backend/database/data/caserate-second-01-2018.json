@@ -1,0 +1,4839 @@
+[
+  {
+    "code": "I60.0",
+    "description": "Subarachnoid haemorrhage from carotid siphon and\nbifurcation",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.1",
+    "description": "Subarachnoid haemorrhage from middle cerebral\nartery",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.2",
+    "description": "Subarachnoid haemorrhage from anterior\ncommunicating artery",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.3",
+    "description": "Subarachnoid haemorrhage from posterior\ncommunicating artery",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.4",
+    "description": "Subarachnoid haemorrhage from basilar artery",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.5",
+    "description": "Subarachnoid haemorrhage from vertebral artery",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.6",
+    "description": "Subarachnoid haemorrhage from other intracranial arteries; Multiple involvement of intracranial arteries",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.7",
+    "description": "Subarachnoid haemorrhage from intracranial artery, unspecified; Congenital ruptured berry aneurysm NOS; Subarachnoid haemorrhage from cerebral artery NOS; Subarachnoid haemorrhage from\ncommunicating artery NOS",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.8",
+    "description": "Other subarachnoid haemorrhage; Meningeal haemorrhage; Rupture of cerebral arteriovenous\nmalformation",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I60.9",
+    "description": "Subarachnoid haemorrhage, unspecified",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.0",
+    "description": "Intracerebral haemorrhage in hemisphere,\nsubcortical; Deep intracerebral haemorrhage",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.1",
+    "description": "Intracerebral haemorrhage in hemisphere, cortical; Cerebral lobe haemorrhage; Superficial intracerebral\nhaemorrhage",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.2",
+    "description": "Intracerebral haemorrhage in hemisphere,\nunspecified",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.3",
+    "description": "Intracerebral haemorrhage in brain stem",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.4",
+    "description": "Intracerebral haemorrhage in cerebellum",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.5",
+    "description": "Intracerebral haemorrhage, intraventricular",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.6",
+    "description": "Intracerebral haemorrhage, multiple localized",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.8",
+    "description": "Other intracerebral haemorrhage",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I61.9",
+    "description": "Intracerebral haemorrhage, unspecified",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I62.0",
+    "description": "Acute Subdural haemorrhage; Nontraumatic\nSubdural haemorrhage",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I62.1",
+    "description": "Nontraumatic extradural haemorrhage;\nNontraumatic epidural haemorrhage",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I62.9",
+    "description": "Intracranial haemorrhage (nontraumatic),\nunspecified",
+    "package": 19000,
+    "pf": 11400,
+    "hf": 7600
+  },
+  {
+    "code": "I63.0",
+    "description": "Cerebral infarction due to thrombosis of precerebral\narteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.1",
+    "description": "Cerebral infarction due to embolism of precerebral\narteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.2",
+    "description": "Cerebral infarction due to unspecified occlusion or\nstenosis of precerebral arteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.3",
+    "description": "Cerebral infarction due to thrombosis of cerebral\narteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.4",
+    "description": "Cerebral infarction due to embolism of cerebral\narteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.5",
+    "description": "Cerebral infarction due to unspecified occlusion or\nstenosis of cerebral arteries",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.6",
+    "description": "Cerebral infarction due to cerebral venous\nthrombosis, nonpyogenic",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.8",
+    "description": "Other cerebral infarction",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.9",
+    "description": "Cerebral infarction, unspecified",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I63.9+G46.7*",
+    "description": "Other lacunar syndrome in unspecified cerebral\ninfarction",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I64",
+    "description": "Stroke, not specified as hemorrhage or infarction",
+    "package": 14000,
+    "pf": 8400,
+    "hf": 5600
+  },
+  {
+    "code": "I21.0",
+    "description": "Acute transmural myocardial infarction of anterior wall [or duration of <4 weeks] KILLIPS stage unspecified; Acute transmural infarction of anterior wall NOS [or duration of <4 weeks] KILLIPS stage unspecified; Acute anteroapical transmural infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I21.1",
+    "description": "Acute transmural myocardial infarction of inferior wall [or duration of <4 weeks] KILLIPS I; Acute transmural infarction of diaphragmatic wall [or duration of <4 weeks] KILLIPS I; Acute transmural infarction of inferior wall NOS [or duration of <4",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I21.2",
+    "description": "Acute transmural myocardial infarction of other sites [or duration of <4 weeks]  KILLIPS II; Acute apical- lateral transmural infarction [or duration of <4 weeks]   KILLIPS II; Acute basal-lateral transmural infarction [or duration of <4 weeks]   KILLIPS",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I21.3",
+    "description": "Acute transmural myocardial infarction of unspecified site;  Transmural myocardial infarction\nNOS",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I21.4",
+    "description": "Acute subendocardial myocardial infarction; Nontransmural myocardial infarction NOS",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I21.9",
+    "description": "Acute myocardial infarction, unspecified [or duration of <4 weeks] KILLIPS I; Acute myocardial infarction NOS [or duration of <4 weeks] KILLIPS I",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I22.0",
+    "description": "Subsequent myocardial infarction of anterior wall; Acute Subsequent infarction of anterior wall NOS; Acute subsequent infarction of anteroapical wall; Acute subsequent infarction of anterolateral wall; Acute subsequent infarction of anteroseptal wall",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I22.1",
+    "description": "Subsequent myocardial infarction of inferior wall; Acute subsequent infarction of diaphragmatic wall; Acute subsequent infarction of inferior wall NOS; Acute subsequent infarction of inferolateral wall; Acute subsequent infarction of inferoposterior wall",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I22.8",
+    "description": "Subsequent myocardial infarction of other sites; Acute myocardial infarction of apical-lateral wall; Acute myocardial infarction of basal-lateral wall; Acute myocardial infarction of high lateral wall; Acute myocardial infarction of lateral wall NOS; Acut",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I22.9",
+    "description": "Subsequent myocardial infarction of unspecified site",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.0",
+    "description": "Haemopericardium as current complication following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.1",
+    "description": "Atrial septal defect as current complication following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.2",
+    "description": "Ventricular septal defect as current complication following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.3",
+    "description": "Rupture of cardiac wall without haemopericardium as current complication following acute myocardial\ninfarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.4",
+    "description": "Rupture of chordae tendineae as current complication following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.5",
+    "description": "Rupture of papillary muscle as current complication following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I23.8",
+    "description": "Other current complications following acute myocardial infarction",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I24.1",
+    "description": "Dressler's syndrome; Postmyocardial infarction syndrome",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "I25.8",
+    "description": "Chronic myocardial infarction or with stated duration of over 4 weeks",
+    "package": 9450,
+    "pf": 5670,
+    "hf": 3780
+  },
+  {
+    "code": "O08.2",
+    "description": "Embolism following abortion and ectopic and molar pregnancy; Embolism NOS; Air embolism; Amniotic fluid embolism; Blood-clot embolism; Pulmonary embolism; Pyaemic embolism; Septic or\nsepticopyaemic embolism; Soap embolism",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O08.5",
+    "description": "Metabolic disorders following abortion and ectopic\nand molar pregnancy",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O08.9",
+    "description": "Complication following abortion and ectopic and\nmolar pregnancy, unspecified",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O67.8",
+    "description": "Other intrapartum haemorrhage; Excessive\nintrapartum haemorrhage",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.0",
+    "description": "Rupture of uterus before on set of labour",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.1",
+    "description": "Rupture of uterus during labour; Rupture of uterus not stated as occuring before onset of labour",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.2",
+    "description": "Post partum inversion of uterus",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.3",
+    "description": "Obstetric laceration of cervix; Annular detachment of\ncervix",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.5",
+    "description": "Other obstetric injury to pelvic organs; Obstetric\ninjury to bladder; Obstetric injury to urethra",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.7",
+    "description": "Obstetric haematoma of pelvis; Obstetric haematoma of perineum; Obstetric haematoma of\nvagina; Obstetric haematoma of vulva",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.8",
+    "description": "Other specified obstetric trauma",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O71.9",
+    "description": "Obstetric trauma, unspecified",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O74.0",
+    "description": "Aspiration pneumonitis due to anaesthesia during labour and delivery; Inhalation of stomach contents or secretions NOS due to anaesthesia during labour and delivery; Mendelson's syndrome due to anaesthesia during labour and delivery",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O74.2",
+    "description": "Cardiac complications of anaesthesia during labour and delivery; Cardiac arrest due to anaesthesia during labour and delivery; Cardiac failure due to anaesthesia during labour and delivery",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O74.8",
+    "description": "Other complications of anaesthesia during labour\nand delivery",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O75.1",
+    "description": "Shock during or following labour and delivery;\nObstetic shock",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O75.8",
+    "description": "Other specified complications of labour and delivery",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O75.9",
+    "description": "Complication of labour and delivery, unspecified",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": "O87.9",
+    "description": "Venous complication in the puerperium, unspecified; Puerperal phlebitis NOS; Puerperal phlebopathy NOS;\nPuerperal thrombosis NOS",
+    "package": 4650,
+    "pf": 2790,
+    "hf": 1860
+  },
+  {
+    "code": 11000,
+    "description": "Debridement of extensive eczematous or infected\nskin",
+    "package": 10540,
+    "pf": 5040,
+    "hf": 5500
+  },
+  {
+    "code": 11010,
+    "description": "Debridement including removal of foreign material associated w/ open fracture(s) and/or dislocation(s);\nskin and subcutaneous tissues",
+    "package": 10540,
+    "pf": 5040,
+    "hf": 5500
+  },
+  {
+    "code": 11011,
+    "description": "Debridement including removal of foreign material associated w/ open fracture(s) and/or dislocation(s); skin, subcutaneous tissue, muscle fascia, and muscle",
+    "package": 11980,
+    "pf": 5880,
+    "hf": 6100
+  },
+  {
+    "code": 11012,
+    "description": "Debridement including removal of foreign material associated w/ open fracture(s) and/or dislocation(s); skin, subcutaneous tissue, muscle fascia, muscle, and\nbone",
+    "package": 12120,
+    "pf": 6720,
+    "hf": 5400
+  },
+  {
+    "code": 11040,
+    "description": "Debridement; skin, partial thickness",
+    "package": 3640,
+    "pf": 840,
+    "hf": 2800
+  },
+  {
+    "code": 11041,
+    "description": "Debridement; skin, full thickness",
+    "package": 3640,
+    "pf": 840,
+    "hf": 2800
+  },
+  {
+    "code": 11042,
+    "description": "Debridement; skin, and subcutaneous tissue",
+    "package": 5680,
+    "pf": 1680,
+    "hf": 4000
+  },
+  {
+    "code": 11043,
+    "description": "Debridement; skin, subcutaneous tissue, and muscle",
+    "package": 8020,
+    "pf": 2520,
+    "hf": 5500
+  },
+  {
+    "code": 11044,
+    "description": "Debridement; skin, subcutaneous tissue, muscle, and\nbone",
+    "package": 8020,
+    "pf": 2520,
+    "hf": 5500
+  },
+  {
+    "code": 11720,
+    "description": "Debridement of nail(s) by any method(s); one to five",
+    "package": 3640,
+    "pf": 0,
+    "hf": 2800
+  },
+  {
+    "code": 11721,
+    "description": "Debridement of nail(s) by any method(s); six or more",
+    "package": 5560,
+    "pf": 1260,
+    "hf": 4300
+  },
+  {
+    "code": 16010,
+    "description": "Dressings and/or debridement, initial or subsequent",
+    "package": 8260,
+    "pf": 3360,
+    "hf": 4900
+  },
+  {
+    "code": 21627,
+    "description": "Sternal debridement",
+    "package": 12288,
+    "pf": 6888,
+    "hf": 5400
+  },
+  {
+    "code": 36430,
+    "description": "Outpatient Transfusion of Blood or Blood Products;\none or more units",
+    "package": 3640,
+    "pf": 0,
+    "hf": 2800
+  },
+  {
+    "code": 49080,
+    "description": "Peritoneocentesis, abdominal paracentesis, or\nperitoneal lavage (diagnostic or therapeutic)",
+    "package": 8020,
+    "pf": 2520,
+    "hf": 5500
+  },
+  {
+    "code": 55250,
+    "description": "Vasectomy, unilateral or bilateral",
+    "package": 4000,
+    "pf": 1000,
+    "hf": 3000
+  },
+  {
+    "code": 58600,
+    "description": "Ligation or transection of fallopian tube(s),\nabdominal or vaginal approach, unilateral or bilateral",
+    "package": 4000,
+    "pf": 1000,
+    "hf": 3000
+  },
+  {
+    "code": 77401,
+    "description": "Radiation treatment delivery (Linear Accelerator)",
+    "package": 3000,
+    "pf": 1200,
+    "hf": 1800
+  },
+  {
+    "code": 77401,
+    "description": "Radiation treatment delivery (Cobalt Accelerator)",
+    "package": 2000,
+    "pf": 0,
+    "hf": 1200
+  },
+  {
+    "code": 77761,
+    "description": "Intracavitary radiation source application, 1 or more sources/ribbons (Brachytherapy), one or more sessions during the course of therapy including follow-up care for 90 days after procedure",
+    "package": 18000,
+    "pf": 8400,
+    "hf": 9600
+  },
+  {
+    "code": 77776,
+    "description": "Interstitial radiation source application, 1 or more sources/ribbons (Brachytherapy), one or more sessions during the course of therapy including follow-up care for 90 days after procedure",
+    "package": 18000,
+    "pf": 8400,
+    "hf": 9600
+  },
+  {
+    "code": 77781,
+    "description": "Remote after loading high intensity brachytherapy\n(RAHIB); 1 or more source position or catheters per session",
+    "package": 5680,
+    "pf": 1680,
+    "hf": 4000
+  },
+  {
+    "code": 77789,
+    "description": "Surface application of radiation source (Brachytherapy), one or more sessions during the course of therapy including follow-up care for 90\ndays after procedure",
+    "package": 9700,
+    "pf": 4200,
+    "hf": 5500
+  },
+  {
+    "code": 90935,
+    "description": "Hemodialysis procedure",
+    "package": 4000,
+    "pf": 500,
+    "hf": 3500
+  },
+  {
+    "code": 90945,
+    "description": "Dialysis procedure other than hemodialysis (e.g.\nperitoneal, hemofiltration)",
+    "package": 4000,
+    "pf": 0,
+    "hf": 3500
+  },
+  {
+    "code": 96408,
+    "description": "Chemotherapy administration",
+    "package": 7280,
+    "pf": 1680,
+    "hf": 5600
+  },
+  {
+    "code": "",
+    "description": "The following procedures if done on both sides during one confinement, the second procedure shall be considered as the second case rate and shall be reimbursed at 50% of the case rate for the\nprocedure except for the (3) cataract package",
+    "package": 0,
+    "pf": 0,
+    "hf": 0
+  },
+  {
+    "code": 15820,
+    "description": "Blepharoplasty, lower eyelid",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 15822,
+    "description": "Blepharoplasty, upper eyelid;",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 15823,
+    "description": "Blepharoplasty, upper eyelid; with excessive skin\nweighting down lid",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 19160,
+    "description": "Mastectomy, partial;",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19162,
+    "description": "Mastectomy, partial; with axillary lymphadenectomy",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19180,
+    "description": "Mastectomy, simple, complete",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19182,
+    "description": "Mastectomy, subcutaneous",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19200,
+    "description": "Mastectomy, radical, icnluding pectoral muscles,\naxillary lymph nodes",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19220,
+    "description": "Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban\ntype operation)",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19240,
+    "description": "Mastectomy, modified radical, including axillary lymph nodes, w/ or w/o pectoralis minor muscle, but excluding pectoralis major muscle",
+    "package": 11000,
+    "pf": 8800,
+    "hf": 2200
+  },
+  {
+    "code": 19340,
+    "description": "Immediate insertion of breast prosthesis following mastopexy, mastectomy or in reconstruction",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 19342,
+    "description": "Delayed insertion of breast prosthesis following\nmastopexy, mastectomy or in reconstruction",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 19350,
+    "description": "Nipple/areola reconstruction",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 19357,
+    "description": "Breast reconstruction, immediate or delayed, with tissue expander, including subsequent expansion",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 19361,
+    "description": "Breast reconstruction with latissimus dorsi flap, with\nor without prosthetic implant",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 19364,
+    "description": "Breast reconstruction with free flap",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 19366,
+    "description": "Breast reconstruction with other technique",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 19367,
+    "description": "Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), single pedicle,\nincluding closure of donor site;",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 19369,
+    "description": "Breast reconstruction with transverse rectus abdominis myocutaneous flap (TRAM), double\npedicle, including closure of donor site",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 19370,
+    "description": "Open periprosthetic capsulotomy, breast",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 19371,
+    "description": "Periprosthetic capsulectomy, breast",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 23515,
+    "description": "Open treatment of clavicular fracture, w/ or w/o\ninternal or external fixation",
+    "package": 6228,
+    "pf": 4982,
+    "hf": 1246
+  },
+  {
+    "code": 23520,
+    "description": "Closed treatment of sternoclavicular dislocation",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 23530,
+    "description": "Open treatment of sternoclavicular disloction, acute\nor chronic;",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 23532,
+    "description": "Open treatment of sternoclavicular disloction, w/\nfascial graft (includes obtaining graft)",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 23540,
+    "description": "Closed treatment of acromioclavicular dislocation",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 23550,
+    "description": "Open treatment of acromioclavicular dislocation,\nacute or chronic;",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 23552,
+    "description": "Open treatment of acromioclavicular dislocation, acute or chronic; w/ fascial graft (includes obtaining\ngraft)",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 23570,
+    "description": "Closed treatment of scapular fracture",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 23585,
+    "description": "Open treatment of scapular fracture (body, glenoid\nor acromion) w/ or w/o internal fixation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 23600,
+    "description": "Closed treatment of proximal humeral (surgical or\nanatomical neck) fracture",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 23615,
+    "description": "Open treatment of proximal humeral (surgical or anatomical neck) fracture, w/ or w/o internal or external fixation, w/ or w/o repair of tuberosity(-ies);",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 23616,
+    "description": "Open treatment of proximal humeral (surgical or anatomical neck) fracture, w/ or w/o internal or external fixation, w/ or w/o repair of tuberosity(-ies); w/ proximal humeral prosthetic replacement",
+    "package": 23670,
+    "pf": 18936,
+    "hf": 4734
+  },
+  {
+    "code": 23620,
+    "description": "Closed treatment of greater tuberosity fracture",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 23630,
+    "description": "Open treatment of greater tuberosity fracture, w/ or\nw/o internal or external fixation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 23650,
+    "description": "Closed treatment of shoulder dislocation",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 23660,
+    "description": "Open treatment of acute shoulder dislocation",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 23665,
+    "description": "Closed treatment of shoulder dislocation,/ fracture\nof greater tuberosity",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 23670,
+    "description": "Open treatment of shoulder dislocation, w/ fracture of greater tuberosity, w/ or w/o internal or external\nfixation",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 23675,
+    "description": "Closed treatment of shoulder dislocation, w/ surgical\nor anatomical neck fracture",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 23680,
+    "description": "Open treatment of shoulder dislocation, w/ surgical or anatomical neck fracture, w/ or w/o internal or\nexternal fixation",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 23700,
+    "description": "Manipulation under anesthesia, shoulder joint, including application of fixation apparatus\n(dislocation excluded)",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 23900,
+    "description": "Interthoracoscapular amputation (forequarter)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 23920,
+    "description": "Disarticulation of shoulder;",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 24500,
+    "description": "Closed treatment of humeral shaft fracture",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 24515,
+    "description": "Open treatment of humeral shaft fracture w/\nplate/screws, w/ or w/o cerclage",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 24516,
+    "description": "Open treatment of humeral shaft fracture, w/\ninsertion of intramedullary implant, w/ or w/o cerclage and/or locking screws",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 24530,
+    "description": "Closed treatment of supracondylar or transcondylar humeral fracture, w/ or w/o intercondylar extension",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 24545,
+    "description": "Open treatment of humeral supracondylar or transcondylar fracture, w/ or w/o internal or external\nfixation; w/o intercondylar extension",
+    "package": 6228,
+    "pf": 4982,
+    "hf": 1246
+  },
+  {
+    "code": 24546,
+    "description": "Open treatment of humeral supracondylar or transcondylar fracture, w/ or w/o internal or external\nfixation;  w/ intercondylar extension",
+    "package": 16000,
+    "pf": 12800,
+    "hf": 3200
+  },
+  {
+    "code": 24560,
+    "description": "Closed treatment of humeral epicondylar fracture,\nmedial or lateral;",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 24575,
+    "description": "Open treatment of humeral epicondylar fracture, medial or lateral, w/ or w/o internal or external\nfixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 24576,
+    "description": "Closed treatment of humeral condylar fracture,\nmedial or lateral",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 24579,
+    "description": "Open treatment of humeral condylar fracture, medial or lateral, w/ or w/o internal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 24586,
+    "description": "Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius);",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 24587,
+    "description": "Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius); w/ implant\narthroplasty",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 24600,
+    "description": "Treatment of closed elbow dislocation",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 24615,
+    "description": "Open treatment of acute or chronic elbow\ndislocation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 24620,
+    "description": "Closed treatment of Monteggia type of fracture dislocation at elbow (fracture proximal end of ulna\nw/ dislocation of radial head)",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 24635,
+    "description": "Open treatment of Monteggia type of fracture dislocation at elbow (fracture proximal end of ulna w/ dislocation of radial head), w/ or w/o internal or\nexternal fixation",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 24640,
+    "description": "Closed treatment of radial head subluxation in child,\n\"nursemaid elbow",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 24650,
+    "description": "Closed treatment of radial head or neck fracture",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 24665,
+    "description": "Open treatment of radial head or neck fracture, w/\nor w/o internal fixation or radial head excision;",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 24666,
+    "description": "Open treatment of periarticular fracture and/or dislocation of the elbow (fracture distal humerus and proximal ulna and/or proximal radius);  w/ radial\nhead prosthetic replacement",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 24670,
+    "description": "Closed treatment of ulnar fracture, proximal end\n(olecranon process)",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 24685,
+    "description": "Open treatment of ulnar fracture proximal end\n(olecranon process), w/ or w/o internal or external\nfixation",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 24900,
+    "description": "Amputation, arm through humerus; w/ primary\nclosure",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 24920,
+    "description": "Amputation, arm through humerus; open, circular\n(guillotine)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 24925,
+    "description": "Amputation, arm through humerus; secondary\nclosure or scar revision",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 24930,
+    "description": "Amputation, arm through humerus; re-amputation",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 24931,
+    "description": "Amputation, arm through humerus; w/ implant",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 25500,
+    "description": "Closed treatment of radial shaft fracture",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 25515,
+    "description": "Open treatment of radial shaft fracture, w/ or w/o\ninternal or external fixation",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 25520,
+    "description": "Closed treatment of radial shaft fracture, w/\ndislocation of distal radio-ulnar joint (Galeazzi fracture/dislocation)",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 25525,
+    "description": "Open treatment of radial shaft fracture, w/ internal and/or external fixation and closed treatment of dislocation of distal radio-ulnar joint (Galeazzi fracture/dislocation), w/ or w/o percutaneous\nskeletal fixation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 25526,
+    "description": "Open treatment of radial shaft fracture, w/ internal and/or external fixation and open treatment, w/ or w/o internal or external fixation of distal radio-ulnar joint (Galleazi fracture/dislocation), includes repair of triangular cartilage",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 25530,
+    "description": "Closed treatment of ulnar shaft fracture",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 826
+  },
+  {
+    "code": 25545,
+    "description": "Open treatment of ulnar shaft fracture, w/ or w/o\ninternal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 25560,
+    "description": "Closed treatment of radial and ulnar shaft fractures",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 25574,
+    "description": "Open treatment of radial and ulnar shaft fractures, w/ internal or external fixation; of radius or ulna",
+    "package": 13980,
+    "pf": 11184,
+    "hf": 2796
+  },
+  {
+    "code": 25575,
+    "description": "Open treatment of radial and ulnar shaft fractures, w/ internal or external fixation; of radius and ulna",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 25600,
+    "description": "Closed treatment of distal radial fracture (e.g., Colles or Smith type) or epiphyseal separation, w/ or w/o\nfracture of ulnar styloid",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25620,
+    "description": "Open treatment of distal radial fracture (e.g., Colles or Smith type) or epiphyseal separation, w/ or w/o fracture of ulnar styloid, w/ or w/o internal or\nexternal fixation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 25622,
+    "description": "Closed treatment of carpal scaphoid (navicular)\nfracture",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25628,
+    "description": "Open treatment of carpal scaphoid (navicular)\nfracture, w/ or w/o internal or external fixation",
+    "package": 10910,
+    "pf": 8728,
+    "hf": 2182
+  },
+  {
+    "code": 25630,
+    "description": "Closed treatment of carpal bone fracture (excluding\ncarpal scaphoid (navicular))",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25645,
+    "description": "Open treatment of carpal bone fracture (excluding carpal scaphoid (navicular)), each bone",
+    "package": 10952,
+    "pf": 8762,
+    "hf": 2190
+  },
+  {
+    "code": 25650,
+    "description": "Closed treatment of ulnar styloid fracture",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 844
+  },
+  {
+    "code": 25660,
+    "description": "Closed treatment of radiocarpal or intercarpal\ndislocation, one or more bones",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25670,
+    "description": "Open treatment of radiocarpal or intercarpal\ndislocation, one or more bones",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 25675,
+    "description": "Closed treatment of distal radioulnar dislocation",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25676,
+    "description": "Open treatment of distal radioulnar dislocation,\nacute or chronic",
+    "package": 10910,
+    "pf": 8728,
+    "hf": 2182
+  },
+  {
+    "code": 25680,
+    "description": "Closed treatment of trans-scaphoperilunar type of\nfracture dislocation",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 25685,
+    "description": "Open treatment of trans-scaphoperilunar type of\nfracture dislocation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 25690,
+    "description": "Closed treatment of lunate dislocation",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 826
+  },
+  {
+    "code": 25695,
+    "description": "Open treatment of lunate dislocation",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 25900,
+    "description": "Amputation, forearm, through, radius and ulna;",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 25905,
+    "description": "Amputation, forearm, through, open, circular\n(guillotine)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 25907,
+    "description": "Amputation, forearm, through, secondary closure or\nscar revision",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 25909,
+    "description": "Amputation, forearm, through, re-amputation",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 25920,
+    "description": "Disarticulation through wrist;",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 25922,
+    "description": "Disarticulation through wrist; secondary closure or\nscar revision",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 0
+  },
+  {
+    "code": 25924,
+    "description": "Disarticulation through wrist; re-amputation",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 25927,
+    "description": "Transmetacarpal amputation;",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 25929,
+    "description": "Transmetacarpal amputation; secondary closure or\nscar revision",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 0
+  },
+  {
+    "code": 25931,
+    "description": "Transmetacarpal amputation; re-amputation",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 26600,
+    "description": "Closed treatment of metacarpal fracture, single",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 26607,
+    "description": "Closed treatment of metacarpal fracture, w/ internal\nor external fixation",
+    "package": 6450,
+    "pf": 5160,
+    "hf": 1290
+  },
+  {
+    "code": 26615,
+    "description": "Open treatment of metacarpal fracture, single, w/ or w/o internal or external fixation, each bone",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 26641,
+    "description": "Closed treatment of carpometacarpal dislocation,\nthumb",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 26645,
+    "description": "Closed tratment of carpometacarpal fracture\ndislocation, thumb (Bennett fracture)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 26665,
+    "description": "Open treatment of carpometacarpal fracture dislocation, thumb (Bennett fracture), w/ or w/o\ninternal or external fixation",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 26670,
+    "description": "Closed treatment of carpometacarpal dislocation, other than thumb (Bennett fracture); single",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 26685,
+    "description": "Open treatment of carpometacarpal dislocation, other than thumb (Bennett fracture); single, w/ or w/o Open treatment of carpometacarpal dislocation, other than thumb (Bennett fracture); single, internal\nor external fixation",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 26686,
+    "description": "Open treatment of carpometacarpal dislocation, other than thumb (Bennett fracture); single,\ncomplex, multiple or delayed reduction",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 26700,
+    "description": "Closed treatment of metacarpophalangeal\ndislocation, single",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 26715,
+    "description": "Open treatment of metacarpophalangeal dislocation, single, w/ or w/o internal or external fixation",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 26720,
+    "description": "Closed treatment of phalangeal shaft fracture,\nproximal or middle phalanx, finger or thumb",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 26735,
+    "description": "Open treatment of phalangeal shaft fracture, proximal or middle phalanx, finger or thumb, w/ or\nw/o internal or external fixation, each",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 26740,
+    "description": "Closed treatment of articular fracture, involving\nmetacarpophalangeal or interphalangeal joint",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 26746,
+    "description": "Open treatment of articular fracture, involving metacarpophalangeal or interphalangeal joint, w/ or\nw/o internal or external fixation, each",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 26750,
+    "description": "Closed treatment of distal phalangeal fracture, finger\nor thumb",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 26765,
+    "description": "Open treatment of distal phalangeal fracture, finger or thumb, w/ or w/o internal or external fixation,\neach",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 26770,
+    "description": "Closed treatment of interphalangeal joint dislocation,\nsingle",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 26785,
+    "description": "Open treatment of interphalangeal joint dislocation, w/ or w/o internal or external fixation, single",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 26910,
+    "description": "Amputation, metacarpal, w/ finger or thumb (ray amputation), single, w/ or w/o interosseous transfer",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 26951,
+    "description": "Amputation, finger or thumb, primary or secondary, any joint or phalanx, single, including neurectomies;\nw/ direct closure",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 26952,
+    "description": "Amputation, finger or thumb, primary or secondary, any joint or phalanx, single, including neurectomies; w/ local advancement flaps (V-Y, hood)",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 27175,
+    "description": "Treatment of slipped femoral epiphysis; by traction,\nw/o reduction",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27176,
+    "description": "Treatment of slipped femoral epiphysis; by single or\nmultiple pinning, in situ",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 27177,
+    "description": "Open treatment of slipped femoral epiphysis; single of multiple pinning or bone graft (includes obtaining\ngraft)",
+    "package": 15570,
+    "pf": 12456,
+    "hf": 3114
+  },
+  {
+    "code": 27178,
+    "description": "Open treatment of slipped femoral epiphysis; closed manipulation w/ single or multiple pinning",
+    "package": 15570,
+    "pf": 12456,
+    "hf": 3114
+  },
+  {
+    "code": 27179,
+    "description": "Open treatment of slipped femoral epiphysis;\nosteoplasty of femoral neck (Heyman type\nprocedure)",
+    "package": 15570,
+    "pf": 12456,
+    "hf": 3114
+  },
+  {
+    "code": 27181,
+    "description": "Open treatment of slipped femoral epiphysis;\nosteotomy and internal fixation",
+    "package": 18590,
+    "pf": 14872,
+    "hf": 3718
+  },
+  {
+    "code": 27215,
+    "description": "Open treatment of iliac spine(s), tuberosity avulsion, or iliac wing fracture(s) (e.g., pelvic fracture(s) w/c do not disrupt the pelvic ring), w/ internal fixation",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 27217,
+    "description": "Open treatment of anterior ring fracture and/or dislocation w/ internal fixation (includes pubic\nsymphysis and/or rami)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27218,
+    "description": "Open treatment of posterior ring fracture and/or dislocation w/ internal fixation (includes ilium,\nsacroiliac joint and/or sacrum)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27220,
+    "description": "Closed treatment of acetabulum (hip socket)\nfracture(s)",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27226,
+    "description": "Open treatment of posterior or anterior acetabular\nwall fracture, w/ internal fixation",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 27227,
+    "description": "Open treatment of acetabular fracture(s) involving anterior or posterior (one) column, or a fracture running transversely across the acetabulum, w/\ninternal fixation",
+    "package": 20160,
+    "pf": 16128,
+    "hf": 4032
+  },
+  {
+    "code": 27228,
+    "description": "Open treatment of acetabular fracture(s) involving anterior and posterior (two) columns, includes T- fracture and both column fracture w/ complete articular detachment, or single column or transverse fracture w/ associated acetabular wall fracture, w/",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27230,
+    "description": "Closed treatment of femoral fracture, proximal end,\nneck",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27236,
+    "description": "Open treatment of femoral fracture, proximal end, neck, internal fixation or prosthetic replacement\n(direct fracture exposure)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27238,
+    "description": "Closed treatment of  intertrochanteric, pertrochanteric, or subtrochanteric femoral fracture",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27244,
+    "description": "Open treatment of intertrochanteric,\npertrochanteric, or subtrochanteric femoral fracture;\nw/ plate/screw type implant, w/ or w/o cerclage",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27245,
+    "description": "Open treatment of intertrochanteric,\npertrochanteric, or subtrochanteric femoral fracture;\nw/ intramedullary implant, w/ or w/o interlocking screws and/or cerclage",
+    "package": 15570,
+    "pf": 12456,
+    "hf": 3114
+  },
+  {
+    "code": 27246,
+    "description": "Closed treatment of greater trochanteric fracture",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27248,
+    "description": "Open treatment of greater trochanteric fracture, w/\nor w/o internal or external fixation",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27250,
+    "description": "Closed treatment of hip dislocation, traumatic",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27253,
+    "description": "Open treatment of  hip dislocation, traumatic, w/o\ninternal fixation",
+    "package": 18590,
+    "pf": 14872,
+    "hf": 3718
+  },
+  {
+    "code": 27254,
+    "description": "Open treatment of hip dislocation, traumatic w/\nacetabular wall and femoral head fracture, w/ or w/o internal or external fixation",
+    "package": 20160,
+    "pf": 16128,
+    "hf": 4032
+  },
+  {
+    "code": 27258,
+    "description": "Open treatment of spontaneous hip dislocation (developmental, including congenital or pathological), replacement of femoral head in\nacetabulum (including tenotomy, etc);",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 27259,
+    "description": "Open treatment of spontaneous hip dislocation (developmental, including congenital or pathological), replacement of femoral head in acetabulum (including tenotomy, etc); w/ femoral\nshaft shortening",
+    "package": 18590,
+    "pf": 14872,
+    "hf": 3718
+  },
+  {
+    "code": 27265,
+    "description": "Closed treatment of post hip arthroplasty dislocation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 27290,
+    "description": "Interpelviabdominal amputation (hindquarter\namputation)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 27295,
+    "description": "Disarticulation of hip",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 27501,
+    "description": "Closed treatment of supracondylar or transcondylar femoral fracture w/ or w/o intercondylar extension",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 27502,
+    "description": "Closed treatment of femoral shaft fracture, w/ or\nw/o skin or skeletal traction",
+    "package": 9210,
+    "pf": 7368,
+    "hf": 1842
+  },
+  {
+    "code": 27503,
+    "description": "Closed treatment of supracondylar or transcondylar femoral fracture w/ or w/o intercondylar extension, w/ or w/o skin or skeletal traction",
+    "package": 9210,
+    "pf": 7368,
+    "hf": 1842
+  },
+  {
+    "code": 27506,
+    "description": "Open treatment of femoral shaft fracture, w/ or w/o external fixation, w/ insertion of intramedullary implant, w/ or w/o cerclage and/or locking screws",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27507,
+    "description": "Open treatment of femoral shaft fracture w/\nplate/screws, w/ or w/o cerclage",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27510,
+    "description": "Closed treatment of femoral fracture, distal end,\nmedial or lateral condyle",
+    "package": 9210,
+    "pf": 7368,
+    "hf": 1842
+  },
+  {
+    "code": 27511,
+    "description": "Open treatment of femoral supracondylar or transcondylar fracture w/o intercondylar extension, w/ or w/o internal or external fixation",
+    "package": 18590,
+    "pf": 14872,
+    "hf": 3718
+  },
+  {
+    "code": 27513,
+    "description": "Open treatment of femoral supracondylar or transcondylar fracture w/ intercondylar extension, w/ or w/o internal or external fixation",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 27514,
+    "description": "Open treatment of femoral fracture, distal end, medial or lateral condyle, w/ or w/o internal or\nexternal fixation",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27516,
+    "description": "Closed treatment of distal femoral epiphyseal\nseparation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27519,
+    "description": "Open treatment of distal femoral epiphyseal separation, w/ or w/o internal or external fixation",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 27520,
+    "description": "Closed treatment of patellar fracture",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27524,
+    "description": "Open treatment of patellar fracture, w/ internal fixation and/or partial or complete patellectomy and\nsoft tissue repair",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27530,
+    "description": "Closed treatment of tibial fracture, proximal\n(plateau)",
+    "package": 9210,
+    "pf": 7368,
+    "hf": 1842
+  },
+  {
+    "code": 27535,
+    "description": "Open treatment of tibial fracture, proximal (plateau);\nunicondylar, w/ or w/o internal or external fixation",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27536,
+    "description": "Open treatment of tibial fracture, proximal (plateau);\nbicondylar, w/ or w/o internal fixation",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27538,
+    "description": "Closed treatment of intercondylar spine(s) and/or\ntuberosity fracture(s) of knee",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 27540,
+    "description": "Open treatment of intercondylar spine(s) and/or tuberosity fracture(s) of the knee, w/ or w/o internal\nor external fixation",
+    "package": 10910,
+    "pf": 8728,
+    "hf": 2182
+  },
+  {
+    "code": 27550,
+    "description": "Closed treatment of knee dislocation",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 27556,
+    "description": "Open treatment of knee dislocation, w/ or w/o internal or external fixation; w/o primary ligamentous repair or augmentation/reconstruction",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27557,
+    "description": "Open treatment of knee dislocation, w/ or w/o internal or external fixation; w/ primary ligamentous\nrepair",
+    "package": 13980,
+    "pf": 11184,
+    "hf": 2796
+  },
+  {
+    "code": 27558,
+    "description": "Open treatment of knee dislocation, w/ or w/o internal or external fixation; w/ primary ligamentous repair, w/ augmentation/reconstruction",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 27560,
+    "description": "Closed treatment of patellar dislocation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27566,
+    "description": "Open treatment of patellar dislocation, w/ or w/o\npartial or total patellectomy",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27590,
+    "description": "Amputation, thigh, through femur, any level;",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 27591,
+    "description": "Amputation, thigh, through femur, any level;\nimmediate fitting technique including first cast",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27592,
+    "description": "Amputation, thigh, through femur, any level; open,\ncircular (guillotine)",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27594,
+    "description": "Amputation, thigh, through femur, any level;\nsecondary closure or scar revision",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 27596,
+    "description": "Amputation, thigh, through femur, any level; re-\namputaion",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 27598,
+    "description": "Disarticulation at knee",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27750,
+    "description": "Closed treatment of tibial shaft fracture (w/ or w/o\nfibular fracture)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 27752,
+    "description": "Closed treatment of tibial shaft fracture (with or without fibular fracture); with manipulation, with or\nwithout skeletal traction",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 27758,
+    "description": "Open treatment of tibial shaft fracture (w/ or w/o fibular fracture) w/ plate/screws, w/ or w/o cerclage",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 27759,
+    "description": "Open treatment of tibial shaft fracture (w/ or w/o fibular fracture) by intramedullary implant, w/ or\nw/o interlocking screws and/or cerclage",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 27760,
+    "description": "Closed treatment of medial malleolus fracture",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 27766,
+    "description": "Open treatment of medial malleolus fracture, w/ or\nw/o internal or external fixation",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 27780,
+    "description": "Closed treatment of proximal fibula or shaft fracture",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 27784,
+    "description": "Open treatment of proximal fibula or shaft fracture,\nw/ or w/o internal or external fixation",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 27786,
+    "description": "Closed treatment of distal fibular fracture (lateral\nmalleolus)",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 27792,
+    "description": "Open treatment of distal fibular fracture (lateral malleolus), w/ or w/o internal or external fixation\nw/o manipulation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27808,
+    "description": "Closed treatment of bimalleolar ankle fracture,\n(including Potts)",
+    "package": 6450,
+    "pf": 5160,
+    "hf": 1290
+  },
+  {
+    "code": 27814,
+    "description": "Open treatment of bimalleolar ankle fracture, w/ or\nw/o internal or external fixation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27816,
+    "description": "Closed treatment of trimalleolar ankle fracture",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27822,
+    "description": "Open treatment of trimalleolar ankle fracture, w/ or w/o internal or external fixation, medial and/or lateral malleolus; w/o fixation of posterior lip",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27823,
+    "description": "Open treatment of trimalleolar ankle fracture, w/ or w/o internal or external fixation, medial and/or lateral malleolus; w/ fixation of posterior lip",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27824,
+    "description": "Closed treatment of fracture of weight bearing articular portion of distal tibia (e.g., pilon or tibial\nplafond)",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 27826,
+    "description": "Open treatment of fracture of weight bearing articular surface/portion of distal tibia (e.g., pilon or tibial plafond), w/ internal or external fixation; of\nfibula only",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27827,
+    "description": "Open treatment of fracture of weight bearing articular surface/portion of distal tibia (e.g., pilon or tibial plafond), w/ internal or external fixation; of\ntibia only",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 27828,
+    "description": "Open treatment of fracture of weight bearing articular surface/portion of distal tibia (e.g., pilon or tibial plafond), w/ internal or external fixation; of\nboth tibia and fibula",
+    "package": 10910,
+    "pf": 8728,
+    "hf": 2182
+  },
+  {
+    "code": 27829,
+    "description": "Open treatment of distal tibiofibular joint\n(syndesmosis) disruption, w/ or w/o internal or external fixation",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 27830,
+    "description": "Closed treatment of proximal tibiofibular joint\ndislocation",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 27832,
+    "description": "Open treatment of proximal tibiofibular joint dislocation, w/ or w/o internal or external fixation, or\nw/ excision of proximal fibula",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 27840,
+    "description": "Closed treatment of ankle dislocation",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 27846,
+    "description": "Open treatment of ankle dislocation, w/ or w/o percutaneous skeletal fixation; w/o repair or internal\nfixation",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 27848,
+    "description": "Open treatment of ankle dislocation, w/ or w/o percutaneous skeletal fixation; w/ repair or internal\nor external fixation",
+    "package": 11860,
+    "pf": 9488,
+    "hf": 2372
+  },
+  {
+    "code": 27880,
+    "description": "Amputation, leg, through tibia and fibula;",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 27881,
+    "description": "Amputation, leg, through tibia and fibula; w/\nimmediate fitting technique including application of first cast",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 27882,
+    "description": "Amputation, leg, through tibia and fibula; open,\ncircular (guillotine)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 27884,
+    "description": "Amputation, leg, through tibia and fibula; secondary\nclosure or scar revision",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 27886,
+    "description": "Amputation, leg, through tibia and fibula; re-\namputation",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27888,
+    "description": "Amputation, ankle, through malleoli of tibia and fibula (Syme, Pirogoff type procedures), w/ plastic\nclosure and resection of nerves",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 27889,
+    "description": "Ankle disarticulation",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 28400,
+    "description": "Closed treatment of calcaneal fracture",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 28415,
+    "description": "Open treatment of calcaneal fracture, w/ or w/o\ninternal or external fixation;",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28420,
+    "description": "Open treatment of calcaneal fracture, w/ or w/o internal or external fixation; w/ primary iliac or other autogenous bone graft (includes obtaining graft)",
+    "package": 11180,
+    "pf": 8944,
+    "hf": 2236
+  },
+  {
+    "code": 28430,
+    "description": "Closed treatment of talus fracture",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 28445,
+    "description": "Open treatment of talus fracture, w/ or w/o internal\nor external fixation",
+    "package": 7690,
+    "pf": 6152,
+    "hf": 1538
+  },
+  {
+    "code": 28450,
+    "description": "Treatment of tarsal bone fracture (except talus and\ncalcaneus)",
+    "package": 5566,
+    "pf": 4453,
+    "hf": 1113
+  },
+  {
+    "code": 28465,
+    "description": "Open treatment of tarsal bone fracture (except talus and calcaneus), w/ or w/o internal or external\nfixation",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 28470,
+    "description": "Closed treatment of metatarsal fracture",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 28485,
+    "description": "Open treatment of metatarsal fracture, w/ or w/o\ninternal or external fixation",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 28490,
+    "description": "Closed treatment of fracture great toe, phalanx or\nphalanges",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 28505,
+    "description": "Open treatment of fracture great toe, phalanx or phalanges, w/ or w/o internal or external fixation",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 28510,
+    "description": "Closed treatment of fracture, phalanx or phalanges,\nother than great toe",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 28525,
+    "description": "Open treatment of fracture, phalanx or phalanges, other than great toe, w/ or w/o internal or external\nfixation",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 28530,
+    "description": "Closed treatment of sesamoid fracture",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 826
+  },
+  {
+    "code": 28531,
+    "description": "Open treatment of sesamoid fracture, w/ or w/o\ninternal fixation",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 28540,
+    "description": "Closed treatment of tarsal bone dislocation, other\nthan talotarsal",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 28555,
+    "description": "Open treatment of tarsal bone dislocation, w/ or w/o\ninternal or external fixation",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 28570,
+    "description": "Closed treatment of talotarsal joint dislocation",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 28585,
+    "description": "Open treatment of talotarsal joint dislocation, w/ or\nw/o internal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28600,
+    "description": "Closed treatment of tarsometatarsal joint dislocation",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 28615,
+    "description": "Open treatment of tarsometatarsal joint dislocation, w/ or w/o internal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28630,
+    "description": "Closed treatment of metatarsophalangeal joint\ndislocation",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 28645,
+    "description": "Open treatment of metatarsophalangeal joint dislocation, w/ or w/o internal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28660,
+    "description": "Closed treatment of interphalangeal joint dislocation",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 28675,
+    "description": "Open treatment of interphalangeal joint dislocation, w/ or w/o internal or external fixation",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28800,
+    "description": "Amputation, foot; midtarsal (Chopart type\nprocedure)",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 28810,
+    "description": "Amputation, metatarsal, w/ toe, single",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 28820,
+    "description": "Amputation, toe; metatarsophalangeal joint",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 28825,
+    "description": "Amputation, toe; interphalangeal joint",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 29058,
+    "description": "Application of body cast, shoulder to hips; plaster\nVelpeau",
+    "package": 2780,
+    "pf": 2224,
+    "hf": 0
+  },
+  {
+    "code": 29065,
+    "description": "Application of body cast, shoulder to hips; shoulder\nto hand (long arm)",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 29075,
+    "description": "Application of body cast, shoulder to hips; elbow to\nfinger (short arm)",
+    "package": 2780,
+    "pf": 2224,
+    "hf": 0
+  },
+  {
+    "code": 29085,
+    "description": "Application of body cast, shoulder to hips; hand and\nlower forearm (gauntlet)",
+    "package": 2780,
+    "pf": 2224,
+    "hf": 0
+  },
+  {
+    "code": 29305,
+    "description": "Application of hip spica cast; one leg",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 29325,
+    "description": "Application of hip spica cast; one and one-half spica\nor both legs",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 0
+  },
+  {
+    "code": 29345,
+    "description": "Application of long leg cast (thigh to toes);",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 29355,
+    "description": "Application of long leg cast (thigh to toes); walker or\nambulatory type",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 0
+  },
+  {
+    "code": 29358,
+    "description": "Application of long leg cast brace",
+    "package": 4220,
+    "pf": 3376,
+    "hf": 844
+  },
+  {
+    "code": 29365,
+    "description": "Application of cylinder cast (thigh to ankle)",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 29405,
+    "description": "Application of short leg cast (below knee to toes);",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 29425,
+    "description": "Application of short leg cast (below knee to toes);\nwalking or ambulatory type",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 29435,
+    "description": "Application of patellar tendon bearing (PTB) cast",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 29445,
+    "description": "Application of rigid total contact leg cast",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 29450,
+    "description": "Application of clubfoot cast w/ molding or\nmanipulation, long or short leg",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 49495,
+    "description": "Repair initial inguinal hernia, under age 6 months, w/\nor w/o hydrocelectomy; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49496,
+    "description": "Repair initial inguinal hernia, under age 6 months, w/\nor w/o hydrocelectomy; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49497,
+    "description": "Repair initial inguinal hernia, under age 6 months, w/\nor w/o hydrocelectomy; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49500,
+    "description": "Repair initial inguinal hernia, age 6 months to under\n5 years, w/ or w/o hydrocelectomy; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49501,
+    "description": "Repair initial inguinal hernia, age 6 months to under\n5 years, w/ or w/o hydrocelectomy; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49502,
+    "description": "Repair initial inguinal hernia, age 6 months to under\n5 years, w/ or w/o hydrocelectomy; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49505,
+    "description": "Repair initial inguinal hernia, age 5 years or over;\nreducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49507,
+    "description": "Repair initial inguinal hernia, age 5 years or over;\nincarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49509,
+    "description": "Repair initial inguinal hernia, age 5 years or over;\nstrangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49520,
+    "description": "Repair recurrent inguinal hernia, any age; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49521,
+    "description": "Repair recurrent inguinal hernia, any age;\nincarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49522,
+    "description": "Repair recurrent inguinal hernia, any age;\nstrangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49525,
+    "description": "Repair inguinal hernia, sliding, any age",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49540,
+    "description": "Repair lumbar hernia",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49550,
+    "description": "Repair initial femoral hernia, any age; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49553,
+    "description": "Repair initial femoral hernia, any age; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49554,
+    "description": "Repair initial femoral hernia, any age; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49555,
+    "description": "Repair recurrent femoral hernia; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49557,
+    "description": "Repair recurrent femoral hernia; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49558,
+    "description": "Repair recurrent femoral hernia; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49560,
+    "description": "Repair initial incisional hernia; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49561,
+    "description": "Repair initial incisional hernia; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49562,
+    "description": "Repair initial incisional hernia; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49565,
+    "description": "Repair recurrent incisional hernia; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49566,
+    "description": "Repair recurrent incisional hernia; incarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49567,
+    "description": "Repair recurrent incisional hernia; strangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49570,
+    "description": "Repair epigastric hernia (e.g., preperitoneal fat);\nreducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49572,
+    "description": "Repair epigastric hernia (e.g., preperitoneal fat);\nincarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49573,
+    "description": "Repair epigastric hernia (e.g., preperitoneal fat);\nstrangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49580,
+    "description": "Repair umbilical hernia, under age 5 years; reducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49582,
+    "description": "Repair umbilical hernia, under age 5 years;\nincarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49583,
+    "description": "Repair umbilical hernia, under age 5 years;\nstrangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49585,
+    "description": "Repair umbilical hernia, age 5 years or over;\nreducible",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49587,
+    "description": "Repair umbilical hernia, age 5 years or over;\nincarcerated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49588,
+    "description": "Repair umbilical hernia, age 5 years or over;\nstrangulated",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49590,
+    "description": "Repair spigelian hernia",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49650,
+    "description": "Laparoscopy, surgical; repair of initial inguinal hernia",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 49651,
+    "description": "Laparoscopy, surgical; repair of recurrent inguinal\nhernia",
+    "package": 10500,
+    "pf": 8400,
+    "hf": 2100
+  },
+  {
+    "code": 54520,
+    "description": "Orchiectomy, simple (including subcapsular), w/ or w/o testicular prosthesis, scrotal or inguinal\napproach",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 54530,
+    "description": "Orchiectomy, radical, for tumor; inguinal approach",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 54535,
+    "description": "Orchiectomy, radical, for tumor; w/ abdominal\nexploration",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 54550,
+    "description": "Exploration for undescended testis (inguinal or\nscrotal area)",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 54560,
+    "description": "Exploration for undescended testis w/ abdominal\nexploration",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 54600,
+    "description": "Reduction of torsion of testis, surgical, w/ or w/o\nfixation of contralateral testis",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 54620,
+    "description": "Fixation of contralateral testis",
+    "package": 4650,
+    "pf": 3720,
+    "hf": 930
+  },
+  {
+    "code": 54640,
+    "description": "Orchiopexy, inguinal approach, w/ or w/o hernia\nrepair",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 54650,
+    "description": "Orchiopexy, abdominal approach, for intra-\nabdominal testis (e.g., Fowler-Stephens)",
+    "package": 6270,
+    "pf": 5016,
+    "hf": 1254
+  },
+  {
+    "code": 54670,
+    "description": "Suture or repair of testicular injury",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 54680,
+    "description": "Transplantation of testis(es) to thigh (because of\nscrotal destruction)",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 54690,
+    "description": "Laparoscopy, surgical; orchiectomy",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 54692,
+    "description": "Laparoscopy, surgical; orchiopexy for intra-\nabdominal testis",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 61330,
+    "description": "Decompression of orbit only, transcranial approach",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 61332,
+    "description": "Exploration of orbit (transcranial approach); w/\nbiopsy",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 61333,
+    "description": "Exploration of orbit (transcranial approach); w/\nremoval of lesion",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 61334,
+    "description": "Exploration of orbit (transcranial approach); w/\nremoval of foreign body",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 65091,
+    "description": "Evisceration of ocular contents; w/o implant",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65093,
+    "description": "Evisceration of ocular contents; w/ implant",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65101,
+    "description": "Enucleation of eye; w/o implant",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65103,
+    "description": "Enucleation of eye; w/ implant, muscles not attached\nto implant",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65105,
+    "description": "Enucleation of eye; w/ implant, muscles attached to\nimplant",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65110,
+    "description": "Exenteration of orbit without skin graft, removal of\norbital contents; only",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 65112,
+    "description": "Exenteration of orbit without skin graft, removal of orbital contents; w/ therapeutic removal of bone",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 65114,
+    "description": "Exenteration of orbit without skin graft, removal of orbital contents; w/ muscle or myocutaneous flap",
+    "package": 19740,
+    "pf": 15792,
+    "hf": 3948
+  },
+  {
+    "code": 65130,
+    "description": "Insertion of ocular implant; after evisceration, in\nscleral shell",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 65135,
+    "description": "Insertion of ocular implant; after enucleation,\nmuscles not attached to implant",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 65140,
+    "description": "Insertion of ocular implant; after enucleation,\nmuscles attached to implant",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 65150,
+    "description": "Reinsertion of ocular implant; with or without\nconjunctival graft",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 65155,
+    "description": "Reinsertion of ocular implant; with use of foreign material for reinforcement and/or attachment of\nmuscles to implant",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 65175,
+    "description": "Removal of ocular implant",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 65205,
+    "description": "Removal of foreign body, external eye; conjunctival,\nsuperficial",
+    "package": 1820,
+    "pf": 1456,
+    "hf": 0
+  },
+  {
+    "code": 65210,
+    "description": "Removal of foreign body, external eye;\nsubconjunctival or scleral, with slit lamp",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65222,
+    "description": "Removal of foreign body, external eye; cornea, with\nslit lamp",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65235,
+    "description": "Removal of foreign body, intraocular; from anterior\nchamber or lens",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 65260,
+    "description": "Removal of foreign body, intraocular; from posterior segment, magnetic extraction, anterior or posterior\nroute",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 65265,
+    "description": "Removal of foreign body, intraocular; from posterior\nsegment, nonmagnetic extraction",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 65270,
+    "description": "Repair of laceration; conjunctiva, w/ or w/o\nnonperforating laceration sclera, direct closure",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65273,
+    "description": "Repair of laceration; conjunctiva, by mobilization and\nrearrangement",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65275,
+    "description": "Repair of laceration; cornea, nonperforating, w/ or\nw/o removal foreign body",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 65280,
+    "description": "Repair of laceration; cornea and/or sclera,\nperforating, not involving uveal tissue",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 65285,
+    "description": "Repair of laceration; cornea and/or sclera, perforating, w/ reposition or resection of uveal tissue",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 65286,
+    "description": "Repair of laceration; application of tissue glue,\nwounds of cornea and/or sclera",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 65290,
+    "description": "Repair of wound, extraocular muscle, tendon and/ or\nTenons capsule",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 65450,
+    "description": "Destruction of lesion of cornea by cryotherapy,\nphotocoagulation or thermocauterization",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65710,
+    "description": "Keratoplasty (corneal transplant); lamellar",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65730,
+    "description": "Keratoplasty (corneal transplant); penetrating\n(except in aphakia)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65750,
+    "description": "Keratoplasty (corneal transplant); penetrating (in\naphakia)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65755,
+    "description": "Keratoplasty (corneal transplant); penetrating (in\npseudophakia)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65760,
+    "description": "Keratomileusis",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 65765,
+    "description": "Keratophakia",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65767,
+    "description": "Epikeratoplasty",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 65770,
+    "description": "Keratoprosthesis",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65771,
+    "description": "Radial keratotomy",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 65772,
+    "description": "Corneal relaxing incision for correction of surgically\ninduced astigmatism",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 65775,
+    "description": "Corneal wedge resection for correction of surgically\ninduced astigmatism",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 65780,
+    "description": "Ocular surface reconstruction; amniotic membrane\ntransplantation",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65781,
+    "description": "Ocular surface reconstruction; limbal stem cell\nallograft (eg, cadaveric or living donor)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65782,
+    "description": "Ocular surface reconstruction; limbal conjunctival\nautograft (includes obtaining graft)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 65805,
+    "description": "Paracentesis of anterior chamber of eye; w/\ntherapeutic release of aqueous",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 65810,
+    "description": "Paracentesis of anterior chamber of eye; w/ removal of vitreous and/or discission of anterior hyaloid membrane, w/ or w/o air injection",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 65815,
+    "description": "Paracentesis of anterior chamber of eye; w/ removal of blood, w/ or w/o irrigation and/or air injection",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 65820,
+    "description": "Goniotomy",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 65850,
+    "description": "Trabeculotomy ab externo",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 65855,
+    "description": "Trabeculoplasty by laser surgery, one or more\nsessions (defined treatment series)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 65860,
+    "description": "Severing adhesions of anterior segment, laser\ntechnique",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65865,
+    "description": "Severing adhesions of anterior segment of eye, incisional technique (w/ or w/o injection of air or\nliquid); goniosynechiae",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65870,
+    "description": "Severing adhesions of anterior segment of eye, incisional technique (w/ or w/o injection of air or liquid); anterior synechiae, except goniosynechiae",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65875,
+    "description": "Severing adhesions of anterior segment of eye, incisional technique (w/ or w/o injection of air or\nliquid); posterior synechiae",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65880,
+    "description": "Severing adhesions of anterior segment of eye, incisional technique (w/ or w/o injection of air or\nliquid); corneovitreal adhesions",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65900,
+    "description": "Removal of epithelial material, anterior segment eye",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 65920,
+    "description": "Removal of implanted material, anterior segment\neye",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66150,
+    "description": "Fistulization of scalera for glaucoma; trephination w/\niridectomy",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66155,
+    "description": "Fistulization of scalera for glaucoma;\nthermocauterization w/ iridectomy",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66160,
+    "description": "Fistulization of scalera for glaucoma; sclerectomy w/\npunch or scissors, w/ iridectomy",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66165,
+    "description": "Fistulization of scalera for glaucoma; iridencleisis or\niridotasis",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66170,
+    "description": "Fistulization of scalera for glaucoma; trabeculectomy ab externo in absence of previous surgery",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66172,
+    "description": "Fistulization of scalera for glaucoma; trabeculectomy ab externo w/ scarring from previous ocular surgery or trauma (includes injection of antifibrotic agents)",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 66180,
+    "description": "Aquenous shunt to extraocular reservoir (e.g.,\nMolteno, Schocket, Denver-Krupin)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 66185,
+    "description": "Revision of aqueous shunt to extraocular reservoir",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 66220,
+    "description": "Repair of scleral staphyloma; w/o graft",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66225,
+    "description": "Repair of scleral staphyloma; w/ graft",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 66500,
+    "description": "Iridotomy by stab incision; except transfixion",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 66505,
+    "description": "Iridotomy by stab incision; w/ transfixion as for iris\nbombe",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 66600,
+    "description": "Iridectomy, w/ corneoscleral or corneal section; for\nremoval of lesion",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66605,
+    "description": "Iridectomy, w/ corneoscleral or corneal section; w/\ncyclectomy",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66625,
+    "description": "Iridectomy, w/ corneoscleral or corneal section;\nperipheral for glaucoma",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66630,
+    "description": "Iridectomy, w/ corneoscleral or corneal section;\nsector for glaucoma",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66680,
+    "description": "Repair of iris, ciliary body (as for iridodialysis)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66682,
+    "description": "Suture of iris, ciliary body  w/ retrieval of suture\nthrough small incision (e.g., McCannel suture)",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 66700,
+    "description": "Ciliary body destruction; diathermy",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 66710,
+    "description": "Ciliary body destruction; cyclophotocoagulation",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 66720,
+    "description": "Ciliary body destruction; cryotherapy",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 66740,
+    "description": "Ciliary body destruction; cyclodialysis",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 66761,
+    "description": "Iridotomy/iridectomy by laser surgery (e.g., for\nglaucoma) ( one or more sessions)",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 66762,
+    "description": "Iridoplasty by photocoagulation (one or more sessions) (e.g., for improvement of vision, for\nwidening of anterior chamber angle)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66770,
+    "description": "Destruction of cyst or lesion iris or ciliary body\n(nonexcisional procedure)",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 66820,
+    "description": "Discission of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid); stab incision technique (Ziegler or Wheeler\nknife)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66821,
+    "description": "Discission of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid); laser surgery (e.g., YAG laser) (one or more stages)",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 66825,
+    "description": "Repositioning of intraocular lens prosthesis, requiring\nan incision",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66830,
+    "description": "Removal of secondary membranous cataract (opacified posterior lens capsule and/or anterior hyaloid) w/ corneo-scleral section, w/ or w/o iridectomy (iridocapsulotomy, iridocapsulectomy)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66840,
+    "description": "Removal of lens material; aspiration technique, one\nor more stages",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66850,
+    "description": "Removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (e.g.,\nphacoemulsification), w/ aspiration",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66852,
+    "description": "Removal of lens material; pars plana approach, with\nor without vitrectomy",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66920,
+    "description": "Removal of lens material; intracapsular",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66930,
+    "description": "Removal of lens material; intracapsular, for\ndislocated lens",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66940,
+    "description": "Removal of lens material; extracapsular",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66982,
+    "description": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (one stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex,\nrequiring devices or techniques not generally  used in",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": "66983*",
+    "description": "Intracapsular cataract extraction w/ insertion of intraocular lens prosthesis (one stage procedure)",
+    "package": 16000,
+    "pf": 6400,
+    "hf": 9600
+  },
+  {
+    "code": "66984*",
+    "description": "Extracapsular cataract removal w/ insertion of intraocular lens prosthesis (one stage procedure),\n(e.g., irrigation and aspiration)",
+    "package": 16000,
+    "pf": 6400,
+    "hf": 9600
+  },
+  {
+    "code": 66985,
+    "description": "Insertion of intraocular lens prosthesis, not\nassociated with cataract removal",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": 66986,
+    "description": "Exchange of intraocular lens",
+    "package": 8000,
+    "pf": 6400,
+    "hf": 1600
+  },
+  {
+    "code": "66987*",
+    "description": "Extracapsular cataract removal w/ insertion of intraocular lens prosthesis (one stage procedure),\n(e.g., phacoemulsification)",
+    "package": 16000,
+    "pf": 6400,
+    "hf": 9600
+  },
+  {
+    "code": 66991,
+    "description": "Revision of failed filter; with or without\nexplantation/exchange of shunt",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 66992,
+    "description": "Revision of failed filter; with excision of bleb cyst",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 66993,
+    "description": "Revision of failed filter; with choroidal tap",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 66994,
+    "description": "Revision of failed filter; with posterior sclerotomy",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 66995,
+    "description": "Revision of failed filter; with anterior chamber\nreformation",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 66996,
+    "description": "Revision of filtering bleb, needling technique;\nwithout injection of anti-metabolite",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 66997,
+    "description": "Revision of filtering bleb, needling technique; with\ninjection of anti-metabolite",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 66998,
+    "description": "Release of scleral flap suture by laser suture lysis\n(new code)",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 66999,
+    "description": "Revision of overfiltering bleb (includes autologous blood injection, cryotherapy, mattress sutures, etc.)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67005,
+    "description": "Removal of vitreous, anterior approach (open sky technique or limbal incision); partial removal",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 67010,
+    "description": "Removal of vitreous, anterior approach (open sky technique or limbal incision); subtotal removal w/\nmechanical vitrectomy",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 67015,
+    "description": "Aspiration or release of vitreous, subretinal or choroidal fluid, pars plana approach (posterior\nsclerotomy)",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 67036,
+    "description": "Vitrectomy, mechanical, pars plana approach;",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67038,
+    "description": "Vitrectomy, mechanical, pars plana approach; w/\nepiretinal membrane stripping",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67039,
+    "description": "Vitrectomy, mechanical, pars plana approach; w/\nfocal endolaser photocoagulation",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67040,
+    "description": "Vitrectomy, mechanical, pars plana approach; w/\nendolaser panretinal photocoagulation",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67041,
+    "description": "Vitrectomy, mechanical, pars plana approach; with\ninternal limiting membrane (ILM) peeling",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67042,
+    "description": "Vitrectomy, mechanical, pars plana approach; with\nradial optic nerve neurotomy (RON)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67043,
+    "description": "Vitrectomy, mechanical, pars plana approach; with sheathotomy for branch retinal vein occlusion",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67044,
+    "description": "Vitrectomy, mechanical, pars plana approach; with macular translocation (limited by retinotomy and/or\nscleral imbrication)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67045,
+    "description": "Vitrectomy, mechanical, pars plana approach; with\nmacular translocation (total)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67046,
+    "description": "Vitrectomy, mechanical, pars plana approach; with\nremoval of subretinal membranes",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67047,
+    "description": "Vitrectomy, mechanical, pars plana approach; with removal of choroidal neovascular membrane",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67048,
+    "description": "Vitrectomy, mechanical, pars plana approach; with endodrainage of subretinal hemorrhage (with or\nwithout tPA injection)",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67049,
+    "description": "Vitrectomy, mechanical, pars plana approach; with\nremoval of dropped IOL",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67050,
+    "description": "Vitrectomy, mechanical, pars plana approach; with phacofragmentation for dropped lens material",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67051,
+    "description": "Vitrectomy, mechanical, pars plana approach; with internal tamponade with air, gas, silicone oil,\nperfluorocarbon liquid",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67052,
+    "description": "Vitrectomy, mechanical, pars plana approach; with insertion of scleral fixated intraocular lens, with or\nwithout anterior vitrectomy",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 67101,
+    "description": "Repair of retinal detachment, one or more sessions;\ncryotherapy or diathermy, w/ or w/o drainage of subretinal fluid",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67105,
+    "description": "Repair of retinal detachment, one or more sessions;\nphotocoagulation, w/ or w/o drainage of subretinal fluid",
+    "package": 18590,
+    "pf": 14872,
+    "hf": 3718
+  },
+  {
+    "code": 67107,
+    "description": "Repair of retinal detachment; scleral buckling (such as lamellar scleral dissection, imbrication or encircling procedure), w/ or w/o implant, w/ or w/o cryotherapy, photocoagulation, and drainage of subretinal fluid",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67108,
+    "description": "Repair of retinal detachment; w/ vitrectomy, any method, w/ or w/o air or gas tamponade, focal endolaser photocoagulation, cryotherapy, drainage of subretinal fluid, scleral buckling, and/or removal\nof lens by same technique",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67110,
+    "description": "Repair of retinal detachment; by injection of air or\nother gas (e.g., pneumatic retinopexy)",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 67112,
+    "description": "Repair of retinal detachment; by scleral buckling or vitrectomy, on patient having previous ipsilateral retinal detachment repair(s) using scleral buckling or\nvitrectomy techniques",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67115,
+    "description": "Release of encircling material (posterior segment)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67120,
+    "description": "Removal of implanted material, posterior segment;\nextraocular",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67121,
+    "description": "Removal of implanted material, posterior segment;\nintraocular",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67208,
+    "description": "Destruction of localized lesion of retina (e.g., maculopathy, choroidopathy, small tumors),  one or\nmore sessions; cryotherapy, diathermy",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67210,
+    "description": "Destruction of localized lesion of retina (e.g., maculopathy, choroidopathy, small tumors),  one or more sessions; photocoagulation (laser or xenon arc)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67218,
+    "description": "Destruction of localized lesion of retina (e.g., maculopathy, choroidopathy, small tumors),  one or more sessions; radiation by implantation of source\n(includes removal of source)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67220,
+    "description": "Destruction of localized lesion of choroid (e.g., choroidal neovascularization); photocoagulation (e.g., laser), one or more sessions",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67221,
+    "description": "Destruction of localized lesion of choroid (e.g., choroidal neovascularization); photodynamic therapy\n(includes intravenous infusions",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67222,
+    "description": "Destruction of localized lesion of choroid (e.g., choroidal neovascularization); transpupillary\nthermotherapy",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67227,
+    "description": "Destruction of extensive or progressive retinopathy\n(e.g., diabetic retinopathy), one or more sessions;\ncryotherapy, diathermy",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67228,
+    "description": "Destruction of extensive or progressive retinopathy (e.g., diabetic retinopathy), one or more sessions; photocoagulation (laser or xenon arc)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67250,
+    "description": "Scleral reinforcement",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67311,
+    "description": "Strabismus surgery, recession or resection procedure\n(patient not previously operated on); one horizontal muscle",
+    "package": 5060,
+    "pf": 4048,
+    "hf": 1012
+  },
+  {
+    "code": 67312,
+    "description": "Strabismus surgery, recession or resection procedure\n(patient not previously operated on); two horizontal\nmuscles",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67314,
+    "description": "Strabismus surgery, recession or resection procedure\n(patient not previously operated on); one vertical muscle (excluding superior oblique)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67316,
+    "description": "Strabismus surgery, recession or resection procedure (patient not previously operated on); two or more vertical muscles (excluding superior oblique)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67318,
+    "description": "Strabismus surgery, any procedure (patient not previously operated on), superior oblique muscle",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67320,
+    "description": "Transposition procedure (e.g., for paretic extraocular muscle), any extraocular muscle  (specify)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67331,
+    "description": "Strabismus surgery on patient w/ previous eye surgery or injury that did not involve the extraocular\nmuscles",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67332,
+    "description": "Strabismus surgery on patient w/ scaring of extraocular muscles (e.g., prior ocular injury, strabismus or retinal detachment surgery) or restrictive myopathy (e.g., dysthyroid\nophthalmopathy)",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 67334,
+    "description": "Strabismus surgery by posterior fixation suture\ntechnique, w/ or w/o muscle recession",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 67340,
+    "description": "Strabismus surgery involving exploration and/or\nrepair of detached extraocular muscle(s)",
+    "package": 11330,
+    "pf": 9064,
+    "hf": 2266
+  },
+  {
+    "code": 67343,
+    "description": "Release of extensive scar tissue w/o detaching\nextraocular muscle",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67345,
+    "description": "Chemodenervation of extraocular muscle",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 67400,
+    "description": "Orbitotomy w/o bone flap (frontal or transconjunctival approach); for exploration, w/ or\nw/o biopsy",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67405,
+    "description": "Orbitotomy w/o bone flap (frontal or\ntransconjunctival approach); w/ drainage only",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67412,
+    "description": "Orbitotomy w/o bone flap (frontal or transconjunctival approach); w/ removal of lesion",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67413,
+    "description": "Orbitotomy w/o bone flap (frontal or transconjunctival approach); w/ removal of foreign\nbody",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67414,
+    "description": "Orbitotomy w/o bone flap (frontal or transconjunctival approach); w/ removal of bone for\ndecompression",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67415,
+    "description": "Fine needle aspiration of orbital contents",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67420,
+    "description": "Orbitotomy w/ bone flap or window, lateral\napproach (e.g., Kroenlein); w/ removal of lesion",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67430,
+    "description": "Orbitotomy w/ bone flap or window, lateral approach (e.g., Kroenlein); w/ removal of foreign\nbody",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67440,
+    "description": "Orbitotomy w/ bone flap or window, lateral\napproach (e.g., Kroenlein); w/ drainage",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67445,
+    "description": "Orbitotomy w/ bone flap or window, lateral approach (e.g., Kroenlein); w/ removal of bone for\ndecompression",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 67550,
+    "description": "Orbital implant (implant outside muscle cone);\ninsertion",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 67560,
+    "description": "Orbital implant (implant outside muscle cone);\nremoval or revision",
+    "package": 5480,
+    "pf": 4384,
+    "hf": 1096
+  },
+  {
+    "code": 67580,
+    "description": "Repair of anophthalmic socket; with insertion or\nremoval of orbital implant within muscle cone",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67581,
+    "description": "Repair of anophthalmic socket; with exchange or\norbital implant",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67582,
+    "description": "Repair of anophthalmic socket; with exchange of\norbital implant and reattachment of muscles",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67583,
+    "description": "Repair of anophthalmic socket; with fornix\nreconstruction using sutures",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67584,
+    "description": "Repair of anophthalmic socket; with fornix reconstruction using buccal mucosal graft or amnion\ngraft, including harvesting of graft",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67585,
+    "description": "Repair of anophthalmic socket; with revision of\nimplant and fornix reconstruction using sutures",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67586,
+    "description": "Repair of anophthalmic socket; with revision of implant and fornix reconstruction using buccal mucosal graft, or amnion graft (including harvesting\nof graft)",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67700,
+    "description": "Blepharotomy, drainage of abscess, eyelid",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67710,
+    "description": "Severing of tarsorrhaphy",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67715,
+    "description": "Canthotomy",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67800,
+    "description": "Excision of chalazion",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67825,
+    "description": "Repair of trichiasis; by electroepilation,\nelectrosurgery, cryotherapy or laser surgery",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 67830,
+    "description": "Repair of trichiasis; incision of lid margin",
+    "package": 1820,
+    "pf": 1456,
+    "hf": 364
+  },
+  {
+    "code": 67835,
+    "description": "Repair of trichiasis; incision of lid margin, with free\nmucous membrane graft",
+    "package": 4650,
+    "pf": 3720,
+    "hf": 0
+  },
+  {
+    "code": 67840,
+    "description": "Excision of lesion of eyelid (except chalazion) without\nclosure or with simple direct closure",
+    "package": 2780,
+    "pf": 2224,
+    "hf": 0
+  },
+  {
+    "code": 67875,
+    "description": "Temporary closure of eyelids suture (e.g., frost\nsuture)",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 67880,
+    "description": "Construction of intermargin adhesions, median\ntarsorrhaphy, or canthorrhaphy;",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 67882,
+    "description": "Construction of intermargin adhesions, median tarsorrhaphy, or canthorrhaphy; with transportation\nof tarsal plate",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 67900,
+    "description": "Repair of brow ptosis (supraciliary, midforehead or\ncoronal approach)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67901,
+    "description": "Repair of blepharoptosis; frontalis muscle technique\nwith suture or other material",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67902,
+    "description": "Repair of blepharoptosis; frontalis muscle technique with fascial sling (includes obtaining fascia)",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 67903,
+    "description": "Repair of blepharoptosis; (tarso) levator resection or\nadvancement, internal approach",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67904,
+    "description": "Repair of blepharoptosis; (tarso) levator resection or\nadvancement, external approach",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67906,
+    "description": "Repair of blepharoptosis; superior rectus technique with fascial sling (includes obtaining fascia)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67908,
+    "description": "Repair of blepharoptosis; conjunctivo-tarso-Mullers muscle-levator resection (Fasanella-Servat type)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 67911,
+    "description": "Repair of lid retraction (eyelid recession); without\nspacer",
+    "package": 10700,
+    "pf": 8560,
+    "hf": 2140
+  },
+  {
+    "code": 67912,
+    "description": "Correction of lagophthalmos, with implantation of\nupper eyelid load",
+    "package": 16000,
+    "pf": 12800,
+    "hf": 3200
+  },
+  {
+    "code": 67914,
+    "description": "Repair of ectropion; suture",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 67915,
+    "description": "Repair of ectropion; thermocauterization",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 802
+  },
+  {
+    "code": 67916,
+    "description": "Blepharoplasty, excision tarsal wedge",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 67917,
+    "description": "Blepharoplasty, extensive (e.g., Kuhnt-Szymanowski\nor tarsal strip operations)",
+    "package": 6450,
+    "pf": 5160,
+    "hf": 1290
+  },
+  {
+    "code": 67921,
+    "description": "Repair of entropion; suture",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67922,
+    "description": "Repair of entropion; thermocauterization",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 67923,
+    "description": "Blepharoplasty, excision tarsal wedge",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 67924,
+    "description": "Blepharoplasty, extensive (e.g., Wheeler operation)",
+    "package": 6450,
+    "pf": 5160,
+    "hf": 1290
+  },
+  {
+    "code": 67930,
+    "description": "Suture of recent wound, eyelid, involving lid margin, tarsus, and/ or palpebral conjunctiva direct closure;\npartial thickness",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 67935,
+    "description": "Suture of recent wound, eyelid, involving lid margin, tarsus, and/ or palpebral conjunctiva direct closure;\nfull thickness",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67950,
+    "description": "Canthoplasty (reconstruction of canthus)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 67961,
+    "description": "Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; up to one- fourth of lid margin",
+    "package": 15370,
+    "pf": 12296,
+    "hf": 3074
+  },
+  {
+    "code": 67966,
+    "description": "Excision and repair of eyelid, involving lid margin, tarsus, conjunctiva, canthus, or full thickness, may include preparation for skin graft or pedicle flap with adjacent tissue transfer or rearrangement; over one- fourth of lid margin",
+    "package": 13560,
+    "pf": 10848,
+    "hf": 2712
+  },
+  {
+    "code": 67971,
+    "description": "Reconstruction of eyelid, full thickness by transfer of tarsoconjunctival flap from opposing eyelid; up to two-thirds of eyelid, one stage or first stage",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 67973,
+    "description": "Reconstruction of eyelid, full thickness by transfer of tarsoconjunctival flap from opposing eyelid; total eyelid,  lower, one stage or first stage",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 67974,
+    "description": "Reconstruction of eyelid, full thickness by transfer of tarsoconjunctival flap from opposing eyelid; total eyelid, upper, one stage or first stage",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 67975,
+    "description": "Reconstruction of eyelid, full thickness by transfer of tarsoconjunctival flap from opposing eyelid; second\nstage",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 68320,
+    "description": "Conjunctivoplasty; with conjunctival graft or\nextensive rearrangement",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 68325,
+    "description": "Conjunctivoplasty; with buccal mucous membrane\ngraft (includes obtaining graft)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 68326,
+    "description": "Conjunctivoplasty reconstruction cul-de-sac; with conjunctival graft or extensive rearrangement",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 68328,
+    "description": "Conjunctivoplasty reconstruction cul-de-sac; with buccal mucous membrane graft (includes obtaining\ngraft)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68330,
+    "description": "Repair of symblepharon; conjunctivoplasty, without\ngraft",
+    "package": 7480,
+    "pf": 5984,
+    "hf": 1496
+  },
+  {
+    "code": 68335,
+    "description": "Repair of symblepharon; with free graft conjunctiva or buccal mucous membrane (includes obtaining\ngraft)",
+    "package": 10970,
+    "pf": 8776,
+    "hf": 2194
+  },
+  {
+    "code": 68340,
+    "description": "Repair of symblepharon; division of symblepharon, with or without insertion of conformer or contact\nlens",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68360,
+    "description": "Conjunctival flap; bridge or partial",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 68362,
+    "description": "Conjunctival flap; total (such as Gunderson thin flap\nor purse string flap)",
+    "package": 5990,
+    "pf": 4792,
+    "hf": 1198
+  },
+  {
+    "code": 68371,
+    "description": "Harvesting conjunctival allograft, living donor",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 68400,
+    "description": "Incision, drainage of lacrimal gland",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 68420,
+    "description": "Incision, drainage of lacrimal sac (dacryocystostomy)",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 68440,
+    "description": "Snip incision of lacrimal punctum",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 68500,
+    "description": "Excision of lacrimal gland (dacryoadenectomy),\nexcept for tumor",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 68520,
+    "description": "Excision of lacrimal sac (dacryocystectomy)",
+    "package": 6060,
+    "pf": 4848,
+    "hf": 1212
+  },
+  {
+    "code": 68530,
+    "description": "Removal of foreign body or dacryolith, lacrimal\npassages",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 68540,
+    "description": "Excision of lacrimal gland tumor; frontal approach",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68550,
+    "description": "Excision of lacrimal gland tumor; involving\nosteotomy",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68700,
+    "description": "Plastic repair of canaliculi",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 68705,
+    "description": "Correction of everted punctum, cautery",
+    "package": 1820,
+    "pf": 1456,
+    "hf": 364
+  },
+  {
+    "code": 68720,
+    "description": "Dacryocystorhinostomy (fistulization of lacrimal sac\nto nasal cavity)",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68745,
+    "description": "Conjunctivorhinostomy (fistulization of conjunctiva\nto nasal cavity); without tube",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 68750,
+    "description": "Conjunctivorhinostomy (fistulization of conjunctiva to nasal cavity); with insertion of tube or stent",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 68760,
+    "description": "Closure of the lacrimal punctum; by\nthermocauterization, ligation, or laser surgery",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 68770,
+    "description": "Closure of lacrimal fistula",
+    "package": 5440,
+    "pf": 4352,
+    "hf": 1088
+  },
+  {
+    "code": 68811,
+    "description": "Probing of nasolacrimal duct; requiring general\nanesthesia",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 68815,
+    "description": "Probing of nasolacrimal duct; with insertion of tube\nor stent",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 0
+  },
+  {
+    "code": 69310,
+    "description": "Reconstruction of external auditory canal\n(meatoplasty) (e.g., for stenosis due to trauma, infection)",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 69320,
+    "description": "Reconstruction external auditory canal for congenital\natresia, single stage",
+    "package": 11650,
+    "pf": 9320,
+    "hf": 2330
+  },
+  {
+    "code": 69400,
+    "description": "Eustachian tube inflation, transnasal; w/\ncatheterization",
+    "package": 2906,
+    "pf": 2325,
+    "hf": 0
+  },
+  {
+    "code": 69405,
+    "description": "Eustachian tube catheterization, transtympanic",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 568
+  },
+  {
+    "code": 69420,
+    "description": "Myringotomy including aspiration and/or eustachian\ntube inflation",
+    "package": 2840,
+    "pf": 2272,
+    "hf": 0
+  },
+  {
+    "code": 69421,
+    "description": "Myringotomy including aspiration and/or eustachian tube inflation requiring general anesthesia",
+    "package": 4010,
+    "pf": 3208,
+    "hf": 0
+  },
+  {
+    "code": 69433,
+    "description": "Tympanostomy (requiring insertion of ventilating\ntube), local or topical anesthesia",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 69436,
+    "description": "Tympanostomy (requiring insertion of ventilating\ntube), w/ general anesthesia",
+    "package": 4130,
+    "pf": 3304,
+    "hf": 0
+  },
+  {
+    "code": 69440,
+    "description": "Middle ear exploration through postauricular or ear\ncanal incision",
+    "package": 9000,
+    "pf": 7200,
+    "hf": 1800
+  },
+  {
+    "code": 69450,
+    "description": "Tympanolysis, transcanal",
+    "package": 4850,
+    "pf": 3880,
+    "hf": 970
+  },
+  {
+    "code": 69535,
+    "description": "Resection temporal bone, external approach",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 69620,
+    "description": "Myringoplasty (surgery confined to drumhead and\ndonor area)",
+    "package": 10490,
+    "pf": 8392,
+    "hf": 2098
+  },
+  {
+    "code": 69650,
+    "description": "Stapes mobilization",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 69660,
+    "description": "Stapedectomy or stapedotomy w/ reestablishment of ossicular continuity, w/ or w/o use of foreign\nmaterial;",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69661,
+    "description": "Stapedectomy or stapedotomy w/ reestablishment of ossicular continuity, w/ or w/o use of foreign material; w/ footplate drill out",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69662,
+    "description": "Revision of stapedectomy or stapedotomy",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69666,
+    "description": "Repair oval window fistula",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69667,
+    "description": "Repair round window fistula",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69670,
+    "description": "Mastoid obliteration",
+    "package": 15790,
+    "pf": 12632,
+    "hf": 3158
+  },
+  {
+    "code": 69676,
+    "description": "Tympanic neurectomy",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 69700,
+    "description": "Closure postauricular fistula, mastoid",
+    "package": 5270,
+    "pf": 4216,
+    "hf": 1054
+  },
+  {
+    "code": 69720,
+    "description": "Decompression facial nerve, intratemporal; lateral to\ngeniculate ganglion",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 69725,
+    "description": "Decompression facial nerve, intratemporal; including\nmedial to geniculate ganglion",
+    "package": 15150,
+    "pf": 12120,
+    "hf": 3030
+  },
+  {
+    "code": 69740,
+    "description": "Suture facial nerve, intratemporal, w/ or w/o graft or decompression; lateral to geniculate ganglion",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 69745,
+    "description": "Suture facial nerve, intratemporal, w/ or w/o graft or decompression; including medial to geniculate\nganglion",
+    "package": 18900,
+    "pf": 15120,
+    "hf": 3780
+  },
+  {
+    "code": 69801,
+    "description": "Labyrinthotomy, w/ or w/o cryosurgery including other nonexcisional destructive procedures or perfusion of vestbuloactive drugs (single or multiple\nperfusions); transcanal",
+    "package": 19320,
+    "pf": 15456,
+    "hf": 3864
+  },
+  {
+    "code": 69802,
+    "description": "Labyrinthotomy, w/ or w/o cryosurgery including other nonexcisional destructive procedures or perfusion of vestbuloactive drugs (single or multiple perfusions); w/ mastoidectomy",
+    "package": 19740,
+    "pf": 15792,
+    "hf": 3948
+  },
+  {
+    "code": 69805,
+    "description": "Endolymphatic sac operation; w/o shunt",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 69806,
+    "description": "Endolymphatic sac operation; w/ shunt",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 69820,
+    "description": "Fenestration semicircular canal",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 69840,
+    "description": "Revision fenestration operation",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 69905,
+    "description": "Labyrinthectomy; transcanal",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  },
+  {
+    "code": 69910,
+    "description": "Labyrinthectomy; w/ mastoidectomy",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 69915,
+    "description": "Vestibular nerve section, translabyrinthine approach",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 69930,
+    "description": "Cochlear device implantation, w/ or w/o\nmastoidectomy",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 69950,
+    "description": "Vestibular nerve section, transcranial approach",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 69955,
+    "description": "Total facial nerve decompression and/or repair (may\ninclude graft)",
+    "package": 27500,
+    "pf": 22000,
+    "hf": 5500
+  },
+  {
+    "code": 69960,
+    "description": "Decompression internal auditory canal",
+    "package": 26700,
+    "pf": 21360,
+    "hf": 5340
+  },
+  {
+    "code": 69970,
+    "description": "Removal of tumor, temporal bone",
+    "package": 23250,
+    "pf": 18600,
+    "hf": 4650
+  }
+]

@@ -1,0 +1,11 @@
+#import "../fragments/PersonDataFragment.gql"
+
+mutation DeletePerson(
+  $id: ID!
+) {
+  deletePerson(
+    id: $id
+  ) {
+    ...PersonData
+  }
+}

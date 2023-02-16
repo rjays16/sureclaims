@@ -1,0 +1,3044 @@
+[
+  {
+    "item_code": "A00.0",
+    "item_description": "Cholera due to Vibrio cholerae 01, biovar cholerae",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A00.1",
+    "item_description": "Cholera due to Vibrio cholerae 01, biovar eltor",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A00.9",
+    "item_description": "Cholera, unspecified",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A01.0",
+    "item_description": "Typhoid fever",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A01.0+ J17.0*",
+    "item_description": "Pneumonia in typhoid fever",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A01.1",
+    "item_description": "Paratyphoid fever A",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A01.2",
+    "item_description": "Paratyphoid fever B",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A01.3",
+    "item_description": "Paratyphoid fever C",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A01.4",
+    "item_description": "Paratyphoid fever, unspecified; Infection due to Salmonella paratyphi NOS",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A02.0",
+    "item_description": "Salmonella enteritis; Salmonellosis",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A02.1",
+    "item_description": "Salmonella septicaemia",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A02.2",
+    "item_description": "Localized salmonella infections",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A02.2+ J17.0*",
+    "item_description": "Pneumonia in salmonella infection",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A02.8",
+    "item_description": "Other specified salmonella infections",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A02.9",
+    "item_description": "Salmonella infection, unspecified",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A03.0",
+    "item_description": "Shigellosis due to Shigella dysenteriae; Group A shigellosis [Shiga-Kruse dysentery]",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A03.1",
+    "item_description": "Shigellosis due to Shigella flexneri;Group B shigellosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A03.2",
+    "item_description": "Shigellosis due to Shigella boydii; Group C shigellosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A03.3",
+    "item_description": "Shigellosis due to Shigella sonnei; Group D shigellosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A03.8",
+    "item_description": "Other shigellosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A03.9",
+    "item_description": "Shigellosis, unspecified; ; Bacillary dysentery NOS",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.0",
+    "item_description": "Enteropathogenic Escherichia coli infection",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.1",
+    "item_description": "Enterotoxigenic Escherichia coli infection",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.2",
+    "item_description": "Enteroinvasive Escherichia coli infection",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.3",
+    "item_description": "Enterohaemorrhagic Escherichia coli infection",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.4",
+    "item_description": "Other intestinal Escherichia coli infections",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.5",
+    "item_description": "Campylobacter enteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.6",
+    "item_description": "Enteritis due to Yersinia enterocolitica",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.7",
+    "item_description": "Enterocolitis due to Clostridium difficile; Foodborne intoxication by Clostridium difficile; Pseudomembranous colitis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.8",
+    "item_description": "Other specified bacterial intestinal infections",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A04.9",
+    "item_description": "Bacterial intestinal infection, unspecified. Bacterial enteritis NOS",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.0",
+    "item_description": "Foodborne staphylococcal intoxication",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.2",
+    "item_description": "Foodborne Clostridium perfringens [Clostridium welchii] intoxication. Enteritis necroticans.  Pig-bel",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.3",
+    "item_description": "Foodborne Vibrio parahaemolyticus intoxication",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.4",
+    "item_description": "Foodborne Bacillus cereus intoxication",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.8",
+    "item_description": "Other specified bacterial foodborne intoxications",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A05.9",
+    "item_description": "Bacterial foodborne intoxication, unspecified",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A06.1",
+    "item_description": "Chronic intestinal amoebiasis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A06.2",
+    "item_description": "Amoebic nondysenteric colitis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.0",
+    "item_description": "Balantidiasis; Balantidial dysentery",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.1",
+    "item_description": "Giardiasis [lambliasis]",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.2",
+    "item_description": "Cryptosporidiosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.3",
+    "item_description": "Isosporiasis; Infection due to Isospora belli and Isospora hominis; Intestinal coccidiosis; Isosporosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.8",
+    "item_description": "Other specified protozoal intestinal diseases; Intestinal trichomoniasis; Sarcocystosis; Sarcosporidiosis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A07.9",
+    "item_description": "Protozoal intestinal disease, unspecified;Flagellate diarrhoea; Protozoal colitis;  Protozoal diarrhoea; Protozoal dysentery",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.0",
+    "item_description": "Rotaviral enteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.1",
+    "item_description": "Acute gastroenteropathy due to Norovirus; Noroviral enteritis; Small round structured virus enteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.2",
+    "item_description": "Adenoviral enteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.3",
+    "item_description": "Other viral enteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.4",
+    "item_description": "Viral intestinal infection, unspecified; Viral enteritis NOS;  Viral gastroenteritis NOS; Viral gastroenteropathy NOS",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A08.5",
+    "item_description": "Other specified intestinal infections",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A09.0",
+    "item_description": "Infectious diarrhea",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A09.9",
+    "item_description": "Gastroenteritis and colitis of unspecified origin; Neonatal diarrhoea NOS",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "A15.0",
+    "item_description": "Tuberculosis of lung, confirmed by sputum microscopy with or without culture; Tuberculous: Bronchiectasis; fibrosis of lung; pneumonia; pneumothorax,  confirmed by sputum microscopy with  or without culture",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A15.1",
+    "item_description": "Tuberculosis of lung, confirmed by culture only; Tuberculous: Bronchiectasis; fibrosis of lung; pneumonia; pneumothorax, confirmed by culture only",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A15.2",
+    "item_description": "Tuberculosis of lung, confirmed histologically; Tuberculous: Bronchiectasis; fibrosis of lung; pneumonia; pneumothorax, confirmed histologically  only",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A15.3",
+    "item_description": "Tuberculosis of lung, confirmed by unspecified means;  Tuberculous: Bronchiectasis; fibrosis of lung; pneumonia; pneumothorax, confirmed but unspecified whether bacteriologically or histologically",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A15.4",
+    "item_description": "Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically & histologicaly; Tuberculosis of hilar lymph nodes, confirmed bacteriologically & histologicaly; Tuberculosis of mediastinal, lymph nodes, confirmed bacteriologically & histologicaly;",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A15.5",
+    "item_description": "Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically\nand histologically ; Tuberculosis of bronchus; glottis; larynx; trachea, confirmed bacteriologically and histologically;",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A15.6",
+    "item_description": "Tuberculous pleurisy, confirmed bacteriologically and histologically [Tuberculosis of pleura,  confirmed bacteriologically and histologically; Tuberculous empyema, confirmed bacteriologically & histologically",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A15.7",
+    "item_description": "Primary respiratory tuberculosis, confirmed bacteriologically and histologically",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A15.8",
+    "item_description": "Other respiratory tuberculosis, confirmed bacteriologically and histologically; Mediastinal tuberculosis,  confirmed bacteriologically and histologically; Nasopharyngeal tuberculosis, confirmed bacteriologically and histologically; Tuberculosis of:  nose; sinus (any nasal) confirmed bacteriologically and histologically",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A15.9",
+    "item_description": "Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A16.0",
+    "item_description": "Tuberculosis of lung, bacteriologically and histologically negative;\nTuberculous Bronchiectasis ,  bacteriologically and histologically negative;  Tuberculous fibrosis of lung,  bacteriologically and histologically negative;  Tuberculous pneumonia, bacteriologically and histologically negative; Tuberculous pneumothorax, bacteriologically and histologically negative",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A16.1",
+    "item_description": "Tuberculosis of lung, bacteriological and histological examination not done; Tuberculous Bronchiectasis, bacteriological and histological examination not done;  Tuberculous fibrosis of lung, bacteriological and histological examination not done; Tuberculous pneumonia and pneumothorax, bacteriological and histological examination not done;",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A16.2",
+    "item_description": "Tuberculosis of lung,  NOS,  without mention of bacteriological or histological confirmation; Tuberculous: bronchiectasis;  fibrosis of lung; pneumonia; pneumothorax;   NOS ( without mention of bacteriological or histological confirmation)",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A16.3",
+    "item_description": "Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation; Tuberculosis of lymph nodes: hilar; intrathoracic; mediastinal; tracheobronchial;  NOS              (without mention of bacteriological or histological confirmation)",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A16.4",
+    "item_description": "Tuberculosis of  larynx, trachea, glottis and bronchus, NOS,  (without mention of bacteriological or histological onfirmation)",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A16.5",
+    "item_description": "Tuberculous pleurisy, without mention of bacteriological or histological  confirmation;  Tuberculosis of pleura,  NOS, without mention of bacteriological or histological confirmation;  Tuberculous:\nempyema; plurisy;  NOS,  (without mention of bacteriological or histological confirmation)",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A16.7",
+    "item_description": "Primary respiratory tuberculosis without mention of bacteriological or histological confirmation; Primary  respiratory tuberculosis NOS;  Primary  tuberculous complex",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A16.8",
+    "item_description": "Other respiratory tuberculosis, without mention of bacteriological or histological confirmation; Mediastinal tuberculosis, NOS without mention of bacteriological or histological confirmation; Nasopharyngeal tuberculosis, NOS without mention of bacteriological or histological confirmation; Tuberculosis of nose; sinus (any nasal), NOS without mention of bacteriological or histological confirmation",
+    "hci_fee": "5,831",
+    "prof_fee": "2,499"
+  },
+  {
+    "item_code": "A16.9",
+    "item_description": "Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation; Respiratory tuberculosis NOS; Tuberculosis NOS",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "A21.2+ J17.0*",
+    "item_description": "Pneumonia in tularemia",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A22.1+ J17.0*",
+    "item_description": "Pneumonia in anthrax",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A31.0",
+    "item_description": "Pulmonary mycobacterial infection;  Infection due to Mycobacterium avium, Mycobacterium intracellulare [Battey bacillus]; Mycobacterium kansasii",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A37.0",
+    "item_description": "Whooping cough due to Bordetella pertussis",
+    "hci_fee": "5,194",
+    "prof_fee": "2,226"
+  },
+  {
+    "item_code": "A37.0+ J17.0*",
+    "item_description": "Pneumonia in whooping cough due to Bordatella pertusis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A37.1",
+    "item_description": "Whooping cough due to Bordetella parapertussis",
+    "hci_fee": "5,194",
+    "prof_fee": "2,226"
+  },
+  {
+    "item_code": "A37.1+ J17.0*",
+    "item_description": "Pneumonia in whooping cough due to Bordatella parapertusis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A37.8",
+    "item_description": "Whooping cough due to other Bordetella species",
+    "hci_fee": "5,194",
+    "prof_fee": "2,226"
+  },
+  {
+    "item_code": "A37.8+ J17.0*",
+    "item_description": "Pneumonia in whooping cough due to Bordatella species other than pertusis or parapertusis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A37.9",
+    "item_description": "Whooping cough, unspecified",
+    "hci_fee": "5,194",
+    "prof_fee": "2,226"
+  },
+  {
+    "item_code": "A37.9+ J17.0*",
+    "item_description": "Pneumonia in whooping cough",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A42.0+ J17.0*",
+    "item_description": "Pneumonia in actinomycoses",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A48.1",
+    "item_description": "Legionnaires' disease",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A53.0+ J17.0*",
+    "item_description": "Pneumonia in nocardiosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A54.8+ J17.0*",
+    "item_description": "Pneumonia in gonorrhea",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A69.8+ J17.8*",
+    "item_description": "Pneumonia in spirochaetal",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A70+ J17.8*",
+    "item_description": "Pneumonia in ornithosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A78+ J17.8*",
+    "item_description": "Pneumonia in Q fever",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "A97.0",
+    "item_description": "Dengue without warning signs;\nDengue fever (DF) Dengue haemorrhagic fever Grades 1 and 2; Dengue haemorrhagic fever without warning signs",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "A97.1",
+    "item_description": "Dengue with warning signs; Dengue haemorrhagic fever with warning signs",
+    "hci_fee": "4,900",
+    "prof_fee": "2,100"
+  },
+  {
+    "item_code": "B01.2+ J17.1*",
+    "item_description": "Pneumonia in varicella",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B01.9",
+    "item_description": "Varicella [chickenpox] without complication",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B05.2+ J17.1*",
+    "item_description": "Pneumonia in measles",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B05.3+ H67.1*",
+    "item_description": "Otitis media in measles",
+    "hci_fee": "3,822",
+    "prof_fee": "1,638"
+  },
+  {
+    "item_code": "B05.4",
+    "item_description": "Measles with intestinal complications",
+    "hci_fee": "4,655",
+    "prof_fee": "1,995"
+  },
+  {
+    "item_code": "B05.9",
+    "item_description": "Measles without complications",
+    "hci_fee": "3,773",
+    "prof_fee": "1,617"
+  },
+  {
+    "item_code": "B06.8",
+    "item_description": "Rubella with other complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B06.8+ J17.1*",
+    "item_description": "Pneumonia in rubella",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B06.9",
+    "item_description": "Rubella without complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B09",
+    "item_description": "Viral exanthem",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B15.9",
+    "item_description": "Acute hepatitis b with delta-agent (coinfection) without hepatic coma",
+    "hci_fee": "5,782",
+    "prof_fee": "2,478"
+  },
+  {
+    "item_code": "B16.1",
+    "item_description": "Acute hepatitis b with delta-agent (coinfection) without hepatic coma",
+    "hci_fee": "5,782",
+    "prof_fee": "2,478"
+  },
+  {
+    "item_code": "B16.9",
+    "item_description": "Acute hepatitis B without delta-agent and without hepatic coma; Acute hepatitis B (viral) NOS",
+    "hci_fee": "5,782",
+    "prof_fee": "2,478"
+  },
+  {
+    "item_code": "B25.0+ J17.1*",
+    "item_description": "Pneumonia in cytomegalovirus disease",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B34.1",
+    "item_description": "Echovirus infection NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B34.2",
+    "item_description": "Coronavirus infection, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B34.3",
+    "item_description": "Parvovirus infection, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B34.4",
+    "item_description": "Papovavirus infection, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B34.8",
+    "item_description": "Other viral infections of unspecified site",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B34.9",
+    "item_description": "Viral infection, unspecified;",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B37.1+ J17.2*",
+    "item_description": "Pneumonia in candidiasis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B38.0+ J17.2*",
+    "item_description": "Pneumonia in acute pulmonary coccidiomycosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B38.1+ J17.2*",
+    "item_description": "Pneumonia in chronic pulmonary coccidiomycosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B38.2+ J17.2*",
+    "item_description": "Pneumonia in pulmonary coccidioidomycosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B39.0+ J17.2*",
+    "item_description": "Pneumonia in acute pulmonary histoplasmosis capsulati",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B39.1+ J17.2*",
+    "item_description": "Pneumonia in chronic pulmonary histoplasmosis capsulati",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B39.2+ J17.2*",
+    "item_description": "Pneumonia in  pulmonary histoplasmosis capsulati",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B39.9+ J17.2*",
+    "item_description": "Pneumonia in histoplasmosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B44.0+ J17.2*",
+    "item_description": "Pneumonia in invasive pulmonary aspergillosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B44.1+ J17.2*",
+    "item_description": "Pneumonia in other pulmonary aspergillosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B50.9",
+    "item_description": "Plasmodium falciparum malaria",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B51.9",
+    "item_description": "Plasmodium vivax malaria without complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B52.9",
+    "item_description": "Plasmodium malariae malaria without complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B58.3+ J17.3*",
+    "item_description": "Pneumonia in taxoplasmosis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B65.0+ J17.3*",
+    "item_description": "Pneumonia in  schistosomiasis due to Schistosoma hematobium",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B65.1",
+    "item_description": "Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis]",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B65.1+ J17.3*",
+    "item_description": "Pneumonia in  schistosomiasis due to Schistosoma mansoni",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B65.2",
+    "item_description": "Schistosomiasis due to Schistosoma japonicum",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B65.2+ J17.3*",
+    "item_description": "Pneumonia in  schistosomiasis due to Schistosoma japonicum",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B65.3",
+    "item_description": "Cercarial dermatitis;  Swimmer's itch",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B65.8",
+    "item_description": "Infection due to Schistosoma intercalatum, Schistosoma mattheei , Schistosoma mekongi",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B65.8+ J17.3*",
+    "item_description": "Pneumonia in  schistosomiasis due to Schistosoma intercalatum; mattheei; mekongi",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B65.9",
+    "item_description": "Schistosomiasis, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B65.9+ J17.3*",
+    "item_description": "Pneumonia in  schistosomiasis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B77.8+ J17.3*",
+    "item_description": "Pneumonia in  ascariasis",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "B77.9",
+    "item_description": "Ascariasis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B82.0",
+    "item_description": "Intestinal helminthiasis, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "B82.9",
+    "item_description": "Intestinal parasitism, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E11.9",
+    "item_description": "Non-insulin-dependent diabetes mellitus without complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E10.9",
+    "item_description": "Insulin-dependent diabetes mellitus without complications",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E16.0",
+    "item_description": "Drug-induced hypoglycaemia without coma",
+    "hci_fee": "3,969",
+    "prof_fee": "1,701"
+  },
+  {
+    "item_code": "E16.2",
+    "item_description": "Hypoglycemia",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E40",
+    "item_description": "Kwashiorkor",
+    "hci_fee": "5,733",
+    "prof_fee": "2,457"
+  },
+  {
+    "item_code": "E41",
+    "item_description": "Nutritional marasmus; Severe malnutrition with marasmus",
+    "hci_fee": "5,733",
+    "prof_fee": "2,457"
+  },
+  {
+    "item_code": "E43",
+    "item_description": "Unspecified severe protein-energy malnutrition",
+    "hci_fee": "5,733",
+    "prof_fee": "2,457"
+  },
+  {
+    "item_code": "E44.1",
+    "item_description": "Mild protein-energy malnutrition",
+    "hci_fee": "5,733",
+    "prof_fee": "2,457"
+  },
+  {
+    "item_code": "E86.1",
+    "item_description": "Moderate dehydration",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E86.2",
+    "item_description": "Severe dehydration",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "E87.0",
+    "item_description": "Hyperosmolality and hypernatraemia; Sodium [Na] excess; Sodium [Na] overload",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.1",
+    "item_description": "Hypo-osmolality and hyponatraemia",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.2",
+    "item_description": "Acidosis; Acidosis NOS; Lactic Acidosis; Metabolic Acidosis; Respiratory Acidosis",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.3",
+    "item_description": "Alkalosis; Alkalosis NOS; Metabolic Alkalosis; Respiratory Alkalosis",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.4",
+    "item_description": "Mixed disorder of acid-base balance",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.5",
+    "item_description": "Hyperkalaemia; Potassium [K] excess; Potassium [K] overload",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.6",
+    "item_description": "Hypokalaemia; Potassium [K] deficiency",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.7",
+    "item_description": "Fluid overload",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "E87.8",
+    "item_description": "Other disorders of electrolyte and fluid balance, not elsewhere classified; Electrolyte imbalance NOS;\nHyperchloraemia; Hypochloraemia; Other metabolic disorders",
+    "hci_fee": "4,165",
+    "prof_fee": "1,785"
+  },
+  {
+    "item_code": "G43.0",
+    "item_description": "Migraine without aura [common migraine]",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G43.1",
+    "item_description": "Migraine with aura [classical migraine]; Migraine aura without headache; Migraine, basilar; Migraine equivalents; Familial hemiplegic Migraine; Migraine with acute- onset aura; Migraine with prolonged aura; Migraine with typical aura",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G43.2",
+    "item_description": "Status migrainosus",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G43.3",
+    "item_description": "Complicated migraine",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G43.8",
+    "item_description": "Other migraine; Ophthalmoplegic migraine; Retinal migraine",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G43.9",
+    "item_description": "Migraine, unspecified",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.0",
+    "item_description": "Cluster headache syndrome; Chronic paroxysmal hemicrania; Chronic cluster headache; Episodic Cluster headache",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.1",
+    "item_description": "Vascular headache, not elsewhere classified; Vascular headache NOS",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.2",
+    "item_description": "Tension-type headache; Chronic tension-type headache; Episodic tension headache; Tension headache NOS",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.3",
+    "item_description": "Chronic post-traumatic headache",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.4",
+    "item_description": "Drug-induced headache, not elsewhere classified",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "G44.8",
+    "item_description": "Other specified headache syndromes",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "H60.1",
+    "item_description": "Cellulitis of external ear; Cellulitis of auricle; Cellulitis of external auditory canal",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "H60.2",
+    "item_description": "Malignant otitis externa",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "H60.3",
+    "item_description": "Other infective otitis externa; diffuse Otitis externa ; Haemorrhagic Otitis externa ; Swimmer's ear",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "H60.4",
+    "item_description": "Cholesteatoma of external ear; Keratosis obturans of external ear (canal)",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "H66.9",
+    "item_description": "Otitis media, unspecified; Otitis media NOS; Acute Otitis media  NOS;   Chronic Otitis media NOS",
+    "hci_fee": "3,822",
+    "prof_fee": "1,638"
+  },
+  {
+    "item_code": "H81.0",
+    "item_description": "Ménière's disease; Labyrinthine hydrops; Ménière's syndrome or vertigo",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.1",
+    "item_description": "Benign paroxysmal vertigo",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.2",
+    "item_description": "Vestibular neuronitis",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.3",
+    "item_description": "Other peripheral vertigo; Lermoyez' syndrome; Aural Vertigo ; Otogenic  Vertigo;   Peripheral NOS Vertigo",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.4",
+    "item_description": "Vertigo of central origin; Central positional nystagmus",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.8",
+    "item_description": "Other disorders of vestibular function",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H81.9",
+    "item_description": "Disorder of vestibular function, unspecified; Vertiginous syndrome NOS",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H83.1",
+    "item_description": "Labyrinthine fistula",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "H83.2",
+    "item_description": "Labyrinthine dysfunction; Hypersensitivity of labyrinth; Hypofunction of labyrinth; Loss of function Of labyrinth",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "I00",
+    "item_description": "Rheumatic fever without mention of heart involvement; Arthritis, rheumatic, acute or subacute involvement",
+    "hci_fee": "4,949",
+    "prof_fee": "2,121"
+  },
+  {
+    "item_code": "I00+ J17.8*",
+    "item_description": "Pneumonia in rheumatic fever",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "I10.1",
+    "item_description": "Hypertension, stage II",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I10.9",
+    "item_description": "Essential Hypertension; malignant hypertension",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I11.0",
+    "item_description": "Hypertensive heart disease with (congestive) heart failure; Hypertensive heart failure",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I11.9",
+    "item_description": "Hypertensive heart disease without (congestive) heart failure; Hypertensive heart disease NOS",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I12.0",
+    "item_description": "Hypertensive renal disease with renal failure; Hypertensive renal failure",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I12.9",
+    "item_description": "Hypertensive renal disease without renal failure; Hypertensive renal disease NOS",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I13.0",
+    "item_description": "Hypertensive heart and renal disease with (congestive) heart failure",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I13.1",
+    "item_description": "Hypertensive heart and renal disease with renal failure",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I13.2",
+    "item_description": "Hypertensive heart and renal disease with both (congestive) heart failure and renal failure",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I13.9",
+    "item_description": "Hypertensive heart and renal disease, unspecified",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I15.0",
+    "item_description": "Renovascular hypertension",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I15.1",
+    "item_description": "Hypertension secondary to other renal disorders",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I15.2",
+    "item_description": "Hypertension secondary to endocrine disorders",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I15.8",
+    "item_description": "Other secondary hypertension",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I15.9",
+    "item_description": "Secondary hypertension, unspecified",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "I25.0",
+    "item_description": "Atherosclerotic cardiovasculardisease, so described",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "I25.1",
+    "item_description": "Atherosclerotic hear tdisease; Coronary artery atheroma; Coronary artery atherosclerosis; Coronary artery disease; Coronary artery sclerosis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "I25.3",
+    "item_description": "Aneurysm of heart; Mural aneurysm; Venticular aneurysm",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "I25.4",
+    "item_description": "Coronary artery aneurysm; Coronary arteriovenous fistula, acquired",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "I25.5",
+    "item_description": "Ischaemic cardiomyopathy",
+    "hci_fee": "5,880",
+    "prof_fee": "2,520"
+  },
+  {
+    "item_code": "I25.6",
+    "item_description": "Silent myocardial ischaemia",
+    "hci_fee": "5,880",
+    "prof_fee": "2,520"
+  },
+  {
+    "item_code": "I25.8",
+    "item_description": "Other forms of chronic ischaemic heart disease",
+    "hci_fee": "5,880",
+    "prof_fee": "2,520"
+  },
+  {
+    "item_code": "I25.9",
+    "item_description": "Chronic ischaemic heart disease, unspecified; Chronic Ischaemic heart disease NOS",
+    "hci_fee": "5,880",
+    "prof_fee": "2,520"
+  },
+  {
+    "item_code": "J03.0",
+    "item_description": "Streptococcal tonsillitis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J03.8",
+    "item_description": "Acute tonsillitis due to other specified organisms",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J03.9",
+    "item_description": "Acute tonsillitis, unspecified; Acute tonsillitis NOS; Acute Follicular tonsillitis; Acute Gangrenous tonsillitis; Acute Infective tonsillitis; Acute Ulcerative tonsillitis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J06.0",
+    "item_description": "Acute laryngopharyngitis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J06.8",
+    "item_description": "Other acute upper respiratory infections of multiple sites",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J06.9",
+    "item_description": "Acute upper respiratory infection, unspecified; Acute upper respiratory disease; Upper respiratory infection NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J11.0",
+    "item_description": "Influenza with pneumonia, virus not identified; Influenzal (broncho) pneumonia, unspecified or specific virus not identified",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "J11.1",
+    "item_description": "Influenza with other respiratory manifestations, virus not identified; Influenza NOS; Influenzal Acute upper respiratory infection, unspecified or specific virus not identified; Influenzal laryngitis, unspecified or specific virus not identified; Influenzal pharyngitis, unspecified or specific virus not identified; Influenzal pleural effusion , unspecified or specific virus not identified",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "J11.8",
+    "item_description": "Influenza with other manifestations, virus not identified; Encephalopathy due to influenza, unspecified or specific virus not identified; Influenzal gastroentiritis, unspecified or specific virus not identified; Acute influenzal myocarditis,  unspecified or specific virus not identified",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "J12.02",
+    "item_description": "Adenoviral pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J12.12",
+    "item_description": "Respiratory syncytial virus pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J12.22",
+    "item_description": "Parainfluenza virus pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J12.32",
+    "item_description": "Human metapneumovirus pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J12.92",
+    "item_description": "Viral pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J13.2",
+    "item_description": "Pneumonia [bronchopneumonia] due to Streptococcus pneumoniae, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J14.2",
+    "item_description": "Pneumonia [bronchopneumonia]due to Haemophilus influenzae, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.02",
+    "item_description": "Pneumonia due to Klebsiella pneumoniae, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.12",
+    "item_description": "Pneumonia due to Pseudomonas, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.22",
+    "item_description": "Pneumonia due to staphylococcus, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.32",
+    "item_description": "Pneumonia due to streptococcus, group B, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.42",
+    "item_description": "Pneumonia due to other streptococci, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.52",
+    "item_description": "Pneumonia due to Escherichia coli, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.62",
+    "item_description": "Pneumonia due to other aerobic Gram- negative bacteria; Pneumonia due to Serratia marcescens, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.72",
+    "item_description": "Pneumonia due to Mycoplasma pneumoniae, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J15.92",
+    "item_description": "Bacterial pneumonia [bronchopneumonia], moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J16.02",
+    "item_description": "Chlamydial pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J18.02",
+    "item_description": "Bronchopneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J18.12",
+    "item_description": "Lobar pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J18.22",
+    "item_description": "Hypostatic pneumonia, moderate risk",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J18.92",
+    "item_description": "Community-acquired pneumonia III (This classification utilized the American\nThoracic Society recommendation. This is equivalent to CAP, moderate risk in the Philippine Clinical Practice Guidelines on the Diagnosis, Empiric Management, and Prevention of Community- acquired Pneumonia in Immunocompetent Adults, 2010 update)",
+    "hci_fee": "7,350",
+    "prof_fee": "3,150"
+  },
+  {
+    "item_code": "J20.0",
+    "item_description": "Acute bronchitis due to Mycoplasma pneumoniae",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.1",
+    "item_description": "Acute bronchitis due to Haemophilus influenzae",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.2",
+    "item_description": "Acute bronchitis due to streptococcus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.3",
+    "item_description": "Acute bronchitis due to coxsackievirus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.4",
+    "item_description": "Acute bronchitis due to parainfluenza virus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.5",
+    "item_description": "Acute bronchitis due to respiratory syncytial virus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.6",
+    "item_description": "Acute bronchitis due to rhinovirus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.7",
+    "item_description": "Acute bronchitis due to echovirus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.8",
+    "item_description": "Acute bronchitis due to other specified organisms",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J20.9",
+    "item_description": "Acute bronchitis, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J22",
+    "item_description": "Unspecified acute lower respiratory infection",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J40",
+    "item_description": "Bronchitis, not specified as acute or chronic",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "J45.00",
+    "item_description": "Predominantly allergic asthma; Allergic bronchitis NOS; Allergic rhinitis with asthma; Atopic asthma; Extrinsic allergic asthma; Hay fever with asthma; in Acute Exacerbation",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "J45.10",
+    "item_description": "Nonallergic asthma; Idiosyncratic asthma; Intrinsic nonallergic asthma, in Acute Exacerbation",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "J45.80",
+    "item_description": "Mixed asthma, in Acute Exacerbation",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "J45.90",
+    "item_description": "Bronchial Asthma in Acute Exacerbation",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "J46",
+    "item_description": "Status asthmaticus; Acute severe asthma",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "K04.0",
+    "item_description": "Pulpitis; Pulpal abscess; Pulpal polyp; Acute pulpitis; Hyperplastic chronic pulpitis; Ulcerative chronic pulpitis; Supparative pulpitis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.1",
+    "item_description": "Necrosis of pulp; Pulpal gangrene",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.2",
+    "item_description": "Pulp degeneration; Denticles; Pulpal calcifications; Pulpal stones",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.3",
+    "item_description": "Abnormal hard tissue formation in pulp; Secondary or irregular dentine",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.4",
+    "item_description": "Acute apical periodontitis of pulpal origin; Acute apical periodontitis NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.5",
+    "item_description": "Chronic apical periodontitis; Apical or periapical granuloma; Apical periodontitis NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.6",
+    "item_description": "Periapical abscess with sinus; Dental abscess with sinus; Dentoalveolar abscess with sinus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.7",
+    "item_description": "Periapical abscess without sinus; Dental\nabscess NOS; Dentoalveolar abscess NOS;",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.8",
+    "item_description": "Radicular cyst; Periodontal apical cyst; Periapical cyst; Residual radicular cyst",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K04.9",
+    "item_description": "Other and unspecified diseases of pulp and periapical tissues",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K11.2",
+    "item_description": "Sialoadenitis",
+    "hci_fee": "4,067",
+    "prof_fee": "1,743"
+  },
+  {
+    "item_code": "K21.0",
+    "item_description": "Gastro-oesophageal reflux disease with oesophagitis; Reflux oesophagitis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K21.9",
+    "item_description": "Gastro-oesophageal reflux disease without oesophagitis; Oesophageal reflux NOS",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K25.3",
+    "item_description": "Gastric ulcer, acute / Acute erosion of  stomach/ Pylorus peptic ulcer / Stomach peptic ulcer without haemorrhage or perforation",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K27.3",
+    "item_description": "Acute Peptic/ Gastroduodenal ulcer, site unspecified, without haemorrhage or perforation",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K27.6",
+    "item_description": "Chronic or unspecified Peptic/ Gastroduodenal ulcer, site unspecified, with both haemorrhage and perforation",
+    "hci_fee": "6,272",
+    "prof_fee": "2,688"
+  },
+  {
+    "item_code": "K27.9",
+    "item_description": "Peptic/ Gastroduodenal ulcer, unspecified as acute or chronic, without haemorrhage or perforation",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.1",
+    "item_description": "Other acute gastritis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.2",
+    "item_description": "Alcoholic gastritis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.3",
+    "item_description": "Chronic superficial gastritis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.4",
+    "item_description": "Chronic atrophic gastritis; Gastric atrophy",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.5",
+    "item_description": "Chronic gastritis, unspecified; Chronic Antral gastritis; Chronic Fundal gastritis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.6",
+    "item_description": "Other gastritis; Giant hypertrophic gastritis; Granulomatous gastritis; Menetrier's disease",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.7",
+    "item_description": "Gastritis, unspecified",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K29.8",
+    "item_description": "Duodenitis",
+    "hci_fee": "2,989",
+    "prof_fee": "1,281"
+  },
+  {
+    "item_code": "K30",
+    "item_description": "Dyspepsia",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K31.0",
+    "item_description": "Acute dilatation of stomach; Acute distension of stomach",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K31.1",
+    "item_description": "Adult hypertrophic pyloric stenosis; Pyloric stenosis NOS",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.2",
+    "item_description": "Hourglass stricture and stenosis of stomach",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.3",
+    "item_description": "Pylorospasm, not elsewhere classified",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.4",
+    "item_description": "Gastric diverticulum",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.5",
+    "item_description": "Obstruction of duodenum; Constriction of duodenum; Stenosis of duodenum; Stricture of duodenum; Chronic duodenal ileus",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.6",
+    "item_description": "Fistula of stomach and duodenum; Gastrocolic fistula; Gastrojejunocolic fistula",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.7",
+    "item_description": "Polyp of stomach and duodenum",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.8",
+    "item_description": "Other specified diseases of stomach and duodenum; Achlorhydria; Gastroptosis; Hourglass contraction of stomach",
+    "hci_fee": "3,234",
+    "prof_fee": "1,386"
+  },
+  {
+    "item_code": "K31.9",
+    "item_description": "Disease of stomach and duodenum, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K52.0",
+    "item_description": "Gastroenteritis and colitis due to radiation",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K52.1",
+    "item_description": "Toxic gastroenteritis and colitis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K52.2",
+    "item_description": "Allergic and dietetic gastroenteritis and colitis; Food hypersensitivity gastroenteritis or colitis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K52.8",
+    "item_description": "Other specified noninfective gastroenteritis and colitis; Eosinophilic gastritis or gastroenteritis",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K52.9",
+    "item_description": "Noninfective gastroenteritis and colitis, unspecified; Diarrhoea; Enteritis; Ileitis; Jejunitis; Sigmoiditis;  specified as noninfective, or NOS in countries where the conditions can be presumed to be of noninfectious origin",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K56.0",
+    "item_description": "Paralytic ileus; Paralysis of bowel; Paralysis of colon; Paralysis of intestine",
+    "hci_fee": "4,949",
+    "prof_fee": "2,121"
+  },
+  {
+    "item_code": "K58.0",
+    "item_description": "Irritable bowel syndrome with diarrhoea",
+    "hci_fee": "2,940",
+    "prof_fee": "1,260"
+  },
+  {
+    "item_code": "K59.0",
+    "item_description": "Constipation",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "K74.0",
+    "item_description": "Hepatic fibrosis",
+    "hci_fee": "7,399",
+    "prof_fee": "3,171"
+  },
+  {
+    "item_code": "K74.1",
+    "item_description": "Hepatic sclerosis",
+    "hci_fee": "5,782",
+    "prof_fee": "2,478"
+  },
+  {
+    "item_code": "K74.2",
+    "item_description": "Hepatic fibrosis with hepatic sclerosis",
+    "hci_fee": "7,399",
+    "prof_fee": "3,171"
+  },
+  {
+    "item_code": "K74.3",
+    "item_description": "Primary biliary cirrhosis; Chronic nonsupparative destructive cholangitis",
+    "hci_fee": "6,468",
+    "prof_fee": "2,772"
+  },
+  {
+    "item_code": "K74.4",
+    "item_description": "Secondary biliary cirrhosis",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "K74.5",
+    "item_description": "Biliary cirrhosis, unspecified",
+    "hci_fee": "4,802",
+    "prof_fee": "2,058"
+  },
+  {
+    "item_code": "K74.6",
+    "item_description": "Other and unspecified cirrhosis of liver; Cirrhosis of liver NOS; Cryptogenic cirrhosis of liver; Macronodular cirrhosis of liver; Micronodular cirrhosis of liver; Mixed type cirrhosis of liver; Portal cirrhosis of liver; Postnecrotic cirrhosis of liver",
+    "hci_fee": "7,399",
+    "prof_fee": "3,171"
+  },
+  {
+    "item_code": "L02.0",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of face",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.1",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of neck",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.2",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of trunk; Cutaneous abscess, furuncle and carbuncle of Abdominal wall; Cutaneous abscess, furuncle and carbuncle of Back [any part, except buttock]; Cutaneous abscess, furuncle and carbuncle of Chest wall; Cutaneous abscess, furuncle and carbuncle of Groin; Cutaneous abscess, furuncle and carbuncle of Perineum; Cutaneous abscess, furuncle and carbuncle of Umbilicus",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.3",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of buttock; Cutaneous abscess, furuncle and carbuncle of Gluteal region",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.4",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of limb,  Axilla,  Hip & Shoulder",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.8",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle of other sites: Head [any part, except face]; Scalp",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L02.9",
+    "item_description": "Cutaneous abscess, furuncle and carbuncle, unspecified; Furunculosis NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L03.0",
+    "item_description": "Cellulitis of finger and toe; Infection of nail; Onychia; Paronychia; Perionychia",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L03.1",
+    "item_description": "Cellulitis of other parts of limb,  Axilla; Cellulitis of Hip;Cellulitis of Shoulder",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L03.2",
+    "item_description": "Cellulitis of face",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L03.3",
+    "item_description": "Cellulitis of trunk;Cellulitis of Abdominal wall;Cellulitis of Back [any part]; Cellulitis of Chest wall;Cellulitis of Groin;Cellulitis of Perineum;Cellulitis of Umbilicus",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L03.8",
+    "item_description": "Cellulitis of other sites; Cellulitis of Head [any part, except face];Cellulitis of Scalp",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L03.9",
+    "item_description": "Cellulitis, unspecified",
+    "hci_fee": "4,704",
+    "prof_fee": "2,016"
+  },
+  {
+    "item_code": "L72.0",
+    "item_description": "Epidermal cyst",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L72.1",
+    "item_description": "Trichilemmal cyst; Pilar cyst; Sebaceous cyst",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L72.2",
+    "item_description": "Steatocystoma multiplex",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L72.8",
+    "item_description": "Other follicular cysts of skin and subcutaneous tissue",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "L72.9",
+    "item_description": "Follicular cyst of skin and subcutaneous tissue, unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "M00.16",
+    "item_description": "Pneumococcal arthritis and polyarthritis, Lower leg",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.19",
+    "item_description": "Pneumococcal arthritis and polyarthritis,  Site unspecified",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.29",
+    "item_description": "Other streptococcal arthritis and polyarthritis, Site unspecified",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.82",
+    "item_description": "Arthritis and polyarthritis due to other specified bacterial agents upper arm",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.90",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, multiple sites",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.91",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, shoulder region",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.93",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, forearm",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.94",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, hand",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.95",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, pelvic region and thigh",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.96",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, lower leg",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.97",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, ankle and foot",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.98",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, other sites",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M00.99",
+    "item_description": "Pyogenic arthritis, unspecified; Infective arthritis NOS, site unspecified",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M06.01",
+    "item_description": "Seronegative rheumatoid arthritis, shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.09",
+    "item_description": "Seronegative rheumatoid arthritis, site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.19",
+    "item_description": "Adult-onset Still's disease, site unspecified",
+    "hci_fee": "4,753",
+    "prof_fee": "2,037"
+  },
+  {
+    "item_code": "M06.36",
+    "item_description": "Rheumatoid nodule, lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.45",
+    "item_description": "Inflammatory polyarthropathy, pelvic region and thigh",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.49",
+    "item_description": "Inflammatory polyarthropathy, site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.81",
+    "item_description": "Other specified rheumatoid arthritis, shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.86",
+    "item_description": "Other specified rheumatoid arthritis, lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.87",
+    "item_description": "Other specified rheumatoid arthritis, ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.89",
+    "item_description": "Other specified rheumatoid arthritis, site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.90",
+    "item_description": "Rheumatoid arthritis, unspecified, multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.91",
+    "item_description": "Rheumatoid arthritis, unspecified, shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.93",
+    "item_description": "Rheumatoid arthritis, unspecified, forearm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.94",
+    "item_description": "Rheumatoid arthritis, unspecified, hand",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.95",
+    "item_description": "Rheumatoid arthritis, unspecified, pelvic region and thigh",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.96",
+    "item_description": "Rheumatoid arthritis, unspecified, lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.97",
+    "item_description": "Rheumatoid arthritis, unspecified, ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.98",
+    "item_description": "Rheumatoid arthritis, unspecified, other sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M06.99",
+    "item_description": "Rheumatoid arthritis, unspecified, site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.00",
+    "item_description": "Idiopathic gout; Gouty bursitis; Primary gout multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.01",
+    "item_description": "Urate tophus of heart shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.02",
+    "item_description": "Urate tophus of heart upper arm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.03",
+    "item_description": "Idiopathic gout; Gouty bursitis; Primary gout forearm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.04",
+    "item_description": "Urate tophus of heart hand",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.05",
+    "item_description": "Urate tophus of heart pelvic region and thigh",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.06",
+    "item_description": "Idiopathic gout; Gouty bursitis; Primary gout lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.07",
+    "item_description": "Urate tophus of heart ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.08",
+    "item_description": "Urate tophus of heart other sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.09",
+    "item_description": "Urate tophus of heart site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.10",
+    "item_description": "Lead-induced gout   multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.29",
+    "item_description": "Drug-induced gout site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.30",
+    "item_description": "Gout due to impairment of renal function multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.36",
+    "item_description": "Gout due to impairment of renal function lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.39",
+    "item_description": "Gout due to impairment of renal function site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.40",
+    "item_description": "Other secondary gout multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.49",
+    "item_description": "Other secondary gout site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.90",
+    "item_description": "Gout, unspecified multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.91",
+    "item_description": "Gout, unspecified shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.92",
+    "item_description": "Gout, unspecified upper arm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.93",
+    "item_description": "Gout, unspecified forearm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.94",
+    "item_description": "Gout, unspecified hand",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.96",
+    "item_description": "Gout, unspecified lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.97",
+    "item_description": "Gout, unspecified ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.98",
+    "item_description": "Gout, unspecified other sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M10.99",
+    "item_description": "Gout, unspecified site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.00",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSmultiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.02",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSupper arm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.05",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSpelvic region and thigh",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.06",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSlower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.08",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSother sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.09",
+    "item_description": "Primary arthrosis of other joints; Primary arthrosis NOSsite unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.10",
+    "item_description": "Post-traumatic arthrosis of other joints; Post- traumatic arthrosis NOS multiple sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.11",
+    "item_description": "Post-traumatic arthrosis of other joints; Post- traumatic arthrosis NOS shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.12",
+    "item_description": "Post-traumatic arthrosis of other joints; Post- traumatic arthrosis NOS upper arm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.19",
+    "item_description": "Post-traumatic arthrosis of other joints; Post- traumatic arthrosis NOS site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.21",
+    "item_description": "Other secondary arthrosis; Secondary arthrosis NOS shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.29",
+    "item_description": "Other secondary arthrosis; Secondary arthrosis NOS site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.81",
+    "item_description": "Other specified arthrosis shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.86",
+    "item_description": "Other specified arthrosis lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.87",
+    "item_description": "Other specified arthrosis ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.88",
+    "item_description": "Other specified arthrosis other sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.89",
+    "item_description": "Other specified arthrosis site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.91",
+    "item_description": "Arthrosis, unspecified shoulder region",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.92",
+    "item_description": "Arthrosis, unspecified upper arm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.93",
+    "item_description": "Arthrosis, unspecified forearm",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.94",
+    "item_description": "Arthrosis, unspecified hand",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.95",
+    "item_description": "Arthrosis, unspecified pelvic region and thigh",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.96",
+    "item_description": "Arthrosis, unspecified lower leg",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.97",
+    "item_description": "Arthrosis, unspecified ankle and foot",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.98",
+    "item_description": "Arthrosis, unspecified other sites",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "M19.99",
+    "item_description": "Arthrosis, unspecified site unspecified",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "N20.0",
+    "item_description": "Calculus of kidney; Nephrolithiasis NOS; Renal calculus or stone; Staghorn calculus; Stone in kidney",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "N20.1",
+    "item_description": "Calculus of ureter; Ureteric stone",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "N20.2",
+    "item_description": "Calculus of kidney with calculus of ureter",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "N20.9",
+    "item_description": "Urinary calculus, unspecified; Calculous pyelonephritis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "N30.0",
+    "item_description": "Acute cystitis",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N30.1",
+    "item_description": "Chronic Interstitial cystitis",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N30.2",
+    "item_description": "Other chronic cystitis",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N30.3",
+    "item_description": "Trigonitis; Urethrotrigonitis",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N30.4",
+    "item_description": "Irradiation cystitis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "N30.8",
+    "item_description": "Other cystitis; Abscess of bladder",
+    "hci_fee": "6,811",
+    "prof_fee": "2,919"
+  },
+  {
+    "item_code": "N30.9",
+    "item_description": "Cystitis, unspecified",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N39.0",
+    "item_description": "Urinary tract infection, site not specified",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "N40",
+    "item_description": "Hyperplasia of prostate; Adenofibromatous hypertrophy of prostate; Adenoma (benign)of prostate ; Enlargement  of prostate (benign); Fibroadenoma of prostate; Fibroma of prostate; Hypertrophy of prostate (benign); Myoma of prostate; Median bar (prostate),",
+    "hci_fee": "4,508",
+    "prof_fee": "1,932"
+  },
+  {
+    "item_code": "N45.0",
+    "item_description": "Orchitis, epididymitis and epididymo-orchitis with abscess; Abscess of epididymis or testis",
+    "hci_fee": "3,871",
+    "prof_fee": "1,659"
+  },
+  {
+    "item_code": "N45.9",
+    "item_description": "Orchitis, epididymitis and epididymo-orchitis without abscess; Epididymitis NOS; Orchitis NOS",
+    "hci_fee": "3,871",
+    "prof_fee": "1,659"
+  },
+  {
+    "item_code": "N47",
+    "item_description": "Redundant prepuce, phimosis and paraphimosis; Adherent prepuce; Tight foreskin",
+    "hci_fee": "3,136",
+    "prof_fee": "1,344"
+  },
+  {
+    "item_code": "N61",
+    "item_description": "Inflammatory disorders of breast; Acute abscess of non puerperal areola; Acute abscess nonpuerperal breast; Chronic abscess of nonpuerperal  areola; Chronic abscess of nonpuerperal  breast; Carbuncle of breast; Acute mastitis nonpuerperal, NOS; Acute inf",
+    "hci_fee": "3,871",
+    "prof_fee": "1,659"
+  },
+  {
+    "item_code": "N73.0",
+    "item_description": "Acute parametritis and pelvic cellulitis; Acute abcess of broad ligament; Acute abscess of parametrium; Acute pelvic cellulitis, female",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "N73.1",
+    "item_description": "Chronic parametritis and pelvic cellulitis",
+    "hci_fee": "4,410",
+    "prof_fee": "1,890"
+  },
+  {
+    "item_code": "O03.9",
+    "item_description": "Spontaneous abortion, complete or unspecified, without complication",
+    "hci_fee": "2,450",
+    "prof_fee": "1,050"
+  },
+  {
+    "item_code": "O20.0",
+    "item_description": "Threatened abortion; Haemorrhage specified as due to threatened abortion",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O21.0",
+    "item_description": "Mild hyperemesis gravidarum; Hyperemesis gravidarum, mild or unspecified, starting before the end of the 22nd week of gestation",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O21.1",
+    "item_description": "Hyperemesis gravidarum with metabolic disturbance; Hyperemesis gravidarum, starting before the end of the 22nd week of gestation, with metabolic disturbance such as carbohydrate depletion, dehydration, elctrolyte imbalance",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O21.2",
+    "item_description": "Late vomiting of pregnancy; Excessive vomiting starting after 22 completed weeks of gestation",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O21.8",
+    "item_description": "Other vomiting complicating pregnancy; Vomiting due to disease classified elsewhere, complicating pregnancy",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O21.9",
+    "item_description": "Vomiting of pregnancy, unspecified",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O23.0",
+    "item_description": "Infections of kidney in pregnancy",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O23.1",
+    "item_description": "Infections of bladder in pregnancy",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "O23.2",
+    "item_description": "Infections of urethra in pregnancy",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "O23.3",
+    "item_description": "Infections of other parts of urinary tract in pregnancy",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O23.4",
+    "item_description": "Unspecified infection of urinary tract in pregnancy",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "O23.5",
+    "item_description": "Infections of the genital tract in pregnancy",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "O23.9",
+    "item_description": "Other and unspecified genitourinary tract infection in pregnancy; Genitourinary tract infection in pregnancy NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "O60.0",
+    "item_description": "Preterm labor, not resulting to delivery",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.0",
+    "item_description": "Anaemia complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.1",
+    "item_description": "Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.2",
+    "item_description": "Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.3",
+    "item_description": "Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.4",
+    "item_description": "Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.5",
+    "item_description": "Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.6",
+    "item_description": "Diseases of the digestive system complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.7",
+    "item_description": "Diseases of the skin and subcutaneous tissue complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "O99.8",
+    "item_description": "Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium",
+    "hci_fee": "3,332",
+    "prof_fee": "1,428"
+  },
+  {
+    "item_code": "P08.2",
+    "item_description": "Post-term infant, not heavy for gestational age; Fetus or infant with gestation period of 42 completed weeks or more (294 days or more), not heavy- or large-for-dates; Postmaturity NOS",
+    "hci_fee": "3,675",
+    "prof_fee": "1,575"
+  },
+  {
+    "item_code": "R42",
+    "item_description": "Dizziness and giddiness; Light-headedness; Vertigo NOS",
+    "hci_fee": "2,793",
+    "prof_fee": "1,197"
+  },
+  {
+    "item_code": "R51",
+    "item_description": "Headache; Facial pain NOS",
+    "hci_fee": "2,695",
+    "prof_fee": "1,155"
+  },
+  {
+    "item_code": "R56.0",
+    "item_description": "Febrile convulsions",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "R56.8",
+    "item_description": "Other and unspecified convulsions; Fit NOS; Seizure (convulsive) NOS",
+    "hci_fee": "3,430",
+    "prof_fee": "1,470"
+  },
+  {
+    "item_code": "S00.0",
+    "item_description": "Superficial injury of scalp",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.1",
+    "item_description": "Contusion of eyelid and periocular area; Black eye",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.2",
+    "item_description": "Other superficial injuries of eyelid and periocular area",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.3",
+    "item_description": "Superficial injury of nose",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.4",
+    "item_description": "Superficial injury of ear",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.5",
+    "item_description": "Superficial injury of lip and oral cavity",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.7",
+    "item_description": "Multiple superficial injuries of head",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.8",
+    "item_description": "Superficial injury of other parts of head",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S00.9",
+    "item_description": "Superficial injury of head, part unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.0",
+    "item_description": "Open wound of scalp",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.1",
+    "item_description": "Open wound of eyelid and periocular area",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.2",
+    "item_description": "Open wound of nose",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.3",
+    "item_description": "Open wound of ear",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.4",
+    "item_description": "Open wound of cheek and temporomandibular area",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.5",
+    "item_description": "Open wound of lip and oral cavity",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.7",
+    "item_description": "Multiple open wounds of head",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.8",
+    "item_description": "Open wound of other parts of head",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S01.9",
+    "item_description": "Open wound of head, part unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S61.0",
+    "item_description": "Open wound of finger(s) without damage to nail; Open wound of finger(s) NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S61.1",
+    "item_description": "Open wound of finger(s) with damage to nail",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S61.7",
+    "item_description": "Multiple open wounds of wrist and hand",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S61.8",
+    "item_description": "Open wound of other parts of wrist and hand",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S61.9",
+    "item_description": "Open wound of wrist and hand part, part unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S81.0",
+    "item_description": "Open wound of knee",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S81.7",
+    "item_description": "Multiple open wounds of lower leg",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S81.8",
+    "item_description": "Open wound of other parts of lower leg",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S81.9",
+    "item_description": "Open wound of lower leg, part unspecified",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S91.0",
+    "item_description": "Open wound of ankle",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S91.1",
+    "item_description": "Open wound of toe(s) without damage to nail; open wound of toe (s) NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S91.2",
+    "item_description": "Open wound of toe(s) with damage to nail",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S91.3",
+    "item_description": "Open wound of other parts of foot; open wound of foot NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "S91.7",
+    "item_description": "Multiple open wounds of ankle and foot",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.0",
+    "item_description": "Superficial injuries involving head with neck",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.1",
+    "item_description": "Superficial injuries involving thorax with abdomen lower back and pelvis",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.2",
+    "item_description": "Superficial injuries involving multiple regions of upper limb(s)",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.3",
+    "item_description": "Superficial injuries involving multiple regions of lower limb(s)",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.6",
+    "item_description": "Superficial injuries involving multiple regions of upper limb(s) with lower limb(s)",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.8",
+    "item_description": "Superficial injuries involving other combinations of body regions",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T00.9",
+    "item_description": "Multiple superficial injuries, unspecified; Multiple abrassions NOS; Mulitple nonthermal blisters NOS; Multiple bruises NOS; Mutiple contussions NOS; Multiple haematomas NOS; Mutiple nonvenomous insect bite NOS",
+    "hci_fee": "1,960",
+    "prof_fee": 840
+  },
+  {
+    "item_code": "T78.0",
+    "item_description": "Anaphylactic shock due to adverse food reaction",
+    "hci_fee": "3,724",
+    "prof_fee": "1,596"
+  },
+  {
+    "item_code": "T78.1",
+    "item_description": "Other adverse food reactions, not elsewhere classified",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "T78.2",
+    "item_description": "Anaphylactic shock, unspecified; Allergic shock NOS; Anaphylactic reaction NOS; Anaphylaxis NOS",
+    "hci_fee": "3,724",
+    "prof_fee": "1,596"
+  },
+  {
+    "item_code": "T78.3",
+    "item_description": "Angioneurotic oedema; Giant urticaria; Quinke's oedema",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "T78.4",
+    "item_description": "Allergy, unspecified; Allergic reaction NOS; Hypersensitivity NOS; Idiosyncracy NOS",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "T78.8",
+    "item_description": "Other adverse effects, not elsewhere classified",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "T78.9",
+    "item_description": "Adverse effect, unspecified",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "T79.3",
+    "item_description": "Post-traumatic wound infection, not elsewhere classified",
+    "hci_fee": "4,557",
+    "prof_fee": "1,953"
+  },
+  {
+    "item_code": "T88.7",
+    "item_description": "Unspecified adverse effect of drug or medicament; Adverse effect of correct drug or medicament properly administered; Allergic reaction to correct drug or medicament properly administered; Hypersensitivity to correct drug or medicament properly administered; Idiosyncrasy to drug: hypersensitivity NOS; reaction NOS",
+    "hci_fee": "3,038",
+    "prof_fee": "1,302"
+  },
+  {
+    "item_code": "Z39.0",
+    "item_description": "Care and examination immediately after delivery",
+    "hci_fee": "1,400",
+    "prof_fee": 600
+  }
+]

@@ -1,0 +1,15 @@
+#import "../fragments/ReturnDocumentDataFragment.gql"
+
+query ReturnDocuments(
+  $claim: String
+  $patient: String
+  $supportDocumentId: String
+) {
+  returnDocuments(
+    claim: $claim
+    patient: $patient
+    supportDocumentId: $supportDocumentId
+  ) {
+    ...ReturnDocumentData
+  }
+}

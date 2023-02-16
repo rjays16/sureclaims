@@ -1,0 +1,14 @@
+#import "@/modules/core/graphql/fragments/IcdCodeDataFragment.gql"
+
+query IcdCodes(
+  $search: String
+  $pageSize: Int
+
+) {
+  icdCodes(
+    search: $search
+    pageSize: $pageSize
+  ) {
+    ...IcdCodeData
+  }
+}

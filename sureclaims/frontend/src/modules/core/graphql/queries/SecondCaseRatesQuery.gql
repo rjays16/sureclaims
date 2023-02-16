@@ -1,0 +1,13 @@
+query SecondCaseRates($search: String) {
+  secondCaseRates(search: $search) {
+    id
+    code
+    description
+    itemCode
+    itemDescription
+    amount
+    caseType
+    isIcd
+    isRvs
+  }
+}

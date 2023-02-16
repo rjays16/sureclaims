@@ -1,0 +1,15 @@
+#import "../fragments/PersonDataFragment.gql"
+
+query Persons(
+  $id: ID
+  $first: String
+  $after: String
+) {
+  persons(
+    id: $id
+    first: $first
+    after: $After
+  ) {
+    ...PersonData
+  }
+}

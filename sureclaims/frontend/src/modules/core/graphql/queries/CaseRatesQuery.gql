@@ -1,0 +1,15 @@
+query CaseRates($search: String, $secondOnly: Boolean) {
+  caseRates(search: $search, secondOnly: $secondOnly) {
+    id
+    code
+    description
+    itemCode
+    itemDescription
+    amount
+    allowSecond
+    secondaryAmount
+    caseType
+    isIcd
+    isRvs
+  }
+}

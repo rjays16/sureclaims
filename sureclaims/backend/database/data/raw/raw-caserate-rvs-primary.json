@@ -1,0 +1,3176 @@
+[
+  {
+    "item_code": 10060,
+    "item_description": "Incision and drainage of abscess (e.g., carbuncle, suppurative hidradenitis, cutaneous or subcutaneous abscess, cyst, furuncle, or paronychia)",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 10080,
+    "item_description": "Incision and drainage of pilonidal cyst",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 10120,
+    "item_description": "Incision and removal of foreign body, subcutaneous\ntissues",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 10140,
+    "item_description": "Incision and drainage of hematoma, seroma, or fluid\ncollection",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 10160,
+    "item_description": "Puncture aspiration of abscess, hematoma, bulla, or\ncyst",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 10180,
+    "item_description": "Incision and drainage, complex, postoperative\nwound infection",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11040,
+    "item_description": "Debridement; skin, partial thickness",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11041,
+    "item_description": "Debridement; skin, full thickness",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11042,
+    "item_description": "Debridement; skin, and subcutaneous tissue",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11043,
+    "item_description": "Debridement; skin, subcutaneous tissue, and muscle",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11044,
+    "item_description": "Debridement; skin, subcutaneous tissue, muscle,\nand bone",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11050,
+    "item_description": "Paring or curettement of benign hyperkeratotic skin lesion w/ or w/o chemical cauterization (such as verrucae or clavi) not extending through the stratum corneum (e.g., callus or wart) w/ or w/o\nlocal anesthesia; single lesion",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11051,
+    "item_description": "Paring or curettement of benign hyperkeratotic skin lesion w/ or w/o chemical cauterization (such as verrucae or clavi) not extending through the stratum corneum (e.g., callus or wart) w/ or w/o local anesthesia; two to four lesions",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11052,
+    "item_description": "Paring or curettement of benign hyperkeratotic skin lesion w/ or w/o chemical cauterization (such as verrucae or clavi) not extending through the stratum corneum (e.g., callus or wart) w/ or w/o local anesthesia; more than four lesions",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11100,
+    "item_description": "Biopsy of skin, subcutaneous tissue and/or mucous membrane (including simple closure), unless otherwise listed; single or multiple lesion",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11300,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, trunk, arms or legs; lesion diameter 0.5 cm or less",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11301,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, trunk, arms or legs; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 1649,
+    "prof_fee": 941
+  },
+  {
+    "item_code": 11302,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, trunk, arms or legs; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11305,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, scalp, neck, hands, feet, genitalia; lesion diameter\n0.5 cm or less",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11306,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, scalp, neck, hands, feet, genitalia; lesion diameter\n0.6 to 1.0 cm",
+    "hci_fee": 1649,
+    "prof_fee": 941
+  },
+  {
+    "item_code": 11307,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, scalp, neck, hands, feet, genitalia; lesion diameter\n1.1 to 2.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11310,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion,\nface, ears, eyelids, nose ,lips, mucous membrane; lesion diameter 0.5 cm or less",
+    "hci_fee": 1649,
+    "prof_fee": 941
+  },
+  {
+    "item_code": 11311,
+    "item_description": "Shaving of epidermal or dermal lesion, single lesion, face, ears, eyelids, nose ,lips, mucous membrane;\nlesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11400,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed\nelsewhere), trunk, arms or legs; lesion diameter 0.5 cm or less",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11401,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), trunk, arms or legs; lesion diameter 0.6\nto 1.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11402,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), trunk, arms or legs; lesion diameter 1.1\nto 2.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11403,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), trunk, arms or legs; lesion diameter 2.1\nto 3.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11404,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), trunk, arms or legs; lesion diameter 3.1\nto 4.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11406,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed\nelsewhere), trunk, arms or legs; lesion diameter over 4.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11420,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), scalp, neck, hands, feet, genitalia; lesion\ndiameter 0.5 cm or less",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11421,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed\nelsewhere), scalp, neck, hands, feet, genitalia; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11422,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed\nelsewhere), scalp, neck, hands, feet, genitalia; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11423,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), scalp, neck, hands, feet, genitalia; lesion\ndiameter 2.1 to 3.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11424,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed\nelsewhere), scalp, neck, hands, feet, genitalia; lesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11426,
+    "item_description": "Excision, benign lesion, except skin tag (unless listed elsewhere), scalp, neck, hands, feet, genitalia; lesion\ndiameter over 4.0 cm",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11440,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous membrane; lesion diameter 0.5 cm or less",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11441,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous membrane; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11442,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous membrane; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11443,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous membrane; lesion diameter 2.1 to 3.0 cm",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11444,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous membrane; lesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11446,
+    "item_description": "Excision, other benign lesion (unless listed elsewhere), face, ears, eyelids, nose, lips, mucous\nmembrane; lesion diameter over 4.0 cm",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 11450,
+    "item_description": "Excision of skin and subcutaneous tissue for\nhidradenitis, axillary",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11462,
+    "item_description": "Excision of skin and subcutaneous tissue for\nhidradenitis, inguinal",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11470,
+    "item_description": "Excision of skin and subcutaneous tissue for\nhidradenitis, perianal, perineal or umbilical",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 11600,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter 0.5 cm or less",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11601,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11602,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11603,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter 2.1 to 3.0 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11604,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11606,
+    "item_description": "Excision, malignant lesion, trunk, arms, or legs;\nlesion diameter over 4.0 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11620,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter 0.5 cm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11621,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11622,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11623,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter 2.1 to 3.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11624,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11626,
+    "item_description": "Excision, malignant lesion, scalp, neck, hands, feet,\ngenitalia; lesion diameter over 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11640,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter 0.5 cm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11641,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11642,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11643,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter 2.1 to 3.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11644,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11646,
+    "item_description": "Excision, malignant lesion, face, ears, eyelids, nose,\nlips; lesion diameter over 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 11720,
+    "item_description": "Debridement of nail(s) by any method(s); one to five",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11721,
+    "item_description": "Debridement of nail(s) by any method(s); six or\nmore",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11730,
+    "item_description": "Avulsion of nail plate, partial or complete",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11740,
+    "item_description": "Evacuation of subungual hematoma",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11750,
+    "item_description": "Excision of nail and nail matrix, partial or complete (e.g., ingrown or deformed nail) for permanent\nremoval",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11752,
+    "item_description": "Excision of nail and nail matrix, partial or complete (e.g., ingrown or deformed nail) for permanent removal w/ amputation of tuft of distal phalanx",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 11755,
+    "item_description": "Biopsy of nail unit, any method (e.g., plate, bed,\nmatrix, hyponychium, proximal and lateral nail folds)",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11760,
+    "item_description": "Repair of nail bed",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 11762,
+    "item_description": "Reconstruction of nail bed w/ graft",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 11765,
+    "item_description": "Wedge excision of skin of nail fold (e.g., for ingrown\ntoenail)",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 11770,
+    "item_description": "Excision of pilonidal cyst or sinus",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12001,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 2.5 cm or less",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 12002,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 2.6 cm to 7.5 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 12004,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 7.6 cm to 12.5 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12005,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 12.6 cm to 20.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12006,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); 20.1 cm to 30.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12007,
+    "item_description": "Simple repair of superficial wounds of scalp, neck, axillae, external genitalia, trunk and/or extremities (including hands and feet); over 30.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12011,
+    "item_description": "Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; 2.5\ncm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12013,
+    "item_description": "Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; 2.6\ncm to 5.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 12014,
+    "item_description": "Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; 5.1\ncm to 7.5 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1646
+  },
+  {
+    "item_code": 12015,
+    "item_description": "Simple repair of superficial wounds of face, ears,\neyelids, nose, lips and/or mucous membranes; 7.6 cm to 12.5 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12016,
+    "item_description": "Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; 12.6\ncm to 20.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12017,
+    "item_description": "Simple repair of superficial wounds of face, ears,\neyelids, nose, lips and/or mucous membranes; 20.1 cm to 30.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12018,
+    "item_description": "Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; over\n30.0 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12031,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk, and/or extremities (excluding hands and feet); 2.5\ncm or less",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 12032,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk,\nand/or extremities (excluding hands and feet); 2.6 cm to 7.5 cm",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 12034,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk, and/or extremities (excluding hands and feet); 7.6\ncm to 12.5 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12035,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk,\nand/or extremities (excluding hands and feet); 12.6 cm to 20.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12036,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk,\nand/or extremities (excluding hands and feet); 20.1 cm to 30.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12037,
+    "item_description": "Layer closure of wounds of scalp, axillae, trunk, and/or extremities (excluding hands and feet); over\n30.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12041,
+    "item_description": "Layer closure of wounds of neck, hands, feet and/or\nexternal genitalia; 2.5 cm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12042,
+    "item_description": "Layer closure of wounds of neck, hands, feet and/or\nexternal genitalia; 2.6 cm to 7.5 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 12044,
+    "item_description": "Layer closure of wounds of neck, hands, feet and/or\nexternal genitalia; 7.6 cm to 12.5 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12051,
+    "item_description": "Layer closure of wounds of face, ears, eyelids, nose, lips and/or mucous membrances; 2.5 cm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12052,
+    "item_description": "Layer closure of wounds of face, ears, eyelids, nose, lips and/or mucous membrances; 2.6 cm to 5.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 12053,
+    "item_description": "Layer closure of wounds of face, ears, eyelids, nose, lips and/or mucous membrances; 5.1 cm to 7.5 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 12054,
+    "item_description": "Layer closure of wounds of face, ears, eyelids, nose, lips and/or mucous membrances; 7.6 cm to 12.5 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 17000,
+    "item_description": "Destruction by any method, including laser, w/ or w/o surgical curettement, all benign facial lesions or premalignant lesions in any location, or benign lesions other than cutaneous vascular proliferative lesions, including local anesthesia; any number of",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 17100,
+    "item_description": "Destruction by any method, including laser, of benign skin lesions other than cutaneous vascular proliferative lesions on any area other than the face, including local anesthesia; any number of lesions",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 17110,
+    "item_description": "Destruction by any method of flat warts or\nmolluscum contagiosum, milia, all lesions",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17200,
+    "item_description": "Electosurgical destruction of multiple\nfibrocutaneous tags; all lesions",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 17250,
+    "item_description": "Chemical cauterization of granulation tissue (proud\nflesh, sinus or fistula)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17260,
+    "item_description": "Destruction, malignant lesion, any method, trunk, arms or legs; lesion diameter 0.5 cm or less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17261,
+    "item_description": "Destruction, malignant lesion, any method, trunk, arms or legs; lesion diameter 0.6 to 1.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17262,
+    "item_description": "Destruction, malignant lesion, any method, trunk, arms or legs; lesion diameter 1.1 to 2.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17263,
+    "item_description": "Destruction, malignant lesion, any method, trunk, arms or legs; lesion diameter 2.1 to 3.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17264,
+    "item_description": "Destruction, malignant lesion, any method, trunk, arms or legs; lesion diameter 3.1 to 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17266,
+    "item_description": "Destruction, malignant lesion, any method, trunk,\narms or legs; lesion diameter over 4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17270,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter 0.5 cm\nor less",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17271,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter 0.6 to\n1.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17272,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter 1.1 to\n2.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17273,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter 2.1 to\n3.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17274,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter 3.1 to\n4.0 cm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17276,
+    "item_description": "Destruction, malignant lesion, any method, scalp, neck, hands, feet, genitalia; lesion diameter over 4.0\ncm",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 17280,
+    "item_description": "Destruction, malignant lesion, any method, face,\nears, eyelids, nose, lips, mucous membrane; lesion diameter 0.5 cm or less",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17281,
+    "item_description": "Destruction, malignant lesion, any method, face, ears, eyelids, nose, lips, mucous membrane; lesion\ndiameter 0.6 to 1.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17282,
+    "item_description": "Destruction, malignant lesion, any method, face, ears, eyelids, nose, lips, mucous membrane; lesion\ndiameter 1.1 to 2.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17283,
+    "item_description": "Destruction, malignant lesion, any method, face, ears, eyelids, nose, lips, mucous membrane; lesion\ndiameter 2.1 to 3.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17284,
+    "item_description": "Destruction, malignant lesion, any method, face, ears, eyelids, nose, lips, mucous membrane; lesion\ndiameter 3.1 to 4.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17286,
+    "item_description": "Destruction, malignant lesion, any method, face,\nears, eyelids, nose, lips, mucous membrane; lesion diameter over 4.0 cm",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 17304,
+    "item_description": "Chemosurgery (Mohs micrographic technique), including removal of all gross tumor, surgical excision of tissue specimens, mapping, color coding of specimens, microscopic examination of specimens by the surgeon, and complete histopathologic preparation; first stage, fresh tissue\ntechnique, up to 5 specimens",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 19000,
+    "item_description": "Puncture aspiration of cyst of breast;",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 19100,
+    "item_description": "Biopsy of breast; needle core",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 19101,
+    "item_description": "Biopsy of breast; incisional",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 19120,
+    "item_description": "Excision of cyst, fibroadenoma, or other benign or malignant tumor aberrant breast tissue, duct lesion or nipple lesion (except 19140), male or female, one\nor more lesions",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 19125,
+    "item_description": "Excision of breast lesion identified by preoperative placement of radiological marker; single lesion",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 19140,
+    "item_description": "Mastectomy for gynecomastia",
+    "hci_fee": 9240,
+    "prof_fee": 6160
+  },
+  {
+    "item_code": 20200,
+    "item_description": "Biopsy, muscle",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 20206,
+    "item_description": "Biopsy, muscle, percutaneous needle",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 20520,
+    "item_description": "Removal of foreign body in muscle or tendon sheath",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 20600,
+    "item_description": "Arthrocentesis, aspiration and/or injection; small joint, bursa or ganglion cyst (e.g., fingers, toes)",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 20605,
+    "item_description": "Arthrocentesis, aspiration and/or injection; intermediate joint, bursa or ganglion cyst (e.g., temporomandibular, acromioclavicular, wrist,\nelbow or ankle, olecranon bursa)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 20610,
+    "item_description": "Arthrocentesis, aspiration and/or injection; major joint or bursa (e.g., shoulder, hip, knee joint,\nsubacromial bursa)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 20650,
+    "item_description": "Insertion of wire or pin w/ application of skeletal\ntraction, including removal",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 20802,
+    "item_description": "Replantation, arm (includes surgical neck of humerus through elbow joint), complete\namputation",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 21501,
+    "item_description": "Incision and drainage, deep abscess or hematoma,\nsoft tissues of neck or thorax;",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 21502,
+    "item_description": "Incision and drainage, deep abscess or hematoma, soft tissues of neck or thorax; w/ partial rib\nostectomy",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 21510,
+    "item_description": "Incision, deep, w/ opening of bone cortex (e.g., for\nosteomyelitis or bone abscess), thorax",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 21550,
+    "item_description": "Biopsy, soft tissue of neck or thorax",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 21555,
+    "item_description": "Excision tumor, soft tissue of neck or thorax;\nsubcutaneous",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 21800,
+    "item_description": "Closed treatment of rib fracture",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 21920,
+    "item_description": "Biopsy, soft tissue of back or flank",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 21930,
+    "item_description": "Excision, tumor, soft tissue of back or flank",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 23065,
+    "item_description": "Biopsy, soft tissue of shoulder area",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 23075,
+    "item_description": "Excision, tumor, shoulder area; subcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 23076,
+    "item_description": "Excision, tumor, shoulder area; deep, subfascial, or\nintramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 23330,
+    "item_description": "Removal of foreign body, shoulder; subcutaneous",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 23500,
+    "item_description": "Closed treatment of clavicular fracture",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 23540,
+    "item_description": "Closed treatment of acromioclavicular dislocation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 23570,
+    "item_description": "Closed treatment of scapular fracture",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 23930,
+    "item_description": "Incision and drainage, upper arm or elbow area;\ndeep abscess or hematoma",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 23931,
+    "item_description": "Incision and drainage, upper arm or elbow area;\ninfected bursa",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 24065,
+    "item_description": "Biopsy, soft tissue of upper arm or elbow area",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 24075,
+    "item_description": "Excision, tumor, upper arm or elbow area;\nsubcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 24076,
+    "item_description": "Excision, tumor, upper arm or elbow area; deep,\nsubfascial or intramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 24640,
+    "item_description": "Closed treatment of radial head subluxation in child,\n\"nursemaid elbow",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 25065,
+    "item_description": "Biopsy, soft tissue of forearm and/or wrist",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 25075,
+    "item_description": "Excision, tumor, forearm and/or wrist area;\nsubcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 25076,
+    "item_description": "Excision, tumor, forearm and/or wrist area; deep,\nsubfascial or intramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 25110,
+    "item_description": "Excision, lesion of tendon sheath, forearm and/or\nwrist",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 25210,
+    "item_description": "Carpectomy; one bone",
+    "hci_fee": 2800,
+    "prof_fee": 1352
+  },
+  {
+    "item_code": 26010,
+    "item_description": "Drainage of finger abscess; simple",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 26011,
+    "item_description": "Drainage of finger abscess; complicated (e.g., felon)",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 26020,
+    "item_description": "Drainage of tendon sheath, one digit and/or palm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 26440,
+    "item_description": "Tenolysis, simple, flexor tendon; palm or finger,\nsingle, each tendon",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 26445,
+    "item_description": "Tenolysis, extensor tendon, dorsum of hand or\nfinger; each tendon",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 26531,
+    "item_description": "Arthroplasty, metacarpophalangeal joint; w/\nprosthetic implant, single, each",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 27040,
+    "item_description": "Biopsy, soft tissue of pelvis and hip area",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 27047,
+    "item_description": "Excision, tumor, pelvis and hip area; subcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 27323,
+    "item_description": "Biopsy, soft tissue of thigh or knee area",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 27327,
+    "item_description": "Excision, tumor, thigh or knee area; subcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 27328,
+    "item_description": "Excision, tumor, thigh or knee area; deep,\nsubfascial, or intramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 27600,
+    "item_description": "Decompression fasciotomy, leg; anterior and/or\nlateral compartments only",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 27601,
+    "item_description": "Decompression fasciotomy, leg; posterior\ncompartments(s) only",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 27603,
+    "item_description": "Incision and drainage, leg or ankle; deep abscess or\nhematoma",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 27604,
+    "item_description": "Incision and drainage, leg or ankle; infected bursa",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 27613,
+    "item_description": "Biopsy, soft tissue of leg or ankle area",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 27618,
+    "item_description": "Excision, tumor, leg or ankle area; subcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 27619,
+    "item_description": "Excision, tumor, leg or ankle area; deep, subfascial\nor intramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 27630,
+    "item_description": "Excision of lesion of tendon sheath or capsule (e.g.,\ncyst or ganglion), leg and/or ankle",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 27656,
+    "item_description": "Repair, fascial defect of leg",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 28001,
+    "item_description": "Incision and drainage, infected bursa, foot",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 28043,
+    "item_description": "Excision, tumor, foot; subcutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 28045,
+    "item_description": "Excision, tumor, foot; deep, subfascial,\nintramuscular",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 28080,
+    "item_description": "Excision of interdigital (Morton) neuroma, single,\neach",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 29055,
+    "item_description": "Application of body cast, shoulder to hips; shoulder\nspica",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 29058,
+    "item_description": "Application of body cast, shoulder to hips; plaster\nVelpeau",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 29065,
+    "item_description": "Application of body cast, shoulder to hips; shoulder\nto hand (long arm)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 29075,
+    "item_description": "Application of body cast, shoulder to hips; elbow to\nfinger (short arm)",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 29085,
+    "item_description": "Application of body cast, shoulder to hips; hand and\nlower forearm (gauntlet)",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 29305,
+    "item_description": "Application of hip spica cast; one leg",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29345,
+    "item_description": "Application of long leg cast (thigh to toes);",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29365,
+    "item_description": "Application of cylinder cast (thigh to ankle)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29405,
+    "item_description": "Application of short leg cast (below knee to toes);",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29425,
+    "item_description": "Application of short leg cast (below knee to toes);\nwalking or ambulatory type",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29435,
+    "item_description": "Application of patellar tendon bearing (PTB) cast",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 29445,
+    "item_description": "Application of rigid total contact leg cast",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 29450,
+    "item_description": "Application of clubfoot cast w/ molding or\nmanipulation, long or short leg",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 30000,
+    "item_description": "Drainage abscess or hematoma, nasal, internal\napproach",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 30020,
+    "item_description": "Drainage abscess or hematoma, nasal septum",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 30100,
+    "item_description": "Biopsy, intranasal",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 30110,
+    "item_description": "Excision, nasal polyp(s), simple",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 30310,
+    "item_description": "Removal foreign body, intranasal; requiring general\nanesthesia",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 30320,
+    "item_description": "Removal foreign body, intranasal; by lateral\nrhinotomy",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 30905,
+    "item_description": "Control nasal hemorrhage, posterior, w/ posterior nasal packs and/or cauterization, any method; initial",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31000,
+    "item_description": "Lavage by cannulation; maxillary sinus (antrum\npuncture or natural ostium)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 31002,
+    "item_description": "Lavage by cannulation; sphenoid sinus",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31500,
+    "item_description": "Intubation, endotracheal, emergency emergency\nprocedure",
+    "hci_fee": 0,
+    "prof_fee": 0
+  },
+  {
+    "item_code": 31515,
+    "item_description": "Laryngoscopy direct, w/ or w/o tracheoscopy; for\naspiration",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31525,
+    "item_description": "Laryngoscopy direct, w/ or w/o tracheoscopy;\ndiagnostic, except newborn",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31527,
+    "item_description": "Laryngoscopy direct, w/ or w/o tracheoscopy; w/\ninsertion of obturator",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31528,
+    "item_description": "Laryngoscopy direct, w/ or w/o tracheoscopy; w/\ndilatation, initial",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31529,
+    "item_description": "Laryngoscopy direct, w/ or w/o tracheoscopy; w/\ndilatation, subsequent",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 31710,
+    "item_description": "Catheterization for bronchography, w/ or w/o\ninstillation of contrast material",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 32000,
+    "item_description": "Thoracentesis, puncture of pleural cavity for\naspiration, initial or subsequent",
+    "hci_fee": 420,
+    "prof_fee": 840
+  },
+  {
+    "item_code": 32400,
+    "item_description": "Biopsy, pleura; percutaneous needle",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 32420,
+    "item_description": "Pneumonocentesis, puncture of lung for aspiration",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 32960,
+    "item_description": "Pneumothorax, therapeutic, intrapleural injection of\nair",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 33010,
+    "item_description": "Pericardiocentesis",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36010,
+    "item_description": "Introduction of catheter, superior or inferior vena\ncava",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 36011,
+    "item_description": "Selective catheter placement, venous system; first\norder branch (e.g., renal vein, jugular vein)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36012,
+    "item_description": "Selective catheter placement, venous system; second order, or more selective, branch (e.g., left\nadrenal vein, petrosal sinus)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36013,
+    "item_description": "Introduction of catheter, right heart or main\npulmonary artery",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36014,
+    "item_description": "Selective catheter placement, left or right\npulmonary artery",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36120,
+    "item_description": "Introduction of needle or intracatheter; retrograde\nbrachial artery",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36140,
+    "item_description": "Introduction of needle or intracatheter; extremity\nartery",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36200,
+    "item_description": "Introduction of catheter, aorta",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36215,
+    "item_description": "Selective catheter placement, arterial system; each first order thoracic or brachiocephalic branch, w/in\na vascular family",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36216,
+    "item_description": "Selective catheter placement, arterial system; initial second order thoracic or brachiocephalic branch,\nw/in a vascular family",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36217,
+    "item_description": "Selective catheter placement, arterial system; initial third order or more selective thoracic or\nbrachiocephalic branch, w/in a vascular family",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36245,
+    "item_description": "Selective catheter placement, arterial system; each\nfirst order abdominal, pelvic, or lower extremity artery branch, w/in a vascular family",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36246,
+    "item_description": "Selective catheter placement, arterial system; initial second order abdominal, pelvic or lower extremity\nartery branch, w/in a vascular family",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36247,
+    "item_description": "Selective catheter placement, arterial system; initial third order or more selective abdominal, pelvic or lower extremity artery branch, w/in a vascular\nfamily",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 36430,
+    "item_description": "Outpatient Transfusion of Blood or Blood Products;\none or more units",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 36450,
+    "item_description": "Exchange transfusion, blood",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 36481,
+    "item_description": "Percutaneous portal vein catheterization by any\nmethod",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36510,
+    "item_description": "Catheterization of umbilical vein for diagnosis or\ntherapy, newborn",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 36511,
+    "item_description": "Therapeutic apheresis",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 36640,
+    "item_description": "Arterial catheterization for prolonged infusion\ntherapy (chemotherapy), cutdown",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 36660,
+    "item_description": "Catheterization, umbilical artery, newborn, for\ndiagnosis or therapy",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 36781,
+    "item_description": "Percutaneousportal vein catheterization by any\nmethod",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36800,
+    "item_description": "Insertion of cannula for hemodialysis, other purpose\n; vein to vein",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 36835,
+    "item_description": "Insertion of Thomas shunt",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 37201,
+    "item_description": "Transcatheter therapy, infusion for thrombolysis\nother than coronary",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 37202,
+    "item_description": "Transchatheter therapy, infusion other than for\nthrombolysis, any type (e.g., spasmolytic, vasoconstrictive)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 37565,
+    "item_description": "Ligation, internal jugular vein",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 37600,
+    "item_description": "Ligation; external carotid artery",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 37607,
+    "item_description": "Ligation or banding of angioaccess arteriovenous\nfistula",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 37609,
+    "item_description": "Ligation or biopsy, temporal artery",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 37650,
+    "item_description": "Ligation of femoral vein",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 37700,
+    "item_description": "Ligation and division of long saphenous vein at saphenofemoral junction, or distal interruptions",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 38500,
+    "item_description": "Biopsy or excision or lymph node(s); superficial",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 38505,
+    "item_description": "Biopsy or excision or lymph node(s); by needle,\nsuperficial (e.g., cervical, inguinal, axillary)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 38520,
+    "item_description": "Biopsy or excision or lymph node(s); deep cervical\nnode(s) w/ excision scalene fat pad",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 38525,
+    "item_description": "Biopsy or excision or lymph node(s); deep axillary\nnode(s)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 38530,
+    "item_description": "Biopsy or excision or lymph node(s); internal\nmammary node(s)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 40490,
+    "item_description": "Biopsy of lip",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 40500,
+    "item_description": "Vermilionectomy (lip shave), w/ mucosal\nadvancement",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 40510,
+    "item_description": "Excision of lip; transverse wedge excision w/\nprimary closure",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 40520,
+    "item_description": "V-excision w/ primary defect linear closure;",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 40800,
+    "item_description": "Drainage of abscess, cyst, hematoma, vestibule of\nmouth",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 40808,
+    "item_description": "Biopsy, vestibule of mouth",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 40810,
+    "item_description": "Excision of lesion of mucosa and submucosa,\nvestibule of mouth",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 40819,
+    "item_description": "Excision of frenum, labial or buccal (frenumectomy,\nfrenulectomy, frenectomy)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 40830,
+    "item_description": "Closure of laceration, vestibule of mouth; 2.5 cm or\nless",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 40831,
+    "item_description": "Closure of laceration, vestibule of mouth; over 2.5\ncm or complex",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41000,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or hematoma of tongue or floor of mouth; lingual",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41005,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or hematoma of tongue or floor of mouth; sublingual,\nsuperficial",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41006,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or hematoma of tongue or floor of mouth; sublingual,\ndeep, supramylohyoid",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41007,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or\nhematoma of tongue or floor of mouth; submental space",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41008,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or hematoma of tongue or floor of mouth;\nsubmandibular space",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41009,
+    "item_description": "Intraoral incision and drainage of abscess, cyst, or\nhematoma of tongue or floor of mouth; masticator space",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41015,
+    "item_description": "Extraoral incision and drainage of abscess,cyst,or hematoma of floor of mouth; sublingual",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41016,
+    "item_description": "Extraoral incision and drainage of abscess,cyst,or hematoma of floor of mouth; submental",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41017,
+    "item_description": "Extraoral incision and drainage of abscess,cyst,or hematoma of floor of mouth; submandibular",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41018,
+    "item_description": "Extraoral incision and drainage of abscess,cyst,or hematoma of floor of mouth; masticator space",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41100,
+    "item_description": "Biopsy of tongue; anterior two-thirds",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 41105,
+    "item_description": "Biopsy of tongue; posterior one-third",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 41108,
+    "item_description": "Biopsy of floor of mouth",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 41110,
+    "item_description": "Excision of lesion of tongue w/o closure",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41112,
+    "item_description": "Excision of lesion of tongue w/ closure; anterior two-\nthirds",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41113,
+    "item_description": "Excision of lesion of tongue w/ closure; posterior\none-third",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41114,
+    "item_description": "Excision of lesion of tongue w/ closure; w/ local\ntongue flap",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41115,
+    "item_description": "Excision of lingual frenum (frenectomy)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41116,
+    "item_description": "Excision, lesion of floor of mouth",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 41800,
+    "item_description": "Drainage of abscess, cyst, hematoma from\ndentoalveolar structures",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 41805,
+    "item_description": "Removal of embedded foreign body from\ndentoalveolar structures; soft tissues",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 41806,
+    "item_description": "Removal of embedded foreign body from\ndentoalveolar structures; bone",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 41820,
+    "item_description": "Gingivectomy, excision gingiva",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 41821,
+    "item_description": "Operculectomy, excision pericoronal tissues",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 41822,
+    "item_description": "Excision of fibrous tuberosities, dentoalveolar\nstructures",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 41823,
+    "item_description": "Excision of osseous tuberosities, dentoalveolar\nstructures",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 41825,
+    "item_description": "Excision of lesion or or tumor (except listed above),\ndentoalveolar structures",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 41828,
+    "item_description": "Excision of hyperplastic alveolar mucosa",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42000,
+    "item_description": "Drainage of abscess of palate, uvula",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42100,
+    "item_description": "Biopsy of palate, uvula",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 42104,
+    "item_description": "Excision, lesion  of palate , uvula; w/o closure",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 42106,
+    "item_description": "Excision, lesion  of palate , uvula; w/ simple primary\nclosure",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42107,
+    "item_description": "Excision, lesion  of palate , uvula; w/ local flap\nclosure",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42300,
+    "item_description": "Drainage of abscess; parotid",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 42310,
+    "item_description": "Drainage of abscess; submaxillary or sublingual,\nintraoral",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 42320,
+    "item_description": "Drainage of abscess; submaxillary, external",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 42325,
+    "item_description": "Fistulization of sublingual salivary cyst (ranula);",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 42326,
+    "item_description": "Fistulization of sublingual salivary cyst (ranula); w/\nprosthesis",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42330,
+    "item_description": "Sialolithotomy; submandibular (submaxillary),\nsublingual or parotid, intraoral",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42400,
+    "item_description": "Biopsy of salivary gland; needle",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 42405,
+    "item_description": "Biopsy of salivary gland; incisional",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 42408,
+    "item_description": "Excision of sublingual salivary cyst (ranula)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42409,
+    "item_description": "Marsupialization of sublingual salivary cyst (ranula)",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 42800,
+    "item_description": "Biopsy; oropharynx",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42802,
+    "item_description": "Biopsy; hypopharynx",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42804,
+    "item_description": "Biopsy; nasopharynx, visible lesion, simple",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42806,
+    "item_description": "Biopsy; nasopharynx, survey for unknown primary\nlesion",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42808,
+    "item_description": "Excision or destruction of lesion of pharynx, any\nmethod",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42809,
+    "item_description": "Removal of foreign body from pharynx",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42860,
+    "item_description": "Excision of tonsil tags",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42870,
+    "item_description": "Excision or destruction lingual tonsil, any method",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 42955,
+    "item_description": "Pharyngostomy (fistulization of pharynx, external\nfor feeding)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 43750,
+    "item_description": "Percutaneous placement of gastrostomy tube",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 43760,
+    "item_description": "Change of gastrostomy tube",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 44500,
+    "item_description": "Introduction of long gastrointestinal tube (e.g.,\nMiller-Abbott)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 45300,
+    "item_description": "Proctosigmoidoscopy, rigid; diagnostic, w/ or w/o collection of specimen(s) by brushing or washing",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 45305,
+    "item_description": "Proctosigmoidoscopy, rigid; w/ biopsy, single or\nmultiple",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 46083,
+    "item_description": "Incision of thrombosed hemorrhoid, external",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 46600,
+    "item_description": "Anoscopy; diagnostic, w/ or w/o collection of\nspecimen(s) by brushing or washing",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 46604,
+    "item_description": "Anoscopy; w/ dilation, any method",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 46606,
+    "item_description": "Anoscopy; w/ biopsy, single or multiple",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 46608,
+    "item_description": "Anoscopy; w/ removal of foreign body",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 46610,
+    "item_description": "Anoscopy; w/ removal of single tumor, polyp, or other lesion by hot biopsy forceps or bipolar cautery",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 46614,
+    "item_description": "Anoscopy; w/ control of bleeding, any method",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 47000,
+    "item_description": "Biopsy of liver, needle; percutaneous",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 47525,
+    "item_description": "Change of percutaneous biliary drainage catheter",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 49080,
+    "item_description": "Peritoneocentesis, abdominal paracentesis, or\nperitoneal lavage (diagnostic or therapeutic)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 49320,
+    "item_description": "Laparoscopy, abdomen, peritoneum, and omentum, diagnostic, with or without collection of specimen(s) by brushing or washing",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 50200,
+    "item_description": "Renal biopsy; percutaneous, by trocar or needle",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 50390,
+    "item_description": "Aspiration and/or injection of renal cyst or pelvis by\nneedle, percutaneous",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 51010,
+    "item_description": "Aspiration of bladder; by trocar or intracatheter w/ insertion of suprapubic catheter",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 51600,
+    "item_description": "Injection procedure for cystography or voiding\nurethrocystography",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 51720,
+    "item_description": "Bladder instillation of anticarcinogenic agent",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 52265,
+    "item_description": "local anesthesia",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 52281,
+    "item_description": "Cystourethroscopy, w/  calibration and/or dilation of urethral stricture or stenosis, w/ or w/o meatotomy and injection procedure for\ncystography, male or female",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 52283,
+    "item_description": "Cystourethroscopy, w/ steroid injection into\nstricture",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 53000,
+    "item_description": "Urethrotomy or urethrostomy, external ; pendulous\nurethra",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 53020,
+    "item_description": "Meatotomy, cutting of meatus ; except infant",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53040,
+    "item_description": "Drainage of deep periurethral abscess",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 53060,
+    "item_description": "Drainage of Skenes gland abscess or cyst",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53080,
+    "item_description": "Drainage of perineal urinary extravasation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 53200,
+    "item_description": "Biopsy of urethra",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53240,
+    "item_description": "Marsupialization of urethral diverticulum, male or\nfemale",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 53260,
+    "item_description": "Excision or fulguration; urethral polyp(s), distal\nurethra",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53265,
+    "item_description": "Excision or fulguration; urethral caruncle",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53270,
+    "item_description": "Skenes glands",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 53275,
+    "item_description": "Skenes glands urethral prolapse",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 53520,
+    "item_description": "Closure of urethrostomy or urethrocutaneous\nfistula, male",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 53600,
+    "item_description": "Dilation of urethral stricture by passage of sound or\nurethral dilator, male",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 53605,
+    "item_description": "Dilation of urethral stricture or vesical neck, male, general or conduction (spinal) anesthesia",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 53665,
+    "item_description": "Dilation of female urethra, general or conduction\n(spinal) anesthesia",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 54015,
+    "item_description": "Incision and drainage of penis",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 54050,
+    "item_description": "Destruction of lesion(s), penis (e.g., condyloma, papilloma, molluscum contagiosum, herpetic\nvesicle), any method",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 54100,
+    "item_description": "Biopsy of penis",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 54110,
+    "item_description": "Excision of penile plaque (Peyronie disease);",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 54150,
+    "item_description": "Circumcision, using clamp or other device; newborn",
+    "hci_fee": 420,
+    "prof_fee": 840
+  },
+  {
+    "item_code": 54152,
+    "item_description": "Circumcision, using clamp or other device; except\nnewborn",
+    "hci_fee": 420,
+    "prof_fee": 840
+  },
+  {
+    "item_code": 54160,
+    "item_description": "Circumcision, surgical excision other than clamp,\ndevice or dorsal slit; newborn",
+    "hci_fee": 420,
+    "prof_fee": 840
+  },
+  {
+    "item_code": 54161,
+    "item_description": "Circumcision, surgical excision other than clamp,\ndevice or dorsal slit; except newborn",
+    "hci_fee": 420,
+    "prof_fee": 840
+  },
+  {
+    "item_code": 54200,
+    "item_description": "Injection procedure for Peyronie disease;",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 54205,
+    "item_description": "Injection procedure for Peyronie disease;w/ surgical\nexposure of plaque",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 54220,
+    "item_description": "Irrigation of corpora cavernosa for priapism",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 54500,
+    "item_description": "Biopsy of testis, needle",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 54505,
+    "item_description": "Biopsy of testis, incisional",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 54510,
+    "item_description": "Excision of local lesion of testis",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 54620,
+    "item_description": "Fixation of contralateral testis",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 54700,
+    "item_description": "Incision and drainage of epididymis, testis and/or scrotal space (e.g., abscess or hematoma)",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 54800,
+    "item_description": "Biopsy of epididymis, needle",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 54820,
+    "item_description": "Exploration of epididymis, w/ or w/o biopsy",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 54830,
+    "item_description": "Excision of local lesion of epidydimis",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 54840,
+    "item_description": "Excision of spermatocele, w/ or w/o\nepididymectomy",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 54860,
+    "item_description": "Epididymectomy; unilateral",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 55000,
+    "item_description": "Puncture aspiration of hydrocele, tunica vaginalis,\nw/ or w/o injection of medication",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 55100,
+    "item_description": "Drainage of scrotal wall abscess",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 55101,
+    "item_description": "Drainage and debridement of Fourniers gangrene of\nthe scrotum",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 55110,
+    "item_description": "Scrotal exploration",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 55120,
+    "item_description": "Removal of foreign body in scrotum",
+    "hci_fee": 2170,
+    "prof_fee": 706
+  },
+  {
+    "item_code": 55150,
+    "item_description": "Resection of scrotum",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 55175,
+    "item_description": "Scrotoplasty",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 55200,
+    "item_description": "Vasotomy, cannulization w/ or w/o incision of vas,\nunilateral or bilateral",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 55250,
+    "item_description": "Vasectomy, unilateral or bilateral",
+    "hci_fee": 3000,
+    "prof_fee": 1000
+  },
+  {
+    "item_code": 55700,
+    "item_description": "Biopsy, prostate; needle or punch, single or\nmultiple, any approach",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 55720,
+    "item_description": "Prostatotomy, external drainage of prostatic\nabscess, any approach",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 56405,
+    "item_description": "Incision and drainage of vulva or perineal abscess",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 56420,
+    "item_description": "Incision and drainage of Bartholins gland abscess",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 56441,
+    "item_description": "Lysis of labial adhesions",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 56501,
+    "item_description": "Destruction of lesion(s), vulva; any method",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 56605,
+    "item_description": "Biopsy of vulva or perineum ; one lesion",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 56720,
+    "item_description": "Hymenotomy, simple incision",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 57020,
+    "item_description": "Colpocentesis",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 57061,
+    "item_description": "Destruction of vaginal lesion(s)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 57100,
+    "item_description": "Biopsy of vaginal mucosa",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 57130,
+    "item_description": "Excision of vaginal septum",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 57200,
+    "item_description": "Colporrhaphy, suture of injury of vagina\n(nonobsterical)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 57452,
+    "item_description": "Colposcopy (Vaginoscopy)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 57500,
+    "item_description": "Biopsy, single or multiple, or local excision of lesion,\nw/ or w/o fulguration",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 57510,
+    "item_description": "Cauterization of cervix; any method",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 58300,
+    "item_description": "Insertion of intrauterine device (IUD)",
+    "hci_fee": 1200,
+    "prof_fee": 800
+  },
+  {
+    "item_code": 58565,
+    "item_description": "Hysteroscopy, surgical; with bilateral fallopian tube\ncannulation to induce occlusion by placement of permanent   implants",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 59401,
+    "item_description": "Routine Obstetric care including prenatal, delivery and newborn services of non-hospital facilities\n(Maternity Care Package), 1st claim",
+    "hci_fee": 3900,
+    "prof_fee": 2600
+  },
+  {
+    "item_code": 59403,
+    "item_description": "Undelivered cases (baby delivered in referral\nfacility) in non-hospital facilities",
+    "hci_fee": 650,
+    "prof_fee": 0
+  },
+  {
+    "item_code": 60000,
+    "item_description": "Incision and drainage of thyroglossal cyst, infected",
+    "hci_fee": 2100,
+    "prof_fee": 353
+  },
+  {
+    "item_code": 61000,
+    "item_description": "Subdural tap through fontanelle, or suture, infant,\nunilateral or bilateral",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 61020,
+    "item_description": "Ventricular puncture through previous burr hole,\nfontanelle, suture, or implanted ventricular catheter/reservoir",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 62270,
+    "item_description": "Spinal puncture, lumbar, diagnostic",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 62272,
+    "item_description": "Spinal puncture , therapeutic, for drainage of spinal\nfluid (by needle or catheter)",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 63650,
+    "item_description": "Percutaneous implantation of neurostimulator\nelectrodes; epidural",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64774,
+    "item_description": "Excision of neuroma; cutaneous nerve, surgically\nidentifiable",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64776,
+    "item_description": "Excision of neuroma; digital nerve, one or both,\nsame digit",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64782,
+    "item_description": "Excision of neuroma; hand or foot, except digital\nnerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64784,
+    "item_description": "Excision of neuroma; major peripheral nerve, except\nsciatic",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64788,
+    "item_description": "Excision of neurofibroma or neurolemmoma;\ncutaneous nerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64790,
+    "item_description": "Excision of neurofibroma or neurolemmoma; major\nperipheral nerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64795,
+    "item_description": "Biopsy of nerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64832,
+    "item_description": "Suture of digital nerve, hand or foot; each additional\ndigital nerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64837,
+    "item_description": "Suture of each additional nerve, hand or foot",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64859,
+    "item_description": "Suture of each additional major peripheral nerve",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64901,
+    "item_description": "Nerve graft, each additional nerve; single strand",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 64902,
+    "item_description": "Nerve graft, each additional nerve; multiple strands\n(cable)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65205,
+    "item_description": "Removal of foreign body, external eye; conjunctival,\nsuperficial",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 65210,
+    "item_description": "Removal of foreign body, external eye;\nsubconjunctival or scleral, with slit lamp",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65222,
+    "item_description": "Removal of foreign body, external eye; cornea, with\nslit lamp",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65270,
+    "item_description": "Repair of laceration; conjunctiva, w/ or w/o\nnonperforating laceration sclera, direct closure",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65273,
+    "item_description": "Repair of laceration; conjunctiva, by mobilization\nand rearrangement",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65410,
+    "item_description": "Biopsy of cornea",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65450,
+    "item_description": "Destruction of lesion of cornea by cryotherapy,\nphotocoagulation or thermocauterization",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65805,
+    "item_description": "Paracentesis of anterior chamber of eye; w/\ntherapeutic release of aqueous",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 65930,
+    "item_description": "Removal of blood clot, anterior segment eye",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 67700,
+    "item_description": "Blepharotomy, drainage of abscess, eyelid",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67710,
+    "item_description": "Severing of tarsorrhaphy",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67715,
+    "item_description": "Canthotomy",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67800,
+    "item_description": "Excision of chalazion",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67810,
+    "item_description": "Biopsy of eyelid",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67825,
+    "item_description": "Repair of trichiasis; by electroepilation,\nelectrosurgery, cryotherapy or laser surgery",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67830,
+    "item_description": "Repair of trichiasis; incision of lid margin",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 67835,
+    "item_description": "Repair of trichiasis; incision of lid margin, with free\nmucous membrane graft",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 67840,
+    "item_description": "Excision of lesion of eyelid (except chalazion)\nwithout closure or with simple direct closure",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 67875,
+    "item_description": "Temporary closure of eyelids suture (e.g., frost\nsuture)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67880,
+    "item_description": "Construction of intermargin adhesions, median\ntarsorrhaphy, or canthorrhaphy;",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67882,
+    "item_description": "Construction of intermargin adhesions, median\ntarsorrhaphy, or canthorrhaphy; with transportation of tarsal plate",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 67914,
+    "item_description": "Repair of ectropion; suture",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 67915,
+    "item_description": "Repair of ectropion; thermocauterization",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 67921,
+    "item_description": "Repair of entropion; suture",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 67922,
+    "item_description": "Repair of entropion; thermocauterization",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68100,
+    "item_description": "Biopsy of conjunctiva",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68110,
+    "item_description": "Excision of lesion, conjunctiva; up to 1 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 68115,
+    "item_description": "Excision of lesion, conjunctiva; over 1 cm",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 68130,
+    "item_description": "Excision of lesion, conjunctiva; with adjacent sclera",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 68400,
+    "item_description": "Incision, drainage of lacrimal gland",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68420,
+    "item_description": "Incision, drainage of lacrimal sac\n(dacryocystostomy)",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68440,
+    "item_description": "Snip incision of lacrimal punctum",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68510,
+    "item_description": "Biopsy of lacrimal gland",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68525,
+    "item_description": "Biopsy of lacrimal sac",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68530,
+    "item_description": "Removal of foreign body or dacryolith, lacrimal\npassages",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 68705,
+    "item_description": "Correction of everted punctum, cautery",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 68760,
+    "item_description": "Closure of the lacrimal punctum; by\nthermocauterization, ligation, or laser surgery",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 68811,
+    "item_description": "Probing of nasolacrimal duct; requiring general\nanesthesia",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 69000,
+    "item_description": "Drainage external ear, abscess or hematoma",
+    "hci_fee": 2100,
+    "prof_fee": 470
+  },
+  {
+    "item_code": 69020,
+    "item_description": "Drainage external auditory canal, abscess",
+    "hci_fee": 2254,
+    "prof_fee": 176
+  },
+  {
+    "item_code": 69100,
+    "item_description": "Biopsy external ear",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 69105,
+    "item_description": "Biopsy external auditory canal",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 69200,
+    "item_description": "Removal foreign body from external auditory canal;\nw/ general anesthesia",
+    "hci_fee": 5040,
+    "prof_fee": 1470
+  },
+  {
+    "item_code": 69220,
+    "item_description": "Debridement, mastoidectomy cavity, simple (e.g.,\nroutine cleaning)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 69400,
+    "item_description": "Eustachian tube inflation, transnasal; w/\ncatheterization",
+    "hci_fee": 3010,
+    "prof_fee": 1058
+  },
+  {
+    "item_code": 69405,
+    "item_description": "Eustachian tube catheterization, transtympanic",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 69420,
+    "item_description": "Myringotomy including aspiration and/or\neustachian tube inflation",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 69421,
+    "item_description": "Myringotomy including aspiration and/or\neustachian tube inflation requiring general anesthesia",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 69540,
+    "item_description": "Excision aural polyp",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 70010,
+    "item_description": "Myelography, brain, including spinal puncture and radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 70390,
+    "item_description": "Sialography; including duct catheterization and\nradiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 71090,
+    "item_description": "Insertion pacemaker, fluoroscopy and radiography, radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 72240,
+    "item_description": "Myelography, spine, including spinal puncture and radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 74300,
+    "item_description": "Cholangiography and/or pancreatography, intraoperative, radiological supervision and\ninterpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 74328,
+    "item_description": "Endoscopic catheterization of the biliary ductal system, radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 74329,
+    "item_description": "Endoscopic catheterization of the pancreatic ductal system, radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 74330,
+    "item_description": "Combined endoscopic catheterization of the biliary and pancreatic ductal system, radiological\nsupervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 74742,
+    "item_description": "Transcervical catheterization of fallopian tube,\nradiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 75984,
+    "item_description": "Change of percutaneous tube or drainage  catheter with contrast monitoring (e.g., gastrointestinal system, genitourinary system, abscess),  radiologic supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 75989,
+    "item_description": "Radiological guidance for percutaneous drainage (abscess, cyst, fluid collection), with placement of catheter and radiological supervision and\ninterpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76003,
+    "item_description": "Fluoroscopic guidance for needle placement (e.g., biopsy, aspiration, injection, localization device)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76080,
+    "item_description": "Radiologic examination, abscess, fistula or sinus tract study, including catheterization of lesion and radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76086,
+    "item_description": "Mammary ductogram or galactogram, 1 or multiple duct, injection and radiological supervision and\ninterpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76095,
+    "item_description": "Stereotactic localization guidance for breast biopsy or needle placement (e.g.,  for wire localization or for injection), one or more lesion, radiological supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76096,
+    "item_description": "Mammographic guidance for needle placement, breast (e.g.,  for wire localization or for injection), each lesion, radiological supervision and\ninterpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76355,
+    "item_description": "Computed tomography guidance for stereotactic\nlocalization",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76360,
+    "item_description": "Computed tomography guidance for needle placement (e.g., biopsy, aspiration, injection, localization device), radiological supervision and\ninterpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76362,
+    "item_description": "Computed tomography guidance for visceral tissue\nablation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76393,
+    "item_description": "Magnetic resonance guidance for needle placement (e.g., for biopsy, needle aspiration, injection, or placement of localization device) radiological\nsupervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76394,
+    "item_description": "Magnetic resonance guidance for visceral tissue\nablation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76930,
+    "item_description": "Ultrasonic guidance for pericardiocentesis, imaging\nsupervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76932,
+    "item_description": "Ultrasonic guidance for endomyocardial biopsy,\nimaging supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76936,
+    "item_description": "Ultrasound guided compression repair of arterial pseudoaneurysm or arteriovenous fistulae (includes diagnostic ultrasound evaluation, compression of\nlesion and imaging)",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76940,
+    "item_description": "Ultrasonic guidance for visceral tissue ablation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76942,
+    "item_description": "Ultrasonic guidance for needle placement (e.g., biopsy, aspiration, injection, localization device),\nimaging supervision and interpretation",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76965,
+    "item_description": "Ultrasonic guidance for interstitial radioelement\napplication",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 76986,
+    "item_description": "Ultrasonic guidance, intraoperative",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 77401,
+    "item_description": "Radiation treatment delivery (Cobalt)",
+    "hci_fee": 1200,
+    "prof_fee": 800
+  },
+  {
+    "item_code": 77418,
+    "item_description": "Intensity modulated treatment delivery, single or multiple fields/arcs, via narrow spatially and temporally modulated beams, binary, dynamic MLC\nper session",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 77750,
+    "item_description": "Infusion or instillation of radioelement solution",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 77781,
+    "item_description": "Remote after loading high intensity brachytherapy (RAHIB); 1 or more source position or catheters per\nsession",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 79000,
+    "item_description": "Radiopharmaceutical (radioactive iodine) therapy",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 79005,
+    "item_description": "Radiopharmaceutical ablation of gland for thyroid carcinoma or metastases of thyroid carcinoma",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 79403,
+    "item_description": "Radiopharmaceutical therapy, by radiolabeled\nmonoclonal antibody by intravenous infusion",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 79440,
+    "item_description": "Radiopharmaceutical therapy, by intra-articular\nadministration",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 79445,
+    "item_description": "Radiopharmaceutical therapy, by intra-arterial\nparticulate administration",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 87207,
+    "item_description": "Outpatient Malaria Package",
+    "hci_fee": 600,
+    "prof_fee": 0
+  },
+  {
+    "item_code": 88174,
+    "item_description": "Evaluation of aspirate (CT-guided biopsy) with or without preparation of smears; immediate cytologic study to determine adequacy of specimen(s),\ninterpretation and report",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 88331,
+    "item_description": "Pathology consultation during surgery; with frozen\nsection(s), single block",
+    "hci_fee": 2800,
+    "prof_fee": 1176
+  },
+  {
+    "item_code": 89221,
+    "item_description": "Directly Observed Treatment Short-course;\nintensive phase",
+    "hci_fee": 2500,
+    "prof_fee": 0
+  },
+  {
+    "item_code": 89222,
+    "item_description": "Directly Observed Treatment Short-course;\nmaintenance phase",
+    "hci_fee": 1500,
+    "prof_fee": 0
+  },
+  {
+    "item_code": 90375,
+    "item_description": "Animal bite",
+    "hci_fee": 3000,
+    "prof_fee": ""
+  },
+  {
+    "item_code": 90935,
+    "item_description": "Hemodialysis procedure",
+    "hci_fee": 2250,
+    "prof_fee": 350
+  },
+  {
+    "item_code": 90945,
+    "item_description": "Dialysis procedure other than hemodialysis (e.g.\nperitoneal, hemofiltration)",
+    "hci_fee": 2250,
+    "prof_fee": 350
+  },
+  {
+    "item_code": 96408,
+    "item_description": "Chemotherapy  administration",
+    "hci_fee": 5600,
+    "prof_fee": 1680
+  },
+  {
+    "item_code": 96440,
+    "item_description": "Chemotherapy administration into pleural cavity,\nrequiring and including thoracentesis",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 96445,
+    "item_description": "Chemotherapy administration into peritoneal cavity, requiring and including peritoneocentesis",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 96450,
+    "item_description": "Chemotherapy administration into CNS, requiring\nand including spinal puncture",
+    "hci_fee": 3010,
+    "prof_fee": 882
+  },
+  {
+    "item_code": 96542,
+    "item_description": "Chemotherapy injection, subarachnoid or\ninterventricular via subcutaneous reservoir",
+    "hci_fee": 1960,
+    "prof_fee": 588
+  },
+  {
+    "item_code": 96567,
+    "item_description": "Photodynamic therapy by external application of light to destroy premalignant and/or malignant lesions of the skin and adjacent mucosa (e.g., lip) by activation of photosensitive drug(s), 1 or more phototherapy exposure session",
+    "hci_fee": 3850,
+    "prof_fee": 1764
+  },
+  {
+    "item_code": 99432,
+    "item_description": "Normal newborn care package",
+    "hci_fee": 1250,
+    "prof_fee": 500
+  },
+  {
+    "item_code": "P00001",
+    "item_description": "Referral package",
+    "hci_fee": 0,
+    "prof_fee": 0
+  }
+]

@@ -1,0 +1,13 @@
+#import "../fragments/PersonDataFragment.gql"
+
+mutation CreatePerson(
+  $person: PersonInput!
+  $member: MemberInput
+) {
+  createPerson(
+    person: $person
+    member: $member
+  ) {
+    ...PersonData
+  }
+}

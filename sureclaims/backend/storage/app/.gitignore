@@ -1,0 +1,4 @@
+*
+!public/
+!tenancy/tenants/example/
+!.gitignore

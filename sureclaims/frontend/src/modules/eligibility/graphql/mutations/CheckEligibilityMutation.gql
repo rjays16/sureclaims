@@ -1,0 +1,21 @@
+#import "../fragments/EligibilityDataFragment.gql"
+
+mutation CheckEligibility(
+  $patient: String!
+  $confinementDates: [String]
+  $rvs: String
+  $actualAmount: Float!
+  $claimAmount: Float!
+  $isFinal: Boolean!
+) {
+  checkEligibility(
+    patient: $patient
+    confinementDates: $confinementDates
+    rvs: $rvs
+    actualAmount: $actualAmount
+    claimAmount: $claimAmount
+    isFinal: $isFinal
+  ) {
+    ...EligibilityData
+  }
+}

@@ -1,0 +1,14 @@
+#import "@/modules/core/graphql/fragments/HciDataFragment.gql"
+
+query Hcis(
+  $search: String
+  $pageSize: Int
+
+) {
+  hcis(
+    search: $search
+    pageSize: $pageSize
+  ) {
+    ...HciData
+  }
+}

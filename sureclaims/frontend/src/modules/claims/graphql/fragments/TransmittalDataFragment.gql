@@ -1,0 +1,18 @@
+fragment TransmittalData on Transmittal {
+  id
+  transmittalNo
+  transmittalControlCode
+  transmitDate
+  transmitTime
+  receiptTicketNo
+  status
+  notes
+  transmitErrors
+  autoTransmit
+  isValid
+  createdAt
+  updatedAt
+  createdBy
+  updatedBy
+  __typename
+}

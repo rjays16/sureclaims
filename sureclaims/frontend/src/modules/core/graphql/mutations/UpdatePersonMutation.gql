@@ -1,0 +1,15 @@
+#import "../fragments/PersonDataFragment.gql"
+
+mutation UpdatePerson(
+  $id: ID!
+  $person: PersonInput!
+  $member: MemberInput
+) {
+  updatePerson(
+    id: $id
+    person: $person
+    member: $member
+  ) {
+    ...PersonData
+  }
+}
